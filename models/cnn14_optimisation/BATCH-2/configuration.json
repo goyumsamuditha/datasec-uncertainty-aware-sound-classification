@@ -1,0 +1,18 @@
+{
+  "experiment_id": "BATCH-2",
+  "optimizer": "adamw",
+  "learning_rate": 0.0001,
+  "batch_size": 2,
+  "fine_tune_depth": 1,
+  "fine_tune_definition": "conv_block6",
+  "epochs": 10,
+  "seed": 42,
+  "momentum": null,
+  "weight_decay": 0.0001,
+  "subclass_loss_weight": 1.0,
+  "data_partitions": [
+    "train",
+    "validation"
+  ],
+  "test_partition_accessed": false
+}

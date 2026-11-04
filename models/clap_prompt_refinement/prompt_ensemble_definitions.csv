@@ -1,0 +1,67 @@
+class_id,class_name,prompt_number,prompt
+0,Bells,1,The sound of bells ringing clearly.
+0,Bells,2,"A recording of bell tones, chimes and repeated bell strikes."
+0,Bells,3,The sound of a bell being struck and resonating.
+1,Birds,1,The sound of birds singing and calling outdoors.
+1,Birds,2,A recording of individual birds chirping and tweeting.
+1,Birds,3,Bird calls and bird songs in a natural environment.
+2,Cat fights and moans,1,"The sound of cats fighting, growling and hissing."
+2,Cat fights and moans,2,"Cats yowling, moaning and making distressed vocal sounds."
+2,Cat fights and moans,3,A recording of aggressive cat vocalisations.
+3,Chicken coop,1,"The sound of chickens clucking, cackling and squawking."
+3,Chicken coop,2,A recording of poultry making repeated chicken calls in a coop.
+3,Chicken coop,3,"Chickens clucking and moving around in a poultry enclosure, rather than people speaking."
+4,Cicadas and crickets,1,The sound of cicadas buzzing and calling.
+4,Cicadas and crickets,2,Crickets chirping repeatedly outdoors.
+4,Cicadas and crickets,3,"A recording of insect sounds, including cicada and cricket calls."
+5,Crows seagulls and magpies,1,"The sound of crows, seagulls and magpies calling."
+5,Crows seagulls and magpies,2,"A recording of loud cawing, gull calls and magpie vocalisations."
+5,Crows seagulls and magpies,3,"Bird calls from crows, seagulls or magpies."
+6,Dog barkings and howlings,1,The sound of dogs barking and howling.
+6,Dog barkings and howlings,2,"A recording of dog growls, barks and howls."
+6,Dog barkings and howlings,3,Dogs making repeated vocal sounds.
+7,Glass breaking,1,The sound of glass breaking and shattering.
+7,Glass breaking,2,A recording of glass objects crashing and fragments scattering.
+7,Glass breaking,3,Sharp impacts followed by the sound of broken glass.
+8,Horn,1,The sound of a vehicle horn honking.
+8,Horn,2,A recording of short or sustained vehicle horn blasts.
+8,Horn,3,A loud warning horn sounding from a vehicle.
+9,Jet aircrafts,1,The sound of a jet aircraft flying overhead.
+9,Jet aircrafts,2,A recording of jet engines producing a loud aircraft roar.
+9,Jet aircrafts,3,The sound of a jet-powered aeroplane passing through the sky.
+10,Lawn mower brush cutter and olive shaker,1,The sound of a lawn mower cutting grass.
+10,Lawn mower brush cutter and olive shaker,2,A recording of a brush cutter or grass trimmer operating.
+10,Lawn mower brush cutter and olive shaker,3,The sound of an olive shaker or powered agricultural cutting equipment.
+11,Music,1,The sound of music being played.
+11,Music,2,"A recording of musical instruments, melodies or songs."
+11,Music,3,Music with rhythmic and melodic sounds.
+12,Propeller aircrafts,1,The sound of a propeller-driven aeroplane flying overhead.
+12,Propeller aircrafts,2,A recording of an aircraft with a rotating propeller and engine.
+12,Propeller aircrafts,3,The sound of an aeroplane or helicopter producing propeller noise.
+13,Sirens and alarms,1,The sound of emergency sirens or warning alarms.
+13,Sirens and alarms,2,A recording of repeated electronic alarm tones or a rising and falling siren.
+13,Sirens and alarms,3,Loud warning signals produced by sirens and alarms.
+14,Thunder fireworks and gunshot,1,"The sound of thunder, fireworks or gunshots."
+14,Thunder fireworks and gunshot,2,"A recording of explosive bangs, thunderclaps and sharp gunfire."
+14,Thunder fireworks and gunshot,3,Sudden loud explosive sounds such as fireworks and gunshots.
+15,Train,1,The sound of a train travelling along railway tracks.
+15,Train,2,A recording of a moving train with rail and wheel noise.
+15,Train,3,"Train movement, including rolling wheels and railway sounds."
+16,Vacuum cleaner fan and hairdryer,1,The sound of a vacuum cleaner operating.
+16,Vacuum cleaner fan and hairdryer,2,A recording of a fan or hairdryer producing continuous airflow noise.
+16,Vacuum cleaner fan and hairdryer,3,The steady mechanical and airflow noise of household electrical appliances.
+17,Vehicle idling,1,The sound of a stationary vehicle engine idling.
+17,Vehicle idling,2,"A recording of a car, truck or motorbike engine running while the vehicle is stopped."
+17,Vehicle idling,3,An engine running at idle speed without the vehicle passing by.
+18,Vehicle pass-by,1,The sound of a vehicle driving past the recording location.
+18,Vehicle pass-by,2,"A recording of a passing car, truck or motorbike."
+18,Vehicle pass-by,3,The changing engine and tyre noise of a moving vehicle passing by.
+19,Voices,1,The sound of people speaking and talking.
+19,Voices,2,"A recording of human speech, conversations and spoken voices."
+19,Voices,3,"People talking, conversing or speaking, rather than animal calls."
+20,Wind turbine,1,"The sound of a wind turbine operating, with rotating blades and mechanical noise."
+20,Wind turbine,2,A recording of wind turbine blade rotation and turbine machinery.
+20,Wind turbine,3,"The steady mechanical sound of a wind power generator operating, not an aircraft."
+21,Workshop,1,The sound of machinery and tools operating in a workshop.
+21,Workshop,2,"A recording of drills, grinders, saws and jackhammers being used."
+21,Workshop,3,Workshop equipment such as air compressors and power tools operating.

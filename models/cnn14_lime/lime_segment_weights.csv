@@ -1,0 +1,193 @@
+relative_path,actual_class,predicted_class,segment_id,lime_weight,rank_by_absolute_weight,mel_bin_start,mel_bin_end,time_start_seconds,time_end_seconds
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,1,0.09054334796267524,1,0.0,16.0,1.25,2.5
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,12,0.07346670551524488,2,16.0,32.0,5.0,6.25
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,7,0.07017015428404758,3,0.0,16.0,8.75,10.0
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,4,0.06126887213048718,4,0.0,16.0,5.0,6.25
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,0,0.05994027087309276,5,0.0,16.0,0.0,1.25
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,5,0.057980949236720536,6,0.0,16.0,6.25,7.5
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,8,0.05602932220820601,7,16.0,32.0,0.0,1.25
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,15,0.0547819022309476,8,16.0,32.0,8.75,10.0
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,9,0.05142647438296045,9,16.0,32.0,1.25,2.5
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,3,0.04833736581201296,10,0.0,16.0,3.75,5.0
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,6,0.04531797609370788,11,0.0,16.0,7.5,8.75
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,2,0.04138693671345092,12,0.0,16.0,2.5,3.75
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,16,0.041106094890765804,13,32.0,48.0,0.0,1.25
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,13,0.03476683515935038,14,16.0,32.0,6.25,7.5
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,25,0.03375952427984032,15,48.0,64.0,1.25,2.5
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,17,0.03304849199212961,16,32.0,48.0,1.25,2.5
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,27,-0.03215681909017553,17,48.0,64.0,3.75,5.0
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,18,0.030896596619460502,18,32.0,48.0,2.5,3.75
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,23,0.028385174472384322,19,32.0,48.0,8.75,10.0
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,14,0.02796860178296561,20,16.0,32.0,7.5,8.75
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,22,0.02601333751163711,21,32.0,48.0,7.5,8.75
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,30,0.024313311057190375,22,48.0,64.0,7.5,8.75
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,11,0.019655170398641918,23,16.0,32.0,3.75,5.0
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,19,0.01656867703092675,24,32.0,48.0,3.75,5.0
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,24,0.016480291782896252,25,48.0,64.0,0.0,1.25
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,31,-0.01341015170884164,26,48.0,64.0,8.75,10.0
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,10,0.006198332238716027,27,16.0,32.0,2.5,3.75
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,20,-0.005524780287506983,28,32.0,48.0,5.0,6.25
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,21,-0.004883759373425118,29,32.0,48.0,6.25,7.5
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,28,0.0034727904839070003,30,48.0,64.0,5.0,6.25
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,26,0.003442173442785394,31,48.0,64.0,2.5,3.75
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,29,0.00035802200976854995,32,48.0,64.0,6.25,7.5
+Voices\Voices-0382.wav,Voices,Voices,0,0.05143463933050668,1,0.0,16.0,0.0,1.25
+Voices\Voices-0382.wav,Voices,Voices,3,0.0467582206448276,2,0.0,16.0,3.75,5.0
+Voices\Voices-0382.wav,Voices,Voices,11,0.04450300689302397,3,16.0,32.0,3.75,5.0
+Voices\Voices-0382.wav,Voices,Voices,1,0.04072467013580752,4,0.0,16.0,1.25,2.5
+Voices\Voices-0382.wav,Voices,Voices,8,0.03846855373527691,5,16.0,32.0,0.0,1.25
+Voices\Voices-0382.wav,Voices,Voices,9,0.026761509389697118,6,16.0,32.0,1.25,2.5
+Voices\Voices-0382.wav,Voices,Voices,16,0.024904594617098947,7,32.0,48.0,0.0,1.25
+Voices\Voices-0382.wav,Voices,Voices,25,0.021581450750149056,8,48.0,64.0,1.25,2.5
+Voices\Voices-0382.wav,Voices,Voices,2,0.01614143974925465,9,0.0,16.0,2.5,3.75
+Voices\Voices-0382.wav,Voices,Voices,18,0.015794106710419087,10,32.0,48.0,2.5,3.75
+Voices\Voices-0382.wav,Voices,Voices,10,0.015263815149246112,11,16.0,32.0,2.5,3.75
+Voices\Voices-0382.wav,Voices,Voices,19,0.014651892029671239,12,32.0,48.0,3.75,5.0
+Voices\Voices-0382.wav,Voices,Voices,29,-0.011309012366876819,13,48.0,64.0,6.25,7.5
+Voices\Voices-0382.wav,Voices,Voices,15,-0.009029101048840487,14,16.0,32.0,8.75,10.0
+Voices\Voices-0382.wav,Voices,Voices,4,-0.00799436972348444,15,0.0,16.0,5.0,6.25
+Voices\Voices-0382.wav,Voices,Voices,27,0.007929369673781952,16,48.0,64.0,3.75,5.0
+Voices\Voices-0382.wav,Voices,Voices,17,0.007384049798575604,17,32.0,48.0,1.25,2.5
+Voices\Voices-0382.wav,Voices,Voices,7,0.0070380018625433825,18,0.0,16.0,8.75,10.0
+Voices\Voices-0382.wav,Voices,Voices,23,0.006761419027006747,19,32.0,48.0,8.75,10.0
+Voices\Voices-0382.wav,Voices,Voices,12,0.004543530288467846,20,16.0,32.0,5.0,6.25
+Voices\Voices-0382.wav,Voices,Voices,30,-0.003971681195185092,21,48.0,64.0,7.5,8.75
+Voices\Voices-0382.wav,Voices,Voices,21,-0.0037697495867680857,22,32.0,48.0,6.25,7.5
+Voices\Voices-0382.wav,Voices,Voices,26,0.0035576793340830123,23,48.0,64.0,2.5,3.75
+Voices\Voices-0382.wav,Voices,Voices,31,0.0031206566168508983,24,48.0,64.0,8.75,10.0
+Voices\Voices-0382.wav,Voices,Voices,14,-0.0025711038111704367,25,16.0,32.0,7.5,8.75
+Voices\Voices-0382.wav,Voices,Voices,22,0.0025211899252732435,26,32.0,48.0,7.5,8.75
+Voices\Voices-0382.wav,Voices,Voices,20,-0.002096684546213954,27,32.0,48.0,5.0,6.25
+Voices\Voices-0382.wav,Voices,Voices,13,0.0016788620395193578,28,16.0,32.0,6.25,7.5
+Voices\Voices-0382.wav,Voices,Voices,6,-0.0015231610779587706,29,0.0,16.0,7.5,8.75
+Voices\Voices-0382.wav,Voices,Voices,24,-0.0015201698945097192,30,48.0,64.0,0.0,1.25
+Voices\Voices-0382.wav,Voices,Voices,5,-0.000838707656245782,31,0.0,16.0,6.25,7.5
+Voices\Voices-0382.wav,Voices,Voices,28,-0.00019943068477347898,32,48.0,64.0,5.0,6.25
+Voices\Voices-1253.wav,Voices,Voices,3,0.13927634521075172,1,0.0,16.0,3.75,5.0
+Voices\Voices-1253.wav,Voices,Voices,0,0.13505665635460073,2,0.0,16.0,0.0,1.25
+Voices\Voices-1253.wav,Voices,Voices,1,0.07644625303834629,3,0.0,16.0,1.25,2.5
+Voices\Voices-1253.wav,Voices,Voices,2,0.06690561146508653,4,0.0,16.0,2.5,3.75
+Voices\Voices-1253.wav,Voices,Voices,16,0.04574678226894914,5,32.0,48.0,0.0,1.25
+Voices\Voices-1253.wav,Voices,Voices,26,0.040258057083916554,6,48.0,64.0,2.5,3.75
+Voices\Voices-1253.wav,Voices,Voices,8,0.030853278647552745,7,16.0,32.0,0.0,1.25
+Voices\Voices-1253.wav,Voices,Voices,15,-0.02946975781924951,8,16.0,32.0,8.75,10.0
+Voices\Voices-1253.wav,Voices,Voices,18,0.029014728497169084,9,32.0,48.0,2.5,3.75
+Voices\Voices-1253.wav,Voices,Voices,24,0.0259024888879506,10,48.0,64.0,0.0,1.25
+Voices\Voices-1253.wav,Voices,Voices,11,0.023684227205068846,11,16.0,32.0,3.75,5.0
+Voices\Voices-1253.wav,Voices,Voices,19,0.023148995222357135,12,32.0,48.0,3.75,5.0
+Voices\Voices-1253.wav,Voices,Voices,25,-0.02190527761678937,13,48.0,64.0,1.25,2.5
+Voices\Voices-1253.wav,Voices,Voices,27,-0.01934202747525232,14,48.0,64.0,3.75,5.0
+Voices\Voices-1253.wav,Voices,Voices,14,-0.015193496842107643,15,16.0,32.0,7.5,8.75
+Voices\Voices-1253.wav,Voices,Voices,10,0.01281810097675195,16,16.0,32.0,2.5,3.75
+Voices\Voices-1253.wav,Voices,Voices,4,0.011725126624756818,17,0.0,16.0,5.0,6.25
+Voices\Voices-1253.wav,Voices,Voices,22,0.0111437835508403,18,32.0,48.0,7.5,8.75
+Voices\Voices-1253.wav,Voices,Voices,29,-0.010096599622786372,19,48.0,64.0,6.25,7.5
+Voices\Voices-1253.wav,Voices,Voices,21,-0.010020127360087238,20,32.0,48.0,6.25,7.5
+Voices\Voices-1253.wav,Voices,Voices,5,-0.008702684771320657,21,0.0,16.0,6.25,7.5
+Voices\Voices-1253.wav,Voices,Voices,30,0.008008700086935173,22,48.0,64.0,7.5,8.75
+Voices\Voices-1253.wav,Voices,Voices,6,-0.006028313991823655,23,0.0,16.0,7.5,8.75
+Voices\Voices-1253.wav,Voices,Voices,9,0.005408981906272242,24,16.0,32.0,1.25,2.5
+Voices\Voices-1253.wav,Voices,Voices,28,-0.004163763582686253,25,48.0,64.0,5.0,6.25
+Voices\Voices-1253.wav,Voices,Voices,20,0.004017726264661255,26,32.0,48.0,5.0,6.25
+Voices\Voices-1253.wav,Voices,Voices,23,0.003342877146659911,27,32.0,48.0,8.75,10.0
+Voices\Voices-1253.wav,Voices,Voices,12,-0.0033096601849177108,28,16.0,32.0,5.0,6.25
+Voices\Voices-1253.wav,Voices,Voices,17,0.0021530949773631678,29,32.0,48.0,1.25,2.5
+Voices\Voices-1253.wav,Voices,Voices,7,0.0020454851947620274,30,0.0,16.0,8.75,10.0
+Voices\Voices-1253.wav,Voices,Voices,13,0.000946970486887381,31,16.0,32.0,6.25,7.5
+Voices\Voices-1253.wav,Voices,Voices,31,-0.00015635280264694962,32,48.0,64.0,8.75,10.0
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,0,0.08355017441366187,1,0.0,16.0,0.0,1.25
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,27,0.06349925039554902,2,48.0,64.0,3.75,5.0
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,16,0.06335975101952325,3,32.0,48.0,0.0,1.25
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,1,0.05499446997583783,4,0.0,16.0,1.25,2.5
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,28,0.04376993506683155,5,48.0,64.0,5.0,6.25
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,8,0.040527911117373826,6,16.0,32.0,0.0,1.25
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,9,0.036266409955965036,7,16.0,32.0,1.25,2.5
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,12,-0.035831413328041455,8,16.0,32.0,5.0,6.25
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,17,0.028016172354786748,9,32.0,48.0,1.25,2.5
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,2,0.025413780205847163,10,0.0,16.0,2.5,3.75
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,20,-0.020852774191539594,11,32.0,48.0,5.0,6.25
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,3,0.016334230186980214,12,0.0,16.0,3.75,5.0
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,10,-0.015919986539879992,13,16.0,32.0,2.5,3.75
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,19,-0.013863405056340674,14,32.0,48.0,3.75,5.0
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,24,-0.010587358493052411,15,48.0,64.0,0.0,1.25
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,4,0.010124767462157677,16,0.0,16.0,5.0,6.25
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,11,0.007800541116642685,17,16.0,32.0,3.75,5.0
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,31,0.007613427689446102,18,48.0,64.0,8.75,10.0
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,14,0.007553244490741486,19,16.0,32.0,7.5,8.75
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,26,0.007462511386654728,20,48.0,64.0,2.5,3.75
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,7,-0.006851476711364331,21,0.0,16.0,8.75,10.0
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,23,0.006045512726956901,22,32.0,48.0,8.75,10.0
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,13,-0.0056714678454283084,23,16.0,32.0,6.25,7.5
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,25,0.004836505204409783,24,48.0,64.0,1.25,2.5
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,22,0.003835046064056626,25,32.0,48.0,7.5,8.75
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,21,-0.0032990943126457017,26,32.0,48.0,6.25,7.5
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,18,0.0032017408566694366,27,32.0,48.0,2.5,3.75
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,5,0.001827911802750876,28,0.0,16.0,6.25,7.5
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,30,0.0017910574076060455,29,48.0,64.0,7.5,8.75
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,15,-0.0017069748554387556,30,16.0,32.0,8.75,10.0
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,6,0.0009447603411985737,31,0.0,16.0,7.5,8.75
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,29,2.2291725451410048e-05,32,48.0,64.0,6.25,7.5
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,2,0.006222250862623218,1,0.0,16.0,2.5,3.75
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,13,0.005955070633715906,2,16.0,32.0,6.25,7.5
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,0,0.005760924403149895,3,0.0,16.0,0.0,1.25
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,1,0.005334913421087234,4,0.0,16.0,1.25,2.5
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,11,0.0052881939539500735,5,16.0,32.0,3.75,5.0
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,30,0.0050332536151616305,6,48.0,64.0,7.5,8.75
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,12,0.004911533211384652,7,16.0,32.0,5.0,6.25
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,21,0.0045612966638648575,8,32.0,48.0,6.25,7.5
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,23,-0.004510353229781678,9,32.0,48.0,8.75,10.0
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,28,0.004471889405280577,10,48.0,64.0,5.0,6.25
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,9,0.004343777216545303,11,16.0,32.0,1.25,2.5
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,31,-0.004046511977053893,12,48.0,64.0,8.75,10.0
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,29,-0.00403592224689463,13,48.0,64.0,6.25,7.5
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,16,0.003927892517432966,14,32.0,48.0,0.0,1.25
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,17,0.003879161931158702,15,32.0,48.0,1.25,2.5
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,8,0.003672689028322115,16,16.0,32.0,0.0,1.25
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,14,0.003499981974793754,17,16.0,32.0,7.5,8.75
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,4,0.0034269701242440665,18,0.0,16.0,5.0,6.25
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,20,-0.003311123031165315,19,32.0,48.0,5.0,6.25
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,24,-0.003231468023593793,20,48.0,64.0,0.0,1.25
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,5,0.003066685255296574,21,0.0,16.0,6.25,7.5
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,18,0.002644264398776384,22,32.0,48.0,2.5,3.75
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,27,-0.0025685645501496938,23,48.0,64.0,3.75,5.0
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,7,-0.002280533031408169,24,0.0,16.0,8.75,10.0
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,3,0.0018533579108491096,25,0.0,16.0,3.75,5.0
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,10,-0.0016380078539501805,26,16.0,32.0,2.5,3.75
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,25,0.0014518303849880578,27,48.0,64.0,1.25,2.5
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,15,0.0012185946793488072,28,16.0,32.0,8.75,10.0
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,26,-0.00099250364944876,29,48.0,64.0,2.5,3.75
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,6,-0.0007047314494313735,30,0.0,16.0,7.5,8.75
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,19,0.0004480053199746156,31,32.0,48.0,3.75,5.0
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,22,-0.000265257123138682,32,32.0,48.0,7.5,8.75
+Voices\Voices-0840.wav,Voices,Voices,0,0.06853651096452111,1,0.0,16.0,0.0,1.25
+Voices\Voices-0840.wav,Voices,Voices,3,0.056281243824855574,2,0.0,16.0,3.75,5.0
+Voices\Voices-0840.wav,Voices,Voices,2,0.05451376527554543,3,0.0,16.0,2.5,3.75
+Voices\Voices-0840.wav,Voices,Voices,8,0.05212803832281988,4,16.0,32.0,0.0,1.25
+Voices\Voices-0840.wav,Voices,Voices,11,0.04519222044790463,5,16.0,32.0,3.75,5.0
+Voices\Voices-0840.wav,Voices,Voices,1,0.041067412981495785,6,0.0,16.0,1.25,2.5
+Voices\Voices-0840.wav,Voices,Voices,27,0.028237325123286968,7,48.0,64.0,3.75,5.0
+Voices\Voices-0840.wav,Voices,Voices,26,0.023069194250945304,8,48.0,64.0,2.5,3.75
+Voices\Voices-0840.wav,Voices,Voices,16,0.017125111660559817,9,32.0,48.0,0.0,1.25
+Voices\Voices-0840.wav,Voices,Voices,30,0.01635150698862184,10,48.0,64.0,7.5,8.75
+Voices\Voices-0840.wav,Voices,Voices,14,-0.01630532701429705,11,16.0,32.0,7.5,8.75
+Voices\Voices-0840.wav,Voices,Voices,13,-0.01273720213011657,12,16.0,32.0,6.25,7.5
+Voices\Voices-0840.wav,Voices,Voices,21,0.012356330661144048,13,32.0,48.0,6.25,7.5
+Voices\Voices-0840.wav,Voices,Voices,5,-0.012341431965815339,14,0.0,16.0,6.25,7.5
+Voices\Voices-0840.wav,Voices,Voices,19,0.011914020675417929,15,32.0,48.0,3.75,5.0
+Voices\Voices-0840.wav,Voices,Voices,24,0.009511670232739435,16,48.0,64.0,0.0,1.25
+Voices\Voices-0840.wav,Voices,Voices,18,0.009511297368731438,17,32.0,48.0,2.5,3.75
+Voices\Voices-0840.wav,Voices,Voices,17,-0.009407073033437142,18,32.0,48.0,1.25,2.5
+Voices\Voices-0840.wav,Voices,Voices,31,-0.008701509032607175,19,48.0,64.0,8.75,10.0
+Voices\Voices-0840.wav,Voices,Voices,29,-0.008050508994857956,20,48.0,64.0,6.25,7.5
+Voices\Voices-0840.wav,Voices,Voices,15,-0.007287403057875444,21,16.0,32.0,8.75,10.0
+Voices\Voices-0840.wav,Voices,Voices,25,-0.006933518911176337,22,48.0,64.0,1.25,2.5
+Voices\Voices-0840.wav,Voices,Voices,6,-0.006389337651716481,23,0.0,16.0,7.5,8.75
+Voices\Voices-0840.wav,Voices,Voices,7,0.006252721978342012,24,0.0,16.0,8.75,10.0
+Voices\Voices-0840.wav,Voices,Voices,10,0.005251455866021393,25,16.0,32.0,2.5,3.75
+Voices\Voices-0840.wav,Voices,Voices,12,0.0035869408907423595,26,16.0,32.0,5.0,6.25
+Voices\Voices-0840.wav,Voices,Voices,22,0.003056380301901523,27,32.0,48.0,7.5,8.75
+Voices\Voices-0840.wav,Voices,Voices,23,-0.0013190996728482292,28,32.0,48.0,8.75,10.0
+Voices\Voices-0840.wav,Voices,Voices,20,0.001184686587819193,29,32.0,48.0,5.0,6.25
+Voices\Voices-0840.wav,Voices,Voices,4,-0.0009305604197225115,30,0.0,16.0,5.0,6.25
+Voices\Voices-0840.wav,Voices,Voices,9,-0.0008275663680944749,31,16.0,32.0,1.25,2.5
+Voices\Voices-0840.wav,Voices,Voices,28,1.2364692152120318e-05,32,48.0,64.0,5.0,6.25

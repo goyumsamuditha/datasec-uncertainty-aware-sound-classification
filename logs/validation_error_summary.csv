@@ -1,0 +1,26 @@
+actual_class,predicted_class,error_count
+Lawn mower brush cutter and olive shaker,Vehicle idling,4
+Propeller aircrafts,Jet aircrafts,4
+Vehicle pass-by,Propeller aircrafts,3
+Train,Vehicle pass-by,3
+Jet aircrafts,Train,2
+Lawn mower brush cutter and olive shaker,Vacuum cleaner fan and hairdryer,2
+Vacuum cleaner fan and hairdryer,Vehicle idling,2
+Horn,Sirens and alarms,1
+Vehicle idling,Thunder fireworks and gunshot,1
+Vehicle pass-by,Vehicle idling,1
+Vehicle pass-by,Vacuum cleaner fan and hairdryer,1
+Vehicle pass-by,Train,1
+Vehicle pass-by,Horn,1
+Vehicle idling,Vehicle pass-by,1
+Vehicle idling,Train,1
+Train,Vacuum cleaner fan and hairdryer,1
+Vacuum cleaner fan and hairdryer,Vehicle pass-by,1
+Jet aircrafts,Propeller aircrafts,1
+Train,Jet aircrafts,1
+Thunder fireworks and gunshot,Vehicle pass-by,1
+Sirens and alarms,Workshop,1
+Music,Train,1
+Music,Horn,1
+Music,Bells,1
+Workshop,Vacuum cleaner fan and hairdryer,1

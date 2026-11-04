@@ -1,0 +1,644 @@
+relative_path,actual_class,predicted_class,correct
+Bells\Bells-0005.wav,Bells,Sirens and alarms,False
+Bells\Bells-0006.wav,Bells,Sirens and alarms,False
+Bells\Bells-0013.wav,Bells,Bells,True
+Bells\Bells-0026.wav,Bells,Bells,True
+Bells\Bells-0029.wav,Bells,Bells,True
+Bells\Bells-0031.wav,Bells,Bells,True
+Bells\Bells-0046.wav,Bells,Sirens and alarms,False
+Bells\Bells-0055.wav,Bells,Sirens and alarms,False
+Bells\Bells-0062.wav,Bells,Bells,True
+Bells\Bells-0063.wav,Bells,Bells,True
+Birds\Birds-0011.wav,Birds,Birds,True
+Birds\Birds-0013.wav,Birds,Birds,True
+Birds\Birds-0017.wav,Birds,Birds,True
+Birds\Birds-0032.wav,Birds,Birds,True
+Birds\Birds-0034.wav,Birds,Birds,True
+Birds\Birds-0047.wav,Birds,Birds,True
+Birds\Birds-0048.wav,Birds,Birds,True
+Birds\Birds-0054.wav,Birds,Birds,True
+Birds\Birds-0060.wav,Birds,Sirens and alarms,False
+Birds\Birds-0069.wav,Birds,Birds,True
+Cat fights and moans\Cat fights and moans-0004.wav,Cat fights and moans,Horn,False
+Cat fights and moans\Cat fights and moans-0013.wav,Cat fights and moans,Cat fights and moans,True
+Cat fights and moans\Cat fights and moans-0018.wav,Cat fights and moans,Cat fights and moans,True
+Cat fights and moans\Cat fights and moans-0026.wav,Cat fights and moans,Cat fights and moans,True
+Cat fights and moans\Cat fights and moans-0027.wav,Cat fights and moans,Crows seagulls and magpies,False
+Cat fights and moans\Cat fights and moans-0038.wav,Cat fights and moans,Cat fights and moans,True
+Cat fights and moans\Cat fights and moans-0046.wav,Cat fights and moans,Cat fights and moans,True
+Chicken coop\Chicken coop-0005.wav,Chicken coop,Chicken coop,True
+Chicken coop\Chicken coop-0009.wav,Chicken coop,Chicken coop,True
+Chicken coop\Chicken coop-0013.wav,Chicken coop,Music,False
+Chicken coop\Chicken coop-0026.wav,Chicken coop,Chicken coop,True
+Chicken coop\Chicken coop-0035.wav,Chicken coop,Chicken coop,True
+Chicken coop\Chicken coop-0037.wav,Chicken coop,Chicken coop,True
+Chicken coop\Chicken coop-0038.wav,Chicken coop,Chicken coop,True
+Chicken coop\Chicken coop-0045.wav,Chicken coop,Chicken coop,True
+Chicken coop\Chicken coop-0049.wav,Chicken coop,Chicken coop,True
+Cicadas and crickets\Cicadas\Cicadas-0001.wav,Cicadas and crickets,Cicadas and crickets,True
+Cicadas and crickets\Cicadas\Cicadas-0006.wav,Cicadas and crickets,Cicadas and crickets,True
+Cicadas and crickets\Cicadas\Cicadas-0011.wav,Cicadas and crickets,Cicadas and crickets,True
+Cicadas and crickets\Cicadas\Cicadas-0017.wav,Cicadas and crickets,Sirens and alarms,False
+Cicadas and crickets\Cicadas\Cicadas-0029.wav,Cicadas and crickets,Cicadas and crickets,True
+Cicadas and crickets\Cicadas\Cicadas-0034.wav,Cicadas and crickets,Cicadas and crickets,True
+Cicadas and crickets\Cicadas\Cicadas-0035.wav,Cicadas and crickets,Cicadas and crickets,True
+Cicadas and crickets\Cicadas\Cicadas-0036.wav,Cicadas and crickets,Cicadas and crickets,True
+Cicadas and crickets\Cicadas\Cicadas-0040.wav,Cicadas and crickets,Chicken coop,False
+Cicadas and crickets\Crickets\Crickets-0004.wav,Cicadas and crickets,Cicadas and crickets,True
+Cicadas and crickets\Crickets\Crickets-0012.wav,Cicadas and crickets,Sirens and alarms,False
+Crows seagulls and magpies\Crows\Crows-0012.wav,Crows seagulls and magpies,Crows seagulls and magpies,True
+Crows seagulls and magpies\Crows\Crows-0013.wav,Crows seagulls and magpies,Crows seagulls and magpies,True
+Crows seagulls and magpies\Crows\Crows-0016.wav,Crows seagulls and magpies,Crows seagulls and magpies,True
+Crows seagulls and magpies\Crows\Crows-0019.wav,Crows seagulls and magpies,Crows seagulls and magpies,True
+Crows seagulls and magpies\Crows\Crows-0023.wav,Crows seagulls and magpies,Crows seagulls and magpies,True
+Crows seagulls and magpies\Crows\Crows-0027.wav,Crows seagulls and magpies,Crows seagulls and magpies,True
+Crows seagulls and magpies\Crows\Crows-0041.wav,Crows seagulls and magpies,Crows seagulls and magpies,True
+Crows seagulls and magpies\Crows\Crows-0043.wav,Crows seagulls and magpies,Crows seagulls and magpies,True
+Crows seagulls and magpies\Crows\Crows-0048.wav,Crows seagulls and magpies,Crows seagulls and magpies,True
+Crows seagulls and magpies\Magpies\Magpies-0005.wav,Crows seagulls and magpies,Crows seagulls and magpies,True
+Crows seagulls and magpies\Magpies\Magpies-0007.wav,Crows seagulls and magpies,Crows seagulls and magpies,True
+Crows seagulls and magpies\Magpies\Magpies-0016.wav,Crows seagulls and magpies,Crows seagulls and magpies,True
+Crows seagulls and magpies\Magpies\Magpies-0017.wav,Crows seagulls and magpies,Crows seagulls and magpies,True
+Crows seagulls and magpies\Seagulls\Seagulls-0008.wav,Crows seagulls and magpies,Crows seagulls and magpies,True
+Crows seagulls and magpies\Seagulls\Seagulls-0030.wav,Crows seagulls and magpies,Crows seagulls and magpies,True
+Crows seagulls and magpies\Seagulls\Seagulls-0035.wav,Crows seagulls and magpies,Chicken coop,False
+Dog barkings and howlings\Dog barkings and howlings-0011.wav,Dog barkings and howlings,Chicken coop,False
+Dog barkings and howlings\Dog barkings and howlings-0013.wav,Dog barkings and howlings,Dog barkings and howlings,True
+Dog barkings and howlings\Dog barkings and howlings-0017.wav,Dog barkings and howlings,Voices,False
+Dog barkings and howlings\Dog barkings and howlings-0032.wav,Dog barkings and howlings,Dog barkings and howlings,True
+Dog barkings and howlings\Dog barkings and howlings-0034.wav,Dog barkings and howlings,Dog barkings and howlings,True
+Dog barkings and howlings\Dog barkings and howlings-0048.wav,Dog barkings and howlings,Dog barkings and howlings,True
+Dog barkings and howlings\Dog barkings and howlings-0050.wav,Dog barkings and howlings,Dog barkings and howlings,True
+Dog barkings and howlings\Dog barkings and howlings-0055.wav,Dog barkings and howlings,Glass breaking,False
+Dog barkings and howlings\Dog barkings and howlings-0063.wav,Dog barkings and howlings,Dog barkings and howlings,True
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,True
+Glass breaking\Glass breaking-0005.wav,Glass breaking,Glass breaking,True
+Glass breaking\Glass breaking-0010.wav,Glass breaking,Glass breaking,True
+Glass breaking\Glass breaking-0013.wav,Glass breaking,Glass breaking,True
+Glass breaking\Glass breaking-0016.wav,Glass breaking,Glass breaking,True
+Glass breaking\Glass breaking-0019.wav,Glass breaking,Glass breaking,True
+Glass breaking\Glass breaking-0027.wav,Glass breaking,Glass breaking,True
+Glass breaking\Glass breaking-0031.wav,Glass breaking,Glass breaking,True
+Glass breaking\Glass breaking-0032.wav,Glass breaking,Glass breaking,True
+Glass breaking\Glass breaking-0045.wav,Glass breaking,Glass breaking,True
+Glass breaking\Glass breaking-0046.wav,Glass breaking,Glass breaking,True
+Glass breaking\Glass breaking-0065.wav,Glass breaking,Glass breaking,True
+Glass breaking\Glass breaking-0082.wav,Glass breaking,Glass breaking,True
+Glass breaking\Glass breaking-0084.wav,Glass breaking,Glass breaking,True
+Glass breaking\Glass breaking-0089.wav,Glass breaking,Glass breaking,True
+Glass breaking\Glass breaking-0102.wav,Glass breaking,Glass breaking,True
+Glass breaking\Glass breaking-0108.wav,Glass breaking,Cicadas and crickets,False
+Horn\Horn-0005.wav,Horn,Horn,True
+Horn\Horn-0009.wav,Horn,Horn,True
+Horn\Horn-0013.wav,Horn,Voices,False
+Horn\Horn-0028.wav,Horn,Sirens and alarms,False
+Horn\Horn-0031.wav,Horn,Horn,True
+Horn\Horn-0032.wav,Horn,Horn,True
+Horn\Horn-0035.wav,Horn,Horn,True
+Horn\Horn-0044.wav,Horn,Bells,False
+Horn\Horn-0048.wav,Horn,Sirens and alarms,False
+Jet aircrafts\Jet aircrafts-0013.wav,Jet aircrafts,Propeller aircrafts,False
+Jet aircrafts\Jet aircrafts-0016.wav,Jet aircrafts,Propeller aircrafts,False
+Jet aircrafts\Jet aircrafts-0019.wav,Jet aircrafts,Jet aircrafts,True
+Jet aircrafts\Jet aircrafts-0027.wav,Jet aircrafts,Jet aircrafts,True
+Jet aircrafts\Jet aircrafts-0040.wav,Jet aircrafts,Jet aircrafts,True
+Jet aircrafts\Jet aircrafts-0046.wav,Jet aircrafts,Jet aircrafts,True
+Jet aircrafts\Jet aircrafts-0048.wav,Jet aircrafts,Jet aircrafts,True
+Jet aircrafts\Jet aircrafts-0054.wav,Jet aircrafts,Train,False
+Jet aircrafts\Jet aircrafts-0063.wav,Jet aircrafts,Propeller aircrafts,False
+Jet aircrafts\Jet aircrafts-0068.wav,Jet aircrafts,Jet aircrafts,True
+Jet aircrafts\Jet aircrafts-0077.wav,Jet aircrafts,Jet aircrafts,True
+Jet aircrafts\Jet aircrafts-0085.wav,Jet aircrafts,Train,False
+Jet aircrafts\Jet aircrafts-0091.wav,Jet aircrafts,Jet aircrafts,True
+Jet aircrafts\Jet aircrafts-0099.wav,Jet aircrafts,Jet aircrafts,True
+Jet aircrafts\Jet aircrafts-0101.wav,Jet aircrafts,Jet aircrafts,True
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0005.wav,Lawn mower brush cutter and olive shaker,Vacuum cleaner fan and hairdryer,False
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0011.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,True
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0012.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,True
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0013.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,True
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0023.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,True
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0028.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,True
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0037.wav,Lawn mower brush cutter and olive shaker,Vehicle idling,False
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0043.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,True
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0046.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,True
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0056.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,True
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0077.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,True
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0078.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,True
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0082.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,True
+Lawn mower brush cutter and olive shaker\Lawn mower\Lawn mower-0006.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,True
+Lawn mower brush cutter and olive shaker\Lawn mower\Lawn mower-0013.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,True
+Lawn mower brush cutter and olive shaker\Lawn mower\Lawn mower-0019.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,True
+Lawn mower brush cutter and olive shaker\Olive shaker\Olive shaker-0004.wav,Lawn mower brush cutter and olive shaker,Workshop,False
+Lawn mower brush cutter and olive shaker\Olive shaker\Olive shaker-0005.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,True
+Lawn mower brush cutter and olive shaker\Olive shaker\Olive shaker-0019.wav,Lawn mower brush cutter and olive shaker,Workshop,False
+Music\Music-0007.wav,Music,Music,True
+Music\Music-0010.wav,Music,Music,True
+Music\Music-0011.wav,Music,Music,True
+Music\Music-0016.wav,Music,Sirens and alarms,False
+Music\Music-0017.wav,Music,Music,True
+Music\Music-0020.wav,Music,Music,True
+Music\Music-0026.wav,Music,Music,True
+Music\Music-0031.wav,Music,Music,True
+Music\Music-0034.wav,Music,Music,True
+Music\Music-0056.wav,Music,Music,True
+Music\Music-0069.wav,Music,Music,True
+Music\Music-0070.wav,Music,Music,True
+Music\Music-0074.wav,Music,Music,True
+Music\Music-0080.wav,Music,Jet aircrafts,False
+Music\Music-0083.wav,Music,Music,True
+Music\Music-0097.wav,Music,Music,True
+Music\Music-0098.wav,Music,Music,True
+Music\Music-0112.wav,Music,Music,True
+Music\Music-0128.wav,Music,Music,True
+Music\Music-0140.wav,Music,Music,True
+Music\Music-0147.wav,Music,Music,True
+Music\Music-0153.wav,Music,Music,True
+Music\Music-0154.wav,Music,Music,True
+Music\Music-0156.wav,Music,Lawn mower brush cutter and olive shaker,False
+Music\Music-0157.wav,Music,Music,True
+Music\Music-0169.wav,Music,Music,True
+Music\Music-0171.wav,Music,Music,True
+Music\Music-0183.wav,Music,Music,True
+Music\Music-0193.wav,Music,Music,True
+Music\Music-0194.wav,Music,Music,True
+Music\Music-0197.wav,Music,Jet aircrafts,False
+Music\Music-0199.wav,Music,Chicken coop,False
+Music\Music-0207.wav,Music,Music,True
+Music\Music-0208.wav,Music,Music,True
+Music\Music-0212.wav,Music,Music,True
+Music\Music-0213.wav,Music,Cat fights and moans,False
+Music\Music-0218.wav,Music,Music,True
+Propeller aircrafts\Airplanes\Airplanes-0005.wav,Propeller aircrafts,Propeller aircrafts,True
+Propeller aircrafts\Airplanes\Airplanes-0010.wav,Propeller aircrafts,Bells,False
+Propeller aircrafts\Airplanes\Airplanes-0013.wav,Propeller aircrafts,Jet aircrafts,False
+Propeller aircrafts\Airplanes\Airplanes-0016.wav,Propeller aircrafts,Propeller aircrafts,True
+Propeller aircrafts\Airplanes\Airplanes-0019.wav,Propeller aircrafts,Train,False
+Propeller aircrafts\Airplanes\Airplanes-0027.wav,Propeller aircrafts,Propeller aircrafts,True
+Propeller aircrafts\Airplanes\Airplanes-0031.wav,Propeller aircrafts,Music,False
+Propeller aircrafts\Airplanes\Airplanes-0032.wav,Propeller aircrafts,Jet aircrafts,False
+Propeller aircrafts\Airplanes\Airplanes-0045.wav,Propeller aircrafts,Jet aircrafts,False
+Propeller aircrafts\Airplanes\Airplanes-0046.wav,Propeller aircrafts,Propeller aircrafts,True
+Propeller aircrafts\Helicopters\Helicopters-0015.wav,Propeller aircrafts,Train,False
+Propeller aircrafts\Helicopters\Helicopters-0032.wav,Propeller aircrafts,Propeller aircrafts,True
+Propeller aircrafts\Helicopters\Helicopters-0034.wav,Propeller aircrafts,Propeller aircrafts,True
+Propeller aircrafts\Helicopters\Helicopters-0039.wav,Propeller aircrafts,Lawn mower brush cutter and olive shaker,False
+Propeller aircrafts\Helicopters\Helicopters-0051.wav,Propeller aircrafts,Propeller aircrafts,True
+Propeller aircrafts\Helicopters\Helicopters-0057.wav,Propeller aircrafts,Jet aircrafts,False
+Sirens and alarms\Alarms\Alarms-0012.wav,Sirens and alarms,Workshop,False
+Sirens and alarms\Alarms\Alarms-0013.wav,Sirens and alarms,Sirens and alarms,True
+Sirens and alarms\Alarms\Alarms-0016.wav,Sirens and alarms,Workshop,False
+Sirens and alarms\Alarms\Alarms-0019.wav,Sirens and alarms,Sirens and alarms,True
+Sirens and alarms\Alarms\Alarms-0023.wav,Sirens and alarms,Glass breaking,False
+Sirens and alarms\Alarms\Alarms-0027.wav,Sirens and alarms,Sirens and alarms,True
+Sirens and alarms\Sirens\Sirens-0004.wav,Sirens and alarms,Sirens and alarms,True
+Sirens and alarms\Sirens\Sirens-0006.wav,Sirens and alarms,Sirens and alarms,True
+Sirens and alarms\Sirens\Sirens-0011.wav,Sirens and alarms,Sirens and alarms,True
+Sirens and alarms\Sirens\Sirens-0017.wav,Sirens and alarms,Music,False
+Sirens and alarms\Sirens\Sirens-0019.wav,Sirens and alarms,Sirens and alarms,True
+Sirens and alarms\Sirens\Sirens-0028.wav,Sirens and alarms,Sirens and alarms,True
+Sirens and alarms\Sirens\Sirens-0029.wav,Sirens and alarms,Vehicle pass-by,False
+Sirens and alarms\Sirens\Sirens-0041.wav,Sirens and alarms,Sirens and alarms,True
+Sirens and alarms\Sirens\Sirens-0063.wav,Sirens and alarms,Sirens and alarms,True
+Sirens and alarms\Sirens\Sirens-0068.wav,Sirens and alarms,Sirens and alarms,True
+Thunder fireworks and gunshot\Fireworks\Fireworks-0010.wav,Thunder fireworks and gunshot,Music,False
+Thunder fireworks and gunshot\Fireworks\Fireworks-0011.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True
+Thunder fireworks and gunshot\Fireworks\Fireworks-0017.wav,Thunder fireworks and gunshot,Propeller aircrafts,False
+Thunder fireworks and gunshot\Fireworks\Fireworks-0019.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True
+Thunder fireworks and gunshot\Fireworks\Fireworks-0030.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True
+Thunder fireworks and gunshot\Fireworks\Fireworks-0046.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True
+Thunder fireworks and gunshot\Fireworks\Fireworks-0056.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True
+Thunder fireworks and gunshot\Fireworks\Fireworks-0061.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True
+Thunder fireworks and gunshot\Fireworks\Fireworks-0068.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True
+Thunder fireworks and gunshot\Gunshot\Gunshot-0001.wav,Thunder fireworks and gunshot,Vehicle pass-by,False
+Thunder fireworks and gunshot\Gunshot\Gunshot-0008.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True
+Thunder fireworks and gunshot\Gunshot\Gunshot-0019.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True
+Thunder fireworks and gunshot\Gunshot\Gunshot-0044.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True
+Thunder fireworks and gunshot\Gunshot\Gunshot-0045.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True
+Thunder fireworks and gunshot\Gunshot\Gunshot-0046.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True
+Thunder fireworks and gunshot\Gunshot\Gunshot-0077.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True
+Thunder fireworks and gunshot\Gunshot\Gunshot-0080.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True
+Thunder fireworks and gunshot\Gunshot\Gunshot-0088.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True
+Thunder fireworks and gunshot\Gunshot\Gunshot-0089.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True
+Thunder fireworks and gunshot\Gunshot\Gunshot-0095.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True
+Thunder fireworks and gunshot\Gunshot\Gunshot-0097.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True
+Thunder fireworks and gunshot\Gunshot\Gunshot-0101.wav,Thunder fireworks and gunshot,Voices,False
+Thunder fireworks and gunshot\Gunshot\Gunshot-0105.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True
+Thunder fireworks and gunshot\Gunshot\Gunshot-0113.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True
+Thunder fireworks and gunshot\Gunshot\Gunshot-0116.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True
+Thunder fireworks and gunshot\Gunshot\Gunshot-0129.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True
+Thunder fireworks and gunshot\Gunshot\Gunshot-0134.wav,Thunder fireworks and gunshot,Voices,False
+Thunder fireworks and gunshot\Gunshot\Gunshot-0137.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True
+Thunder fireworks and gunshot\Gunshot\Gunshot-0140.wav,Thunder fireworks and gunshot,Glass breaking,False
+Thunder fireworks and gunshot\Thunder\Thunder-0001.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True
+Thunder fireworks and gunshot\Thunder\Thunder-0010.wav,Thunder fireworks and gunshot,Bells,False
+Thunder fireworks and gunshot\Thunder\Thunder-0013.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True
+Thunder fireworks and gunshot\Thunder\Thunder-0014.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True
+Thunder fireworks and gunshot\Thunder\Thunder-0015.wav,Thunder fireworks and gunshot,Train,False
+Thunder fireworks and gunshot\Thunder\Thunder-0024.wav,Thunder fireworks and gunshot,Propeller aircrafts,False
+Train\Train-0005.wav,Train,Lawn mower brush cutter and olive shaker,False
+Train\Train-0006.wav,Train,Vehicle pass-by,False
+Train\Train-0013.wav,Train,Vehicle idling,False
+Train\Train-0026.wav,Train,Vehicle pass-by,False
+Train\Train-0029.wav,Train,Train,True
+Train\Train-0031.wav,Train,Vehicle pass-by,False
+Train\Train-0046.wav,Train,Vehicle idling,False
+Train\Train-0055.wav,Train,Vehicle idling,False
+Train\Train-0062.wav,Train,Train,True
+Train\Train-0063.wav,Train,Train,True
+Vacuum cleaner fan and hairdryer\fan\fan-0012.wav,Vacuum cleaner fan and hairdryer,Vehicle idling,False
+Vacuum cleaner fan and hairdryer\fan\fan-0013.wav,Vacuum cleaner fan and hairdryer,Vacuum cleaner fan and hairdryer,True
+Vacuum cleaner fan and hairdryer\fan\fan-0016.wav,Vacuum cleaner fan and hairdryer,Vacuum cleaner fan and hairdryer,True
+Vacuum cleaner fan and hairdryer\fan\fan-0027.wav,Vacuum cleaner fan and hairdryer,Thunder fireworks and gunshot,False
+Vacuum cleaner fan and hairdryer\fan\fan-0031.wav,Vacuum cleaner fan and hairdryer,Birds,False
+Vacuum cleaner fan and hairdryer\fan\fan-0032.wav,Vacuum cleaner fan and hairdryer,Vehicle idling,False
+Vacuum cleaner fan and hairdryer\hairdryer\hairdryer-0002.wav,Vacuum cleaner fan and hairdryer,Workshop,False
+Vacuum cleaner fan and hairdryer\hairdryer\hairdryer-0008.wav,Vacuum cleaner fan and hairdryer,Vacuum cleaner fan and hairdryer,True
+Vacuum cleaner fan and hairdryer\hairdryer\hairdryer-0009.wav,Vacuum cleaner fan and hairdryer,Vacuum cleaner fan and hairdryer,True
+Vacuum cleaner fan and hairdryer\hairdryer\hairdryer-0011.wav,Vacuum cleaner fan and hairdryer,Vacuum cleaner fan and hairdryer,True
+Vacuum cleaner fan and hairdryer\vacuum cleaner\vacuum cleaner-0003.wav,Vacuum cleaner fan and hairdryer,Vacuum cleaner fan and hairdryer,True
+Vacuum cleaner fan and hairdryer\vacuum cleaner\vacuum cleaner-0009.wav,Vacuum cleaner fan and hairdryer,Workshop,False
+Vacuum cleaner fan and hairdryer\vacuum cleaner\vacuum cleaner-0010.wav,Vacuum cleaner fan and hairdryer,Workshop,False
+Vacuum cleaner fan and hairdryer\vacuum cleaner\vacuum cleaner-0021.wav,Vacuum cleaner fan and hairdryer,Lawn mower brush cutter and olive shaker,False
+Vehicle idling\car truck idling\car truck idling-0001.wav,Vehicle idling,Vehicle idling,True
+Vehicle idling\car truck idling\car truck idling-0005.wav,Vehicle idling,Vehicle idling,True
+Vehicle idling\car truck idling\car truck idling-0010.wav,Vehicle idling,Vehicle pass-by,False
+Vehicle idling\car truck idling\car truck idling-0012.wav,Vehicle idling,Vehicle idling,True
+Vehicle idling\car truck idling\car truck idling-0016.wav,Vehicle idling,Vehicle idling,True
+Vehicle idling\car truck idling\car truck idling-0027.wav,Vehicle idling,Vehicle idling,True
+Vehicle idling\car truck idling\car truck idling-0031.wav,Vehicle idling,Vehicle idling,True
+Vehicle idling\car truck idling\car truck idling-0032.wav,Vehicle idling,Vehicle pass-by,False
+Vehicle idling\car truck idling\car truck idling-0037.wav,Vehicle idling,Workshop,False
+Vehicle idling\car truck idling\car truck idling-0048.wav,Vehicle idling,Music,False
+Vehicle idling\car truck idling\car truck idling-0063.wav,Vehicle idling,Vehicle idling,True
+Vehicle idling\car truck idling\car truck idling-0066.wav,Vehicle idling,Workshop,False
+Vehicle idling\car truck idling\car truck idling-0067.wav,Vehicle idling,Vehicle pass-by,False
+Vehicle idling\car truck idling\car truck idling-0074.wav,Vehicle idling,Vehicle idling,True
+Vehicle idling\car truck idling\car truck idling-0078.wav,Vehicle idling,Vehicle idling,True
+Vehicle idling\motorbike idling\motorbike idling-0001.wav,Vehicle idling,Vehicle pass-by,False
+Vehicle idling\motorbike idling\motorbike idling-0023.wav,Vehicle idling,Vehicle idling,True
+Vehicle pass-by\car pass-by\car pass-by-0006.wav,Vehicle pass-by,Vehicle pass-by,True
+Vehicle pass-by\car pass-by\car pass-by-0017.wav,Vehicle pass-by,Horn,False
+Vehicle pass-by\car pass-by\car pass-by-0025.wav,Vehicle pass-by,Vehicle pass-by,True
+Vehicle pass-by\car pass-by\car pass-by-0026.wav,Vehicle pass-by,Horn,False
+Vehicle pass-by\car pass-by\car pass-by-0030.wav,Vehicle pass-by,Vehicle pass-by,True
+Vehicle pass-by\car pass-by\car pass-by-0031.wav,Vehicle pass-by,Vehicle pass-by,True
+Vehicle pass-by\car pass-by\car pass-by-0039.wav,Vehicle pass-by,Vehicle pass-by,True
+Vehicle pass-by\car pass-by\car pass-by-0068.wav,Vehicle pass-by,Vehicle pass-by,True
+Vehicle pass-by\car pass-by\car pass-by-0069.wav,Vehicle pass-by,Vehicle pass-by,True
+Vehicle pass-by\car pass-by\car pass-by-0070.wav,Vehicle pass-by,Vehicle pass-by,True
+Vehicle pass-by\car pass-by\car pass-by-0074.wav,Vehicle pass-by,Vehicle pass-by,True
+Vehicle pass-by\car pass-by\car pass-by-0080.wav,Vehicle pass-by,Vehicle pass-by,True
+Vehicle pass-by\car pass-by\car pass-by-0094.wav,Vehicle pass-by,Vehicle pass-by,True
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,True
+Vehicle pass-by\car pass-by\car pass-by-0105.wav,Vehicle pass-by,Vehicle pass-by,True
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0003.wav,Vehicle pass-by,Thunder fireworks and gunshot,False
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0008.wav,Vehicle pass-by,Propeller aircrafts,False
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0009.wav,Vehicle pass-by,Music,False
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0019.wav,Vehicle pass-by,Train,False
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0026.wav,Vehicle pass-by,Propeller aircrafts,False
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0028.wav,Vehicle pass-by,Vehicle pass-by,True
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0029.wav,Vehicle pass-by,Propeller aircrafts,False
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0033.wav,Vehicle pass-by,Vehicle pass-by,True
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0045.wav,Vehicle pass-by,Vehicle idling,False
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0050.wav,Vehicle pass-by,Thunder fireworks and gunshot,False
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0052.wav,Vehicle pass-by,Vehicle pass-by,True
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0054.wav,Vehicle pass-by,Vehicle pass-by,True
+Vehicle pass-by\truck pass-by\truck pass-by-0004.wav,Vehicle pass-by,Propeller aircrafts,False
+Vehicle pass-by\truck pass-by\truck pass-by-0010.wav,Vehicle pass-by,Train,False
+Vehicle pass-by\truck pass-by\truck pass-by-0020.wav,Vehicle pass-by,Vehicle pass-by,True
+Vehicle pass-by\truck pass-by\truck pass-by-0034.wav,Vehicle pass-by,Vehicle pass-by,True
+Vehicle pass-by\truck pass-by\truck pass-by-0046.wav,Vehicle pass-by,Train,False
+Vehicle pass-by\truck pass-by\truck pass-by-0048.wav,Vehicle pass-by,Vehicle pass-by,True
+Voices\Voices-0016.wav,Voices,Voices,True
+Voices\Voices-0031.wav,Voices,Voices,True
+Voices\Voices-0045.wav,Voices,Voices,True
+Voices\Voices-0050.wav,Voices,Voices,True
+Voices\Voices-0052.wav,Voices,Voices,True
+Voices\Voices-0057.wav,Voices,Voices,True
+Voices\Voices-0060.wav,Voices,Voices,True
+Voices\Voices-0064.wav,Voices,Voices,True
+Voices\Voices-0068.wav,Voices,Voices,True
+Voices\Voices-0072.wav,Voices,Voices,True
+Voices\Voices-0073.wav,Voices,Voices,True
+Voices\Voices-0102.wav,Voices,Voices,True
+Voices\Voices-0112.wav,Voices,Voices,True
+Voices\Voices-0121.wav,Voices,Voices,True
+Voices\Voices-0124.wav,Voices,Voices,True
+Voices\Voices-0129.wav,Voices,Voices,True
+Voices\Voices-0142.wav,Voices,Voices,True
+Voices\Voices-0163.wav,Voices,Voices,True
+Voices\Voices-0164.wav,Voices,Voices,True
+Voices\Voices-0174.wav,Voices,Voices,True
+Voices\Voices-0183.wav,Voices,Voices,True
+Voices\Voices-0185.wav,Voices,Voices,True
+Voices\Voices-0193.wav,Voices,Voices,True
+Voices\Voices-0195.wav,Voices,Voices,True
+Voices\Voices-0197.wav,Voices,Voices,True
+Voices\Voices-0199.wav,Voices,Voices,True
+Voices\Voices-0204.wav,Voices,Voices,True
+Voices\Voices-0213.wav,Voices,Voices,True
+Voices\Voices-0219.wav,Voices,Voices,True
+Voices\Voices-0221.wav,Voices,Voices,True
+Voices\Voices-0227.wav,Voices,Voices,True
+Voices\Voices-0234.wav,Voices,Voices,True
+Voices\Voices-0240.wav,Voices,Voices,True
+Voices\Voices-0241.wav,Voices,Voices,True
+Voices\Voices-0245.wav,Voices,Voices,True
+Voices\Voices-0248.wav,Voices,Voices,True
+Voices\Voices-0260.wav,Voices,Voices,True
+Voices\Voices-0262.wav,Voices,Voices,True
+Voices\Voices-0266.wav,Voices,Voices,True
+Voices\Voices-0267.wav,Voices,Voices,True
+Voices\Voices-0271.wav,Voices,Voices,True
+Voices\Voices-0272.wav,Voices,Voices,True
+Voices\Voices-0275.wav,Voices,Voices,True
+Voices\Voices-0287.wav,Voices,Voices,True
+Voices\Voices-0298.wav,Voices,Voices,True
+Voices\Voices-0299.wav,Voices,Voices,True
+Voices\Voices-0306.wav,Voices,Voices,True
+Voices\Voices-0310.wav,Voices,Voices,True
+Voices\Voices-0325.wav,Voices,Voices,True
+Voices\Voices-0332.wav,Voices,Voices,True
+Voices\Voices-0343.wav,Voices,Voices,True
+Voices\Voices-0353.wav,Voices,Voices,True
+Voices\Voices-0355.wav,Voices,Voices,True
+Voices\Voices-0366.wav,Voices,Voices,True
+Voices\Voices-0367.wav,Voices,Voices,True
+Voices\Voices-0368.wav,Voices,Voices,True
+Voices\Voices-0375.wav,Voices,Voices,True
+Voices\Voices-0382.wav,Voices,Voices,True
+Voices\Voices-0383.wav,Voices,Voices,True
+Voices\Voices-0384.wav,Voices,Voices,True
+Voices\Voices-0399.wav,Voices,Voices,True
+Voices\Voices-0409.wav,Voices,Voices,True
+Voices\Voices-0414.wav,Voices,Voices,True
+Voices\Voices-0415.wav,Voices,Voices,True
+Voices\Voices-0416.wav,Voices,Voices,True
+Voices\Voices-0428.wav,Voices,Voices,True
+Voices\Voices-0434.wav,Voices,Voices,True
+Voices\Voices-0440.wav,Voices,Voices,True
+Voices\Voices-0454.wav,Voices,Voices,True
+Voices\Voices-0480.wav,Voices,Voices,True
+Voices\Voices-0481.wav,Voices,Voices,True
+Voices\Voices-0484.wav,Voices,Voices,True
+Voices\Voices-0486.wav,Voices,Voices,True
+Voices\Voices-0487.wav,Voices,Voices,True
+Voices\Voices-0496.wav,Voices,Voices,True
+Voices\Voices-0498.wav,Voices,Voices,True
+Voices\Voices-0507.wav,Voices,Voices,True
+Voices\Voices-0528.wav,Voices,Voices,True
+Voices\Voices-0530.wav,Voices,Voices,True
+Voices\Voices-0531.wav,Voices,Voices,True
+Voices\Voices-0536.wav,Voices,Voices,True
+Voices\Voices-0539.wav,Voices,Voices,True
+Voices\Voices-0544.wav,Voices,Voices,True
+Voices\Voices-0562.wav,Voices,Voices,True
+Voices\Voices-0573.wav,Voices,Voices,True
+Voices\Voices-0576.wav,Voices,Voices,True
+Voices\Voices-0577.wav,Voices,Voices,True
+Voices\Voices-0584.wav,Voices,Voices,True
+Voices\Voices-0585.wav,Voices,Voices,True
+Voices\Voices-0608.wav,Voices,Voices,True
+Voices\Voices-0611.wav,Voices,Voices,True
+Voices\Voices-0615.wav,Voices,Voices,True
+Voices\Voices-0621.wav,Voices,Voices,True
+Voices\Voices-0638.wav,Voices,Voices,True
+Voices\Voices-0644.wav,Voices,Voices,True
+Voices\Voices-0651.wav,Voices,Voices,True
+Voices\Voices-0671.wav,Voices,Voices,True
+Voices\Voices-0680.wav,Voices,Voices,True
+Voices\Voices-0701.wav,Voices,Voices,True
+Voices\Voices-0702.wav,Voices,Voices,True
+Voices\Voices-0706.wav,Voices,Voices,True
+Voices\Voices-0707.wav,Voices,Voices,True
+Voices\Voices-0708.wav,Voices,Voices,True
+Voices\Voices-0713.wav,Voices,Voices,True
+Voices\Voices-0721.wav,Voices,Voices,True
+Voices\Voices-0731.wav,Voices,Voices,True
+Voices\Voices-0734.wav,Voices,Voices,True
+Voices\Voices-0753.wav,Voices,Voices,True
+Voices\Voices-0757.wav,Voices,Voices,True
+Voices\Voices-0760.wav,Voices,Voices,True
+Voices\Voices-0766.wav,Voices,Voices,True
+Voices\Voices-0768.wav,Voices,Voices,True
+Voices\Voices-0772.wav,Voices,Voices,True
+Voices\Voices-0782.wav,Voices,Voices,True
+Voices\Voices-0788.wav,Voices,Voices,True
+Voices\Voices-0807.wav,Voices,Voices,True
+Voices\Voices-0808.wav,Voices,Voices,True
+Voices\Voices-0811.wav,Voices,Voices,True
+Voices\Voices-0814.wav,Voices,Voices,True
+Voices\Voices-0819.wav,Voices,Voices,True
+Voices\Voices-0820.wav,Voices,Voices,True
+Voices\Voices-0821.wav,Voices,Voices,True
+Voices\Voices-0825.wav,Voices,Voices,True
+Voices\Voices-0835.wav,Voices,Voices,True
+Voices\Voices-0840.wav,Voices,Voices,True
+Voices\Voices-0850.wav,Voices,Voices,True
+Voices\Voices-0856.wav,Voices,Voices,True
+Voices\Voices-0858.wav,Voices,Voices,True
+Voices\Voices-0863.wav,Voices,Voices,True
+Voices\Voices-0882.wav,Voices,Voices,True
+Voices\Voices-0907.wav,Voices,Voices,True
+Voices\Voices-0915.wav,Voices,Voices,True
+Voices\Voices-0916.wav,Voices,Voices,True
+Voices\Voices-0917.wav,Voices,Voices,True
+Voices\Voices-0924.wav,Voices,Voices,True
+Voices\Voices-0926.wav,Voices,Voices,True
+Voices\Voices-0931.wav,Voices,Voices,True
+Voices\Voices-0937.wav,Voices,Voices,True
+Voices\Voices-0941.wav,Voices,Voices,True
+Voices\Voices-0943.wav,Voices,Voices,True
+Voices\Voices-0945.wav,Voices,Voices,True
+Voices\Voices-0947.wav,Voices,Voices,True
+Voices\Voices-0965.wav,Voices,Voices,True
+Voices\Voices-0977.wav,Voices,Voices,True
+Voices\Voices-0988.wav,Voices,Voices,True
+Voices\Voices-0989.wav,Voices,Voices,True
+Voices\Voices-1000.wav,Voices,Voices,True
+Voices\Voices-1001.wav,Voices,Voices,True
+Voices\Voices-1006.wav,Voices,Voices,True
+Voices\Voices-1010.wav,Voices,Voices,True
+Voices\Voices-1028.wav,Voices,Voices,True
+Voices\Voices-1035.wav,Voices,Voices,True
+Voices\Voices-1038.wav,Voices,Voices,True
+Voices\Voices-1041.wav,Voices,Voices,True
+Voices\Voices-1051.wav,Voices,Voices,True
+Voices\Voices-1059.wav,Voices,Voices,True
+Voices\Voices-1064.wav,Voices,Voices,True
+Voices\Voices-1075.wav,Voices,Voices,True
+Voices\Voices-1090.wav,Voices,Voices,True
+Voices\Voices-1107.wav,Voices,Voices,True
+Voices\Voices-1108.wav,Voices,Voices,True
+Voices\Voices-1114.wav,Voices,Voices,True
+Voices\Voices-1135.wav,Voices,Horn,False
+Voices\Voices-1147.wav,Voices,Voices,True
+Voices\Voices-1174.wav,Voices,Voices,True
+Voices\Voices-1178.wav,Voices,Voices,True
+Voices\Voices-1180.wav,Voices,Voices,True
+Voices\Voices-1193.wav,Voices,Voices,True
+Voices\Voices-1201.wav,Voices,Voices,True
+Voices\Voices-1207.wav,Voices,Voices,True
+Voices\Voices-1212.wav,Voices,Voices,True
+Voices\Voices-1217.wav,Voices,Voices,True
+Voices\Voices-1240.wav,Voices,Voices,True
+Voices\Voices-1243.wav,Voices,Voices,True
+Voices\Voices-1252.wav,Voices,Voices,True
+Voices\Voices-1253.wav,Voices,Voices,True
+Voices\Voices-1260.wav,Voices,Voices,True
+Voices\Voices-1264.wav,Voices,Voices,True
+Voices\Voices-1269.wav,Voices,Voices,True
+Voices\Voices-1272.wav,Voices,Voices,True
+Voices\Voices-1279.wav,Voices,Voices,True
+Voices\Voices-1290.wav,Voices,Voices,True
+Voices\Voices-1311.wav,Voices,Voices,True
+Voices\Voices-1315.wav,Voices,Voices,True
+Voices\Voices-1323.wav,Voices,Voices,True
+Voices\Voices-1324.wav,Voices,Voices,True
+Voices\Voices-1327.wav,Voices,Voices,True
+Voices\Voices-1330.wav,Voices,Voices,True
+Voices\Voices-1340.wav,Voices,Voices,True
+Voices\Voices-1341.wav,Voices,Voices,True
+Voices\Voices-1343.wav,Voices,Voices,True
+Voices\Voices-1344.wav,Voices,Voices,True
+Voices\Voices-1351.wav,Voices,Voices,True
+Voices\Voices-1352.wav,Voices,Voices,True
+Voices\Voices-1356.wav,Voices,Voices,True
+Voices\Voices-1357.wav,Voices,Voices,True
+Voices\Voices-1360.wav,Voices,Voices,True
+Voices\Voices-1365.wav,Voices,Voices,True
+Voices\Voices-1369.wav,Voices,Voices,True
+Voices\Voices-1377.wav,Voices,Voices,True
+Voices\Voices-1380.wav,Voices,Voices,True
+Voices\Voices-1384.wav,Voices,Voices,True
+Voices\Voices-1386.wav,Voices,Voices,True
+Voices\Voices-1390.wav,Voices,Voices,True
+Voices\Voices-1426.wav,Voices,Voices,True
+Voices\Voices-1428.wav,Voices,Voices,True
+Voices\Voices-1433.wav,Voices,Voices,True
+Voices\Voices-1434.wav,Voices,Voices,True
+Voices\Voices-1442.wav,Voices,Voices,True
+Voices\Voices-1449.wav,Voices,Voices,True
+Voices\Voices-1451.wav,Voices,Voices,True
+Voices\Voices-1457.wav,Voices,Voices,True
+Voices\Voices-1461.wav,Voices,Voices,True
+Voices\Voices-1467.wav,Voices,Voices,True
+Voices\Voices-1475.wav,Voices,Voices,True
+Voices\Voices-1477.wav,Voices,Voices,True
+Voices\Voices-1482.wav,Voices,Voices,True
+Voices\Voices-1492.wav,Voices,Voices,True
+Voices\Voices-1494.wav,Voices,Voices,True
+Voices\Voices-1495.wav,Voices,Voices,True
+Voices\Voices-1513.wav,Voices,Voices,True
+Voices\Voices-1518.wav,Voices,Voices,True
+Voices\Voices-1525.wav,Voices,Voices,True
+Voices\Voices-1532.wav,Voices,Voices,True
+Voices\Voices-1542.wav,Voices,Voices,True
+Voices\Voices-1558.wav,Voices,Voices,True
+Voices\Voices-1563.wav,Voices,Voices,True
+Voices\Voices-1576.wav,Voices,Voices,True
+Voices\Voices-1582.wav,Voices,Voices,True
+Voices\Voices-1601.wav,Voices,Voices,True
+Voices\Voices-1602.wav,Voices,Voices,True
+Voices\Voices-1606.wav,Voices,Voices,True
+Voices\Voices-1607.wav,Voices,Voices,True
+Voices\Voices-1612.wav,Voices,Voices,True
+Voices\Voices-1620.wav,Voices,Voices,True
+Voices\Voices-1626.wav,Voices,Voices,True
+Voices\Voices-1630.wav,Voices,Voices,True
+Voices\Voices-1634.wav,Voices,Voices,True
+Voices\Voices-1646.wav,Voices,Voices,True
+Voices\Voices-1647.wav,Voices,Voices,True
+Voices\Voices-1648.wav,Voices,Voices,True
+Voices\Voices-1653.wav,Voices,Voices,True
+Voices\Voices-1654.wav,Voices,Voices,True
+Voices\Voices-1662.wav,Voices,Voices,True
+Voices\Voices-1677.wav,Voices,Voices,True
+Voices\Voices-1681.wav,Voices,Voices,True
+Voices\Voices-1683.wav,Voices,Voices,True
+Voices\Voices-1694.wav,Voices,Voices,True
+Voices\Voices-1695.wav,Voices,Voices,True
+Voices\Voices-1698.wav,Voices,Voices,True
+Voices\Voices-1703.wav,Voices,Voices,True
+Voices\Voices-1707.wav,Voices,Voices,True
+Voices\Voices-1710.wav,Voices,Voices,True
+Voices\Voices-1711.wav,Voices,Voices,True
+Voices\Voices-1712.wav,Voices,Voices,True
+Voices\Voices-1713.wav,Voices,Voices,True
+Voices\Voices-1716.wav,Voices,Voices,True
+Voices\Voices-1728.wav,Voices,Voices,True
+Voices\Voices-1731.wav,Voices,Voices,True
+Voices\Voices-1742.wav,Voices,Voices,True
+Voices\Voices-1743.wav,Voices,Voices,True
+Voices\Voices-1753.wav,Voices,Voices,True
+Voices\Voices-1768.wav,Voices,Voices,True
+Voices\Voices-1780.wav,Voices,Voices,True
+Voices\Voices-1790.wav,Voices,Voices,True
+Voices\Voices-1795.wav,Voices,Voices,True
+Voices\Voices-1799.wav,Voices,Voices,True
+Voices\Voices-1815.wav,Voices,Voices,True
+Voices\Voices-1816.wav,Voices,Voices,True
+Voices\Voices-1819.wav,Voices,Voices,True
+Voices\Voices-1822.wav,Voices,Voices,True
+Voices\Voices-1829.wav,Voices,Horn,False
+Voices\Voices-1834.wav,Voices,Voices,True
+Voices\Voices-1835.wav,Voices,Voices,True
+Voices\Voices-1837.wav,Voices,Voices,True
+Voices\Voices-1842.wav,Voices,Voices,True
+Voices\Voices-1843.wav,Voices,Voices,True
+Voices\Voices-1845.wav,Voices,Voices,True
+Voices\Voices-1851.wav,Voices,Voices,True
+Voices\Voices-1866.wav,Voices,Voices,True
+Voices\Voices-1877.wav,Voices,Voices,True
+Voices\Voices-1878.wav,Voices,Voices,True
+Voices\Voices-1890.wav,Voices,Voices,True
+Voices\Voices-1891.wav,Voices,Voices,True
+Voices\Voices-1893.wav,Voices,Voices,True
+Wind turbine\Wind turbine-0013.wav,Wind turbine,Wind turbine,True
+Wind turbine\Wind turbine-0016.wav,Wind turbine,Wind turbine,True
+Wind turbine\Wind turbine-0019.wav,Wind turbine,Wind turbine,True
+Wind turbine\Wind turbine-0023.wav,Wind turbine,Wind turbine,True
+Wind turbine\Wind turbine-0027.wav,Wind turbine,Wind turbine,True
+Wind turbine\Wind turbine-0032.wav,Wind turbine,Wind turbine,True
+Wind turbine\Wind turbine-0041.wav,Wind turbine,Wind turbine,True
+Wind turbine\Wind turbine-0046.wav,Wind turbine,Wind turbine,True
+Wind turbine\Wind turbine-0054.wav,Wind turbine,Wind turbine,True
+Wind turbine\Wind turbine-0056.wav,Wind turbine,Wind turbine,True
+Wind turbine\Wind turbine-0071.wav,Wind turbine,Wind turbine,True
+Wind turbine\Wind turbine-0073.wav,Wind turbine,Wind turbine,True
+Wind turbine\Wind turbine-0081.wav,Wind turbine,Wind turbine,True
+Wind turbine\Wind turbine-0089.wav,Wind turbine,Wind turbine,True
+Wind turbine\Wind turbine-0091.wav,Wind turbine,Wind turbine,True
+Workshop\air compressor\air compressor-0006.wav,Workshop,Workshop,True
+Workshop\air compressor\air compressor-0017.wav,Workshop,Vehicle idling,False
+Workshop\air compressor\air compressor-0025.wav,Workshop,Thunder fireworks and gunshot,False
+Workshop\air compressor\air compressor-0026.wav,Workshop,Workshop,True
+Workshop\air compressor\air compressor-0030.wav,Workshop,Vacuum cleaner fan and hairdryer,False
+Workshop\drill\drill-0001.wav,Workshop,Lawn mower brush cutter and olive shaker,False
+Workshop\drill\drill-0009.wav,Workshop,Workshop,True
+Workshop\drill\drill-0038.wav,Workshop,Workshop,True
+Workshop\drill\drill-0039.wav,Workshop,Workshop,True
+Workshop\drill\drill-0040.wav,Workshop,Workshop,True
+Workshop\drill\drill-0044.wav,Workshop,Workshop,True
+Workshop\grinder\grinder-0005.wav,Workshop,Workshop,True
+Workshop\grinder\grinder-0019.wav,Workshop,Workshop,True
+Workshop\grinder\grinder-0037.wav,Workshop,Workshop,True
+Workshop\jackhammer\jackhammer-0001.wav,Workshop,Workshop,True
+Workshop\jackhammer\jackhammer-0006.wav,Workshop,Vehicle pass-by,False
+Workshop\jackhammer\jackhammer-0007.wav,Workshop,Workshop,True
+Workshop\jackhammer\jackhammer-0013.wav,Workshop,Workshop,True
+Workshop\jackhammer\jackhammer-0024.wav,Workshop,Workshop,True
+Workshop\jackhammer\jackhammer-0027.wav,Workshop,Workshop,True
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,True
+Workshop\jackhammer\jackhammer-0040.wav,Workshop,Workshop,True
+Workshop\jackhammer\jackhammer-0043.wav,Workshop,Workshop,True
+Workshop\jackhammer\jackhammer-0050.wav,Workshop,Workshop,True
+Workshop\jackhammer\jackhammer-0052.wav,Workshop,Workshop,True
+Workshop\jackhammer\jackhammer-0055.wav,Workshop,Glass breaking,False
+Workshop\saw\saw-0001.wav,Workshop,Glass breaking,False
+Workshop\saw\saw-0002.wav,Workshop,Workshop,True
+Workshop\saw\saw-0014.wav,Workshop,Workshop,True
+Workshop\saw\saw-0017.wav,Workshop,Workshop,True
+Workshop\saw\saw-0028.wav,Workshop,Workshop,True
+Workshop\saw\saw-0038.wav,Workshop,Workshop,True
+Workshop\saw\saw-0040.wav,Workshop,Workshop,True

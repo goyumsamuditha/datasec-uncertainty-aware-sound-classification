@@ -1,0 +1,644 @@
+relative_path,actual_class,predicted_class,correct,confidence_before,confidence_after
+Bells\Bells-0005.wav,Bells,Bells,True,0.9999999999991964,0.9999999999993074
+Bells\Bells-0006.wav,Bells,Bells,True,0.9999999999998967,0.9999999999999121
+Bells\Bells-0013.wav,Bells,Bells,True,0.9999999999927998,0.9999999999937434
+Bells\Bells-0026.wav,Bells,Bells,True,0.9999999634150185,0.999999966733846
+Bells\Bells-0029.wav,Bells,Bells,True,0.9999999999455182,0.9999999999519718
+Bells\Bells-0031.wav,Bells,Bells,True,0.9999999996433386,0.9999999996824624
+Bells\Bells-0046.wav,Bells,Bells,True,0.9999996182096621,0.9999996471658669
+Bells\Bells-0055.wav,Bells,Bells,True,0.9999559869679421,0.999958493276218
+Bells\Bells-0062.wav,Bells,Bells,True,0.9999999795542043,0.9999999815225152
+Bells\Bells-0063.wav,Bells,Bells,True,0.9999996520511534,0.9999996804419224
+Birds\Birds-0011.wav,Birds,Birds,True,0.9999061549842704,0.9999112497138518
+Birds\Birds-0013.wav,Birds,Birds,True,0.9992658045443201,0.9992943112102581
+Birds\Birds-0017.wav,Birds,Birds,True,0.9997405129403188,0.9997537038007699
+Birds\Birds-0032.wav,Birds,Birds,True,0.9998832146710633,0.9998892196793966
+Birds\Birds-0034.wav,Birds,Birds,True,0.8694937720402223,0.8711981526979783
+Birds\Birds-0047.wav,Birds,Birds,True,0.9999999999993774,0.9999999999994666
+Birds\Birds-0048.wav,Birds,Birds,True,0.9999999932713546,0.9999999939354278
+Birds\Birds-0054.wav,Birds,Birds,True,0.9999999999999762,0.99999999999998
+Birds\Birds-0060.wav,Birds,Birds,True,0.9999999999884122,0.9999999999898708
+Birds\Birds-0069.wav,Birds,Birds,True,0.999999999997532,0.9999999999978602
+Cat fights and moans\Cat fights and moans-0004.wav,Cat fights and moans,Cat fights and moans,True,0.5573361954086132,0.5589061473743447
+Cat fights and moans\Cat fights and moans-0013.wav,Cat fights and moans,Cat fights and moans,True,1.0,1.0
+Cat fights and moans\Cat fights and moans-0018.wav,Cat fights and moans,Cat fights and moans,True,0.9999999998827167,0.9999999998961853
+Cat fights and moans\Cat fights and moans-0026.wav,Cat fights and moans,Cat fights and moans,True,1.0,1.0
+Cat fights and moans\Cat fights and moans-0027.wav,Cat fights and moans,Cat fights and moans,True,0.9999999998673721,0.9999999998825313
+Cat fights and moans\Cat fights and moans-0038.wav,Cat fights and moans,Cat fights and moans,True,1.0,1.0
+Cat fights and moans\Cat fights and moans-0046.wav,Cat fights and moans,Cat fights and moans,True,1.0,1.0
+Chicken coop\Chicken coop-0005.wav,Chicken coop,Chicken coop,True,0.99999999999834,0.9999999999985649
+Chicken coop\Chicken coop-0009.wav,Chicken coop,Chicken coop,True,0.9994540150636221,0.9994754580268128
+Chicken coop\Chicken coop-0013.wav,Chicken coop,Chicken coop,True,0.999999992895481,0.9999999935724959
+Chicken coop\Chicken coop-0026.wav,Chicken coop,Chicken coop,True,0.9999999999665501,0.9999999999706111
+Chicken coop\Chicken coop-0035.wav,Chicken coop,Chicken coop,True,0.9999999999995945,0.9999999999996518
+Chicken coop\Chicken coop-0037.wav,Chicken coop,Chicken coop,True,0.9999999999999576,0.999999999999964
+Chicken coop\Chicken coop-0038.wav,Chicken coop,Chicken coop,True,0.9999999998445956,0.9999999998624931
+Chicken coop\Chicken coop-0045.wav,Chicken coop,Chicken coop,True,0.9999999994801312,0.9999999995383528
+Chicken coop\Chicken coop-0049.wav,Chicken coop,Chicken coop,True,0.9999999853275663,0.9999999867119782
+Cicadas and crickets\Cicadas\Cicadas-0001.wav,Cicadas and crickets,Cicadas and crickets,True,0.41070171105992503,0.4120046827776209
+Cicadas and crickets\Cicadas\Cicadas-0006.wav,Cicadas and crickets,Cicadas and crickets,True,0.9999999999999962,0.9999999999999969
+Cicadas and crickets\Cicadas\Cicadas-0011.wav,Cicadas and crickets,Cicadas and crickets,True,0.9999999999061449,0.9999999999172675
+Cicadas and crickets\Cicadas\Cicadas-0017.wav,Cicadas and crickets,Cicadas and crickets,True,0.6801741462006171,0.681590139642967
+Cicadas and crickets\Cicadas\Cicadas-0029.wav,Cicadas and crickets,Cicadas and crickets,True,0.9958306079447403,0.995993149953932
+Cicadas and crickets\Cicadas\Cicadas-0034.wav,Cicadas and crickets,Cicadas and crickets,True,0.9999999936725592,0.9999999943182556
+Cicadas and crickets\Cicadas\Cicadas-0035.wav,Cicadas and crickets,Cicadas and crickets,True,0.9999999997466185,0.9999999997750386
+Cicadas and crickets\Cicadas\Cicadas-0036.wav,Cicadas and crickets,Cicadas and crickets,True,0.9999999996005571,0.9999999996449416
+Cicadas and crickets\Cicadas\Cicadas-0040.wav,Cicadas and crickets,Cicadas and crickets,True,0.5868070587531606,0.5897951723293936
+Cicadas and crickets\Crickets\Crickets-0004.wav,Cicadas and crickets,Cicadas and crickets,True,0.9999999999999833,0.999999999999986
+Cicadas and crickets\Crickets\Crickets-0012.wav,Cicadas and crickets,Cicadas and crickets,True,0.9999996829837937,0.999999709000018
+Crows seagulls and magpies\Crows\Crows-0012.wav,Crows seagulls and magpies,Crows seagulls and magpies,True,0.9999999999999547,0.9999999999999616
+Crows seagulls and magpies\Crows\Crows-0013.wav,Crows seagulls and magpies,Crows seagulls and magpies,True,0.9999999999997145,0.9999999999997558
+Crows seagulls and magpies\Crows\Crows-0016.wav,Crows seagulls and magpies,Crows seagulls and magpies,True,0.9999999999820992,0.9999999999843865
+Crows seagulls and magpies\Crows\Crows-0019.wav,Crows seagulls and magpies,Crows seagulls and magpies,True,0.999999999982087,0.9999999999843754
+Crows seagulls and magpies\Crows\Crows-0023.wav,Crows seagulls and magpies,Crows seagulls and magpies,True,0.9999999999989067,0.9999999999990583
+Crows seagulls and magpies\Crows\Crows-0027.wav,Crows seagulls and magpies,Crows seagulls and magpies,True,0.9996040279757478,0.9996219946683139
+Crows seagulls and magpies\Crows\Crows-0041.wav,Crows seagulls and magpies,Crows seagulls and magpies,True,0.999999999978288,0.9999999999810159
+Crows seagulls and magpies\Crows\Crows-0043.wav,Crows seagulls and magpies,Crows seagulls and magpies,True,0.9999732121500992,0.9999747067970366
+Crows seagulls and magpies\Crows\Crows-0048.wav,Crows seagulls and magpies,Crows seagulls and magpies,True,1.0,1.0
+Crows seagulls and magpies\Magpies\Magpies-0005.wav,Crows seagulls and magpies,Crows seagulls and magpies,True,0.9999999989005721,0.9999999990151884
+Crows seagulls and magpies\Magpies\Magpies-0007.wav,Crows seagulls and magpies,Crows seagulls and magpies,True,0.9999999995701472,0.9999999996176128
+Crows seagulls and magpies\Magpies\Magpies-0016.wav,Crows seagulls and magpies,Crows seagulls and magpies,True,0.9999999899281155,0.9999999909267289
+Crows seagulls and magpies\Magpies\Magpies-0017.wav,Crows seagulls and magpies,Crows seagulls and magpies,True,0.9999999828782927,0.9999999844486107
+Crows seagulls and magpies\Seagulls\Seagulls-0008.wav,Crows seagulls and magpies,Crows seagulls and magpies,True,0.9999247942057871,0.9999285098883104
+Crows seagulls and magpies\Seagulls\Seagulls-0030.wav,Crows seagulls and magpies,Crows seagulls and magpies,True,0.9869677361325473,0.9872613692501807
+Crows seagulls and magpies\Seagulls\Seagulls-0035.wav,Crows seagulls and magpies,Crows seagulls and magpies,True,0.9999724635436226,0.9999741913107099
+Dog barkings and howlings\Dog barkings and howlings-0011.wav,Dog barkings and howlings,Dog barkings and howlings,True,0.9999999999594607,0.9999999999645319
+Dog barkings and howlings\Dog barkings and howlings-0013.wav,Dog barkings and howlings,Dog barkings and howlings,True,0.9999980603975689,0.9999981918752464
+Dog barkings and howlings\Dog barkings and howlings-0017.wav,Dog barkings and howlings,Dog barkings and howlings,True,0.9949458389432918,0.9951373418283277
+Dog barkings and howlings\Dog barkings and howlings-0032.wav,Dog barkings and howlings,Dog barkings and howlings,True,0.9999999999965135,0.9999999999969722
+Dog barkings and howlings\Dog barkings and howlings-0034.wav,Dog barkings and howlings,Dog barkings and howlings,True,0.9999999999910321,0.9999999999921729
+Dog barkings and howlings\Dog barkings and howlings-0048.wav,Dog barkings and howlings,Dog barkings and howlings,True,0.9999998807038328,0.9999998904332266
+Dog barkings and howlings\Dog barkings and howlings-0050.wav,Dog barkings and howlings,Dog barkings and howlings,True,0.9999999991639941,0.999999999252261
+Dog barkings and howlings\Dog barkings and howlings-0055.wav,Dog barkings and howlings,Dog barkings and howlings,True,0.9999776098171288,0.9999789665013804
+Dog barkings and howlings\Dog barkings and howlings-0063.wav,Dog barkings and howlings,Dog barkings and howlings,True,0.9998223747192325,0.9998322015709409
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,True,0.9999999989650954,0.9999999990744561
+Glass breaking\Glass breaking-0005.wav,Glass breaking,Glass breaking,True,0.9998697322219187,0.9998766221317902
+Glass breaking\Glass breaking-0010.wav,Glass breaking,Glass breaking,True,0.9997969175371402,0.999806259499799
+Glass breaking\Glass breaking-0013.wav,Glass breaking,Glass breaking,True,0.9999999925461508,0.9999999932640025
+Glass breaking\Glass breaking-0016.wav,Glass breaking,Glass breaking,True,0.9999999999999536,0.9999999999999605
+Glass breaking\Glass breaking-0019.wav,Glass breaking,Glass breaking,True,0.999999943896472,0.9999999486847153
+Glass breaking\Glass breaking-0027.wav,Glass breaking,Glass breaking,True,0.999999999998866,0.9999999999990228
+Glass breaking\Glass breaking-0031.wav,Glass breaking,Glass breaking,True,0.9999999999964955,0.9999999999969575
+Glass breaking\Glass breaking-0032.wav,Glass breaking,Glass breaking,True,0.9999999999972109,0.9999999999975901
+Glass breaking\Glass breaking-0045.wav,Glass breaking,Glass breaking,True,0.9999999999999976,0.999999999999998
+Glass breaking\Glass breaking-0046.wav,Glass breaking,Glass breaking,True,0.9999999999999785,0.9999999999999818
+Glass breaking\Glass breaking-0065.wav,Glass breaking,Glass breaking,True,1.0,1.0
+Glass breaking\Glass breaking-0082.wav,Glass breaking,Glass breaking,True,0.9999999999999922,0.9999999999999936
+Glass breaking\Glass breaking-0084.wav,Glass breaking,Glass breaking,True,0.999999999963429,0.9999999999679501
+Glass breaking\Glass breaking-0089.wav,Glass breaking,Glass breaking,True,0.9999999999979263,0.9999999999982037
+Glass breaking\Glass breaking-0102.wav,Glass breaking,Glass breaking,True,0.999999485145908,0.9999995235207016
+Glass breaking\Glass breaking-0108.wav,Glass breaking,Glass breaking,True,0.9999999690854128,0.9999999719603164
+Horn\Horn-0005.wav,Horn,Horn,True,0.9999999682052599,0.9999999710344722
+Horn\Horn-0009.wav,Horn,Horn,True,0.9996474618062011,0.9996632671134082
+Horn\Horn-0013.wav,Horn,Horn,True,0.9999972472972823,0.9999974422063971
+Horn\Horn-0028.wav,Horn,Horn,True,0.999999957993229,0.999999961743857
+Horn\Horn-0031.wav,Horn,Horn,True,0.9999990107933601,0.9999990821652072
+Horn\Horn-0032.wav,Horn,Horn,True,0.9999947933526855,0.9999951325416835
+Horn\Horn-0035.wav,Horn,Horn,True,0.9920599366454852,0.9923197285119915
+Horn\Horn-0044.wav,Horn,Sirens and alarms,False,0.9684009395986392,0.9690854589485791
+Horn\Horn-0048.wav,Horn,Horn,True,0.9999999869956668,0.9999999881980025
+Jet aircrafts\Jet aircrafts-0013.wav,Jet aircrafts,Jet aircrafts,True,0.8621191244837293,0.8633453237389741
+Jet aircrafts\Jet aircrafts-0016.wav,Jet aircrafts,Jet aircrafts,True,0.6588970192818332,0.6602225546164792
+Jet aircrafts\Jet aircrafts-0019.wav,Jet aircrafts,Propeller aircrafts,False,0.8191784450364656,0.8215539726891421
+Jet aircrafts\Jet aircrafts-0027.wav,Jet aircrafts,Jet aircrafts,True,0.9957831042733618,0.9959201470450559
+Jet aircrafts\Jet aircrafts-0040.wav,Jet aircrafts,Jet aircrafts,True,0.9999409453991334,0.9999439905023624
+Jet aircrafts\Jet aircrafts-0046.wav,Jet aircrafts,Jet aircrafts,True,0.9988943372755611,0.9989394265752627
+Jet aircrafts\Jet aircrafts-0048.wav,Jet aircrafts,Train,False,0.9521327252225825,0.9528629739307053
+Jet aircrafts\Jet aircrafts-0054.wav,Jet aircrafts,Jet aircrafts,True,0.7012665805980027,0.7027559265661222
+Jet aircrafts\Jet aircrafts-0063.wav,Jet aircrafts,Train,False,0.5140236629505485,0.5157262608320934
+Jet aircrafts\Jet aircrafts-0068.wav,Jet aircrafts,Jet aircrafts,True,0.9998651028578877,0.9998714387127565
+Jet aircrafts\Jet aircrafts-0077.wav,Jet aircrafts,Jet aircrafts,True,0.41631797283284444,0.417359468811383
+Jet aircrafts\Jet aircrafts-0085.wav,Jet aircrafts,Jet aircrafts,True,0.4069679645705343,0.4079205285312535
+Jet aircrafts\Jet aircrafts-0091.wav,Jet aircrafts,Jet aircrafts,True,0.9999171757170824,0.9999214163437434
+Jet aircrafts\Jet aircrafts-0099.wav,Jet aircrafts,Jet aircrafts,True,0.9976462922858376,0.9977329309895753
+Jet aircrafts\Jet aircrafts-0101.wav,Jet aircrafts,Jet aircrafts,True,0.9995453278266331,0.9995636505894635
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0005.wav,Lawn mower brush cutter and olive shaker,Vacuum cleaner fan and hairdryer,False,0.46687349021262997,0.46782058274926963
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0011.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,True,0.9954663927367029,0.9956286104093502
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0012.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,True,0.9993840351806307,0.999411956633302
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0013.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,True,0.9944295169635029,0.9946171834599773
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0023.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,True,0.9928661992258804,0.9931047058691708
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0028.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,True,0.9944962434667739,0.9946820437087229
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0037.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,True,0.9664394900495529,0.9672284396890737
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0043.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,True,0.4533095360494646,0.45546138357734967
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0046.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,True,0.8029952417224386,0.8051649475760554
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0056.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,True,0.7032683130592603,0.7053438433410135
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0077.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,True,0.36445840303389254,0.3655580904120109
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0078.wav,Lawn mower brush cutter and olive shaker,Vehicle idling,False,0.6118573599057325,0.6142881212597264
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0082.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,True,0.9854784699022606,0.9858775215961912
+Lawn mower brush cutter and olive shaker\Lawn mower\Lawn mower-0006.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,True,0.449358413956615,0.4499596454510421
+Lawn mower brush cutter and olive shaker\Lawn mower\Lawn mower-0013.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,True,0.3410132014448333,0.3419408752836261
+Lawn mower brush cutter and olive shaker\Lawn mower\Lawn mower-0019.wav,Lawn mower brush cutter and olive shaker,Vehicle idling,False,0.8107407094538719,0.8130988375470618
+Lawn mower brush cutter and olive shaker\Olive shaker\Olive shaker-0004.wav,Lawn mower brush cutter and olive shaker,Vacuum cleaner fan and hairdryer,False,0.5140212121182225,0.5162126038971109
+Lawn mower brush cutter and olive shaker\Olive shaker\Olive shaker-0005.wav,Lawn mower brush cutter and olive shaker,Vehicle idling,False,0.7755740246234089,0.7783831448081618
+Lawn mower brush cutter and olive shaker\Olive shaker\Olive shaker-0019.wav,Lawn mower brush cutter and olive shaker,Vehicle idling,False,0.9938433101351041,0.9940199883593785
+Music\Music-0007.wav,Music,Music,True,0.999996346023805,0.9999965822661633
+Music\Music-0010.wav,Music,Bells,False,0.5470506000432903,0.5473065787438922
+Music\Music-0011.wav,Music,Music,True,0.9999779300125572,0.9999791727479326
+Music\Music-0016.wav,Music,Horn,False,0.4011255816330708,0.4023982761468871
+Music\Music-0017.wav,Music,Music,True,0.9989376991677045,0.9989770692972345
+Music\Music-0020.wav,Music,Music,True,0.9995444354942831,0.999562775465629
+Music\Music-0026.wav,Music,Music,True,0.9994920481866811,0.9995122147883517
+Music\Music-0031.wav,Music,Music,True,0.9998050350520604,0.9998157630114644
+Music\Music-0034.wav,Music,Music,True,0.999737671292917,0.9997499117887977
+Music\Music-0056.wav,Music,Music,True,0.9999900970588199,0.9999907256202868
+Music\Music-0069.wav,Music,Music,True,0.9999921893399629,0.9999926900176871
+Music\Music-0070.wav,Music,Music,True,0.9995333317589363,0.9995522439861892
+Music\Music-0074.wav,Music,Music,True,0.9999878243489877,0.9999885899207832
+Music\Music-0080.wav,Music,Train,False,0.5634502194432008,0.5658782823207831
+Music\Music-0083.wav,Music,Music,True,0.9954105021576701,0.9955663868268673
+Music\Music-0097.wav,Music,Music,True,0.9997783400507552,0.9997881365602211
+Music\Music-0098.wav,Music,Music,True,0.9999918590794622,0.9999923663698451
+Music\Music-0112.wav,Music,Music,True,0.9999903672759543,0.9999909438038411
+Music\Music-0128.wav,Music,Music,True,0.9998421524358206,0.9998494150690885
+Music\Music-0140.wav,Music,Music,True,0.9999204779777573,0.9999244892851755
+Music\Music-0147.wav,Music,Music,True,0.9999046112511053,0.9999092076517497
+Music\Music-0153.wav,Music,Music,True,0.9999854771966596,0.9999863374395966
+Music\Music-0154.wav,Music,Music,True,0.9976051299408437,0.9976814335514809
+Music\Music-0156.wav,Music,Music,True,0.9996246575154697,0.9996402293373471
+Music\Music-0157.wav,Music,Music,True,0.999981313335284,0.9999823718938565
+Music\Music-0169.wav,Music,Music,True,0.9999922260366001,0.9999927115573766
+Music\Music-0171.wav,Music,Music,True,0.996922403710573,0.9970163537488114
+Music\Music-0183.wav,Music,Music,True,0.9950665218313568,0.9952133378878029
+Music\Music-0193.wav,Music,Music,True,0.9995041222577998,0.9995238384071163
+Music\Music-0194.wav,Music,Music,True,0.9998866909604294,0.9998920885072734
+Music\Music-0197.wav,Music,Music,True,0.9999914343433165,0.9999919535881799
+Music\Music-0199.wav,Music,Music,True,0.9994961261397342,0.9995163604950608
+Music\Music-0207.wav,Music,Music,True,0.9999686215153503,0.9999703385276485
+Music\Music-0208.wav,Music,Music,True,0.9999927851247823,0.9999932281098164
+Music\Music-0212.wav,Music,Music,True,0.9999881521092795,0.999988867037886
+Music\Music-0213.wav,Music,Music,True,0.9999856246395927,0.999986486920719
+Music\Music-0218.wav,Music,Music,True,0.9999989086883322,0.9999989885092123
+Propeller aircrafts\Airplanes\Airplanes-0005.wav,Propeller aircrafts,Propeller aircrafts,True,0.9937780532950968,0.993976584416228
+Propeller aircrafts\Airplanes\Airplanes-0010.wav,Propeller aircrafts,Propeller aircrafts,True,0.9999998751808166,0.9999998858335056
+Propeller aircrafts\Airplanes\Airplanes-0013.wav,Propeller aircrafts,Propeller aircrafts,True,0.9998639420724352,0.9998706270880882
+Propeller aircrafts\Airplanes\Airplanes-0016.wav,Propeller aircrafts,Propeller aircrafts,True,0.9995533930005562,0.99957382702882
+Propeller aircrafts\Airplanes\Airplanes-0019.wav,Propeller aircrafts,Jet aircrafts,False,0.7663037370571631,0.7684185813600366
+Propeller aircrafts\Airplanes\Airplanes-0027.wav,Propeller aircrafts,Propeller aircrafts,True,0.9929107886808592,0.9931196318715427
+Propeller aircrafts\Airplanes\Airplanes-0031.wav,Propeller aircrafts,Propeller aircrafts,True,0.9332814015872716,0.9344717635715608
+Propeller aircrafts\Airplanes\Airplanes-0032.wav,Propeller aircrafts,Jet aircrafts,False,0.9524043174274965,0.9531236197829484
+Propeller aircrafts\Airplanes\Airplanes-0045.wav,Propeller aircrafts,Propeller aircrafts,True,0.9999047530228847,0.9999094505230086
+Propeller aircrafts\Airplanes\Airplanes-0046.wav,Propeller aircrafts,Jet aircrafts,False,0.41944862421194073,0.4204457687310905
+Propeller aircrafts\Helicopters\Helicopters-0015.wav,Propeller aircrafts,Propeller aircrafts,True,0.4986415539284158,0.5000218235997252
+Propeller aircrafts\Helicopters\Helicopters-0032.wav,Propeller aircrafts,Propeller aircrafts,True,0.9984993272186609,0.9985628698197965
+Propeller aircrafts\Helicopters\Helicopters-0034.wav,Propeller aircrafts,Propeller aircrafts,True,0.8244020335644546,0.8259491689177008
+Propeller aircrafts\Helicopters\Helicopters-0039.wav,Propeller aircrafts,Propeller aircrafts,True,0.7234762507520468,0.7249266254183412
+Propeller aircrafts\Helicopters\Helicopters-0051.wav,Propeller aircrafts,Propeller aircrafts,True,0.9999214310639453,0.9999252947726543
+Propeller aircrafts\Helicopters\Helicopters-0057.wav,Propeller aircrafts,Jet aircrafts,False,0.9789651578390789,0.9794199766355475
+Sirens and alarms\Alarms\Alarms-0012.wav,Sirens and alarms,Workshop,False,0.8674605496297013,0.8686091208222428
+Sirens and alarms\Alarms\Alarms-0013.wav,Sirens and alarms,Sirens and alarms,True,0.9990584411583452,0.9991040403210028
+Sirens and alarms\Alarms\Alarms-0016.wav,Sirens and alarms,Sirens and alarms,True,0.9916944352621249,0.991901964238744
+Sirens and alarms\Alarms\Alarms-0019.wav,Sirens and alarms,Sirens and alarms,True,0.8952096948365985,0.8966312471504099
+Sirens and alarms\Alarms\Alarms-0023.wav,Sirens and alarms,Sirens and alarms,True,0.9400423691093187,0.9410751355863688
+Sirens and alarms\Alarms\Alarms-0027.wav,Sirens and alarms,Sirens and alarms,True,0.9446977519947718,0.9457390675967481
+Sirens and alarms\Sirens\Sirens-0004.wav,Sirens and alarms,Sirens and alarms,True,0.9999999165299261,0.9999999242804203
+Sirens and alarms\Sirens\Sirens-0006.wav,Sirens and alarms,Sirens and alarms,True,0.9999947656901677,0.9999951193513804
+Sirens and alarms\Sirens\Sirens-0011.wav,Sirens and alarms,Sirens and alarms,True,0.9999999445473471,0.9999999498023163
+Sirens and alarms\Sirens\Sirens-0017.wav,Sirens and alarms,Sirens and alarms,True,0.9999723305218332,0.9999740213315698
+Sirens and alarms\Sirens\Sirens-0019.wav,Sirens and alarms,Sirens and alarms,True,0.9999999966610305,0.9999999969913036
+Sirens and alarms\Sirens\Sirens-0028.wav,Sirens and alarms,Sirens and alarms,True,0.9998351718272711,0.9998428474218691
+Sirens and alarms\Sirens\Sirens-0029.wav,Sirens and alarms,Sirens and alarms,True,0.9753843430207138,0.9760892315769499
+Sirens and alarms\Sirens\Sirens-0041.wav,Sirens and alarms,Sirens and alarms,True,0.9993834735486019,0.999408834405661
+Sirens and alarms\Sirens\Sirens-0063.wav,Sirens and alarms,Sirens and alarms,True,0.9999981585929946,0.9999982845812744
+Sirens and alarms\Sirens\Sirens-0068.wav,Sirens and alarms,Sirens and alarms,True,0.9999993292259061,0.9999993810338671
+Thunder fireworks and gunshot\Fireworks\Fireworks-0010.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9999999638852137,0.999999967108421
+Thunder fireworks and gunshot\Fireworks\Fireworks-0011.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9999999978982996,0.9999999981161474
+Thunder fireworks and gunshot\Fireworks\Fireworks-0017.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.999999489883105,0.999999528756101
+Thunder fireworks and gunshot\Fireworks\Fireworks-0019.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9999370866338343,0.9999406647557189
+Thunder fireworks and gunshot\Fireworks\Fireworks-0030.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9999999999192752,0.999999999929071
+Thunder fireworks and gunshot\Fireworks\Fireworks-0046.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9999997543525105,0.9999997748162813
+Thunder fireworks and gunshot\Fireworks\Fireworks-0056.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9999999995216529,0.999999999577083
+Thunder fireworks and gunshot\Fireworks\Fireworks-0061.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9999999995675319,0.9999999996169207
+Thunder fireworks and gunshot\Fireworks\Fireworks-0068.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9999999998056031,0.9999999998284046
+Thunder fireworks and gunshot\Gunshot\Gunshot-0001.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9999980807742727,0.9999982117886435
+Thunder fireworks and gunshot\Gunshot\Gunshot-0008.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9999969390901591,0.9999971495822907
+Thunder fireworks and gunshot\Gunshot\Gunshot-0019.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9999686101418316,0.999970349506067
+Thunder fireworks and gunshot\Gunshot\Gunshot-0044.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9999889115210091,0.9999895807669088
+Thunder fireworks and gunshot\Gunshot\Gunshot-0045.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9999856569344799,0.9999865024769667
+Thunder fireworks and gunshot\Gunshot\Gunshot-0046.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9999916152988921,0.9999921294153838
+Thunder fireworks and gunshot\Gunshot\Gunshot-0077.wav,Thunder fireworks and gunshot,Vehicle pass-by,False,0.48785210949053387,0.4885517420561815
+Thunder fireworks and gunshot\Gunshot\Gunshot-0080.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9999590425341729,0.9999613561052243
+Thunder fireworks and gunshot\Gunshot\Gunshot-0088.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9907425178664346,0.9910344540674907
+Thunder fireworks and gunshot\Gunshot\Gunshot-0089.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9999687238365632,0.9999704975672533
+Thunder fireworks and gunshot\Gunshot\Gunshot-0095.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9999857069902773,0.9999865488322435
+Thunder fireworks and gunshot\Gunshot\Gunshot-0097.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9999311030032904,0.9999348483972199
+Thunder fireworks and gunshot\Gunshot\Gunshot-0101.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9999510248556694,0.9999535785039307
+Thunder fireworks and gunshot\Gunshot\Gunshot-0105.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9999115514432463,0.9999161948027298
+Thunder fireworks and gunshot\Gunshot\Gunshot-0113.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9999712251181425,0.9999729891115748
+Thunder fireworks and gunshot\Gunshot\Gunshot-0116.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9989930255222926,0.9990336270104087
+Thunder fireworks and gunshot\Gunshot\Gunshot-0129.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9976622586993303,0.9977429883016514
+Thunder fireworks and gunshot\Gunshot\Gunshot-0134.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9981816764159176,0.9982531090045751
+Thunder fireworks and gunshot\Gunshot\Gunshot-0137.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9971724049915516,0.9972814787906508
+Thunder fireworks and gunshot\Gunshot\Gunshot-0140.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9999564954626772,0.9999590512905229
+Thunder fireworks and gunshot\Thunder\Thunder-0001.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9999997459284818,0.9999997657115252
+Thunder fireworks and gunshot\Thunder\Thunder-0010.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9981082929157321,0.9981762796509995
+Thunder fireworks and gunshot\Thunder\Thunder-0013.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9999942918829965,0.9999946703995772
+Thunder fireworks and gunshot\Thunder\Thunder-0014.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.999999692942506,0.999999716601956
+Thunder fireworks and gunshot\Thunder\Thunder-0015.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9926537335618191,0.9928985649480778
+Thunder fireworks and gunshot\Thunder\Thunder-0024.wav,Thunder fireworks and gunshot,Thunder fireworks and gunshot,True,0.9703248050731684,0.9708673633560554
+Train\Train-0005.wav,Train,Train,True,0.8744749514519194,0.8756567965792065
+Train\Train-0006.wav,Train,Vehicle pass-by,False,0.5198591145570882,0.521074330217294
+Train\Train-0013.wav,Train,Train,True,0.84376891632008,0.8456779121956983
+Train\Train-0026.wav,Train,Vehicle pass-by,False,0.6652881818034059,0.6678305821768477
+Train\Train-0029.wav,Train,Train,True,0.9978644222010937,0.9979437001708036
+Train\Train-0031.wav,Train,Vehicle pass-by,False,0.5928690088069117,0.5961798999539921
+Train\Train-0046.wav,Train,Vacuum cleaner fan and hairdryer,False,0.36506990934033745,0.36636337877903535
+Train\Train-0055.wav,Train,Train,True,0.4659039435358955,0.4677290355876749
+Train\Train-0062.wav,Train,Train,True,0.5588854828412078,0.559462420087255
+Train\Train-0063.wav,Train,Jet aircrafts,False,0.6337142396597965,0.6352438172317
+Vacuum cleaner fan and hairdryer\fan\fan-0012.wav,Vacuum cleaner fan and hairdryer,Vehicle idling,False,0.8587757735288064,0.8606850995365487
+Vacuum cleaner fan and hairdryer\fan\fan-0013.wav,Vacuum cleaner fan and hairdryer,Vacuum cleaner fan and hairdryer,True,0.9486209171313391,0.9496367353234971
+Vacuum cleaner fan and hairdryer\fan\fan-0016.wav,Vacuum cleaner fan and hairdryer,Vacuum cleaner fan and hairdryer,True,0.5314608063265854,0.5316770980669538
+Vacuum cleaner fan and hairdryer\fan\fan-0027.wav,Vacuum cleaner fan and hairdryer,Vehicle pass-by,False,0.36755572273361975,0.36930148790503325
+Vacuum cleaner fan and hairdryer\fan\fan-0031.wav,Vacuum cleaner fan and hairdryer,Vacuum cleaner fan and hairdryer,True,0.965022121320962,0.9657207402401057
+Vacuum cleaner fan and hairdryer\fan\fan-0032.wav,Vacuum cleaner fan and hairdryer,Vehicle idling,False,0.9641057266004581,0.9649050118396636
+Vacuum cleaner fan and hairdryer\hairdryer\hairdryer-0002.wav,Vacuum cleaner fan and hairdryer,Vacuum cleaner fan and hairdryer,True,0.999722918011137,0.9997347802465124
+Vacuum cleaner fan and hairdryer\hairdryer\hairdryer-0008.wav,Vacuum cleaner fan and hairdryer,Vacuum cleaner fan and hairdryer,True,0.9961707038330913,0.9962823708193341
+Vacuum cleaner fan and hairdryer\hairdryer\hairdryer-0009.wav,Vacuum cleaner fan and hairdryer,Vacuum cleaner fan and hairdryer,True,0.999978431490682,0.9999796340940948
+Vacuum cleaner fan and hairdryer\hairdryer\hairdryer-0011.wav,Vacuum cleaner fan and hairdryer,Vacuum cleaner fan and hairdryer,True,0.8911232211652211,0.8923492342200741
+Vacuum cleaner fan and hairdryer\vacuum cleaner\vacuum cleaner-0003.wav,Vacuum cleaner fan and hairdryer,Vacuum cleaner fan and hairdryer,True,0.9589698122310717,0.9596686385392961
+Vacuum cleaner fan and hairdryer\vacuum cleaner\vacuum cleaner-0009.wav,Vacuum cleaner fan and hairdryer,Vacuum cleaner fan and hairdryer,True,0.9864099246392305,0.9867561858656524
+Vacuum cleaner fan and hairdryer\vacuum cleaner\vacuum cleaner-0010.wav,Vacuum cleaner fan and hairdryer,Vacuum cleaner fan and hairdryer,True,0.5851540349216969,0.5855999265776423
+Vacuum cleaner fan and hairdryer\vacuum cleaner\vacuum cleaner-0021.wav,Vacuum cleaner fan and hairdryer,Vacuum cleaner fan and hairdryer,True,0.7684380247764154,0.7701366130143467
+Vehicle idling\car truck idling\car truck idling-0001.wav,Vehicle idling,Vehicle idling,True,0.8013566234389461,0.8034630904772018
+Vehicle idling\car truck idling\car truck idling-0005.wav,Vehicle idling,Vehicle idling,True,0.9985546226813001,0.9986106562147254
+Vehicle idling\car truck idling\car truck idling-0010.wav,Vehicle idling,Vehicle idling,True,0.45077247534583814,0.45214080123770445
+Vehicle idling\car truck idling\car truck idling-0012.wav,Vehicle idling,Vehicle idling,True,0.3229804746719801,0.32339686695723424
+Vehicle idling\car truck idling\car truck idling-0016.wav,Vehicle idling,Vehicle idling,True,0.9720665754226955,0.9726673300101902
+Vehicle idling\car truck idling\car truck idling-0027.wav,Vehicle idling,Vehicle idling,True,0.8992284192100467,0.9009007931611634
+Vehicle idling\car truck idling\car truck idling-0031.wav,Vehicle idling,Vehicle idling,True,0.9657820770909573,0.9664478227314678
+Vehicle idling\car truck idling\car truck idling-0032.wav,Vehicle idling,Thunder fireworks and gunshot,False,0.58619911767128,0.5875107653834344
+Vehicle idling\car truck idling\car truck idling-0037.wav,Vehicle idling,Vehicle idling,True,0.37592794816450675,0.37723257683779826
+Vehicle idling\car truck idling\car truck idling-0048.wav,Vehicle idling,Vehicle idling,True,0.8307696810918027,0.8324659074537492
+Vehicle idling\car truck idling\car truck idling-0063.wav,Vehicle idling,Train,False,0.33433349957247616,0.33488232899029996
+Vehicle idling\car truck idling\car truck idling-0066.wav,Vehicle idling,Vehicle idling,True,0.44437033528962294,0.44591174542261924
+Vehicle idling\car truck idling\car truck idling-0067.wav,Vehicle idling,Vehicle idling,True,0.5443332775601433,0.5464870765825632
+Vehicle idling\car truck idling\car truck idling-0074.wav,Vehicle idling,Vehicle idling,True,0.9993855495276008,0.9994127774018792
+Vehicle idling\car truck idling\car truck idling-0078.wav,Vehicle idling,Vehicle idling,True,0.9995515657567327,0.9995723373627396
+Vehicle idling\motorbike idling\motorbike idling-0001.wav,Vehicle idling,Vehicle pass-by,False,0.36278505045019344,0.3634242336988393
+Vehicle idling\motorbike idling\motorbike idling-0023.wav,Vehicle idling,Vehicle idling,True,0.8045979454174981,0.8070016005859199
+Vehicle pass-by\car pass-by\car pass-by-0006.wav,Vehicle pass-by,Vehicle pass-by,True,0.7727215222960584,0.776057469169272
+Vehicle pass-by\car pass-by\car pass-by-0017.wav,Vehicle pass-by,Horn,False,0.6893624092820048,0.69278067886516
+Vehicle pass-by\car pass-by\car pass-by-0025.wav,Vehicle pass-by,Vehicle pass-by,True,0.9420196639379382,0.9433672950204637
+Vehicle pass-by\car pass-by\car pass-by-0026.wav,Vehicle pass-by,Vehicle pass-by,True,0.7498969239973603,0.7529673666013911
+Vehicle pass-by\car pass-by\car pass-by-0030.wav,Vehicle pass-by,Vehicle pass-by,True,0.7875979199608437,0.7901960736411241
+Vehicle pass-by\car pass-by\car pass-by-0031.wav,Vehicle pass-by,Vehicle pass-by,True,0.8748044004886883,0.8772260015328909
+Vehicle pass-by\car pass-by\car pass-by-0039.wav,Vehicle pass-by,Vehicle pass-by,True,0.774198985622369,0.7771714943329019
+Vehicle pass-by\car pass-by\car pass-by-0068.wav,Vehicle pass-by,Vehicle pass-by,True,0.9773645410712358,0.9779919230340679
+Vehicle pass-by\car pass-by\car pass-by-0069.wav,Vehicle pass-by,Vehicle pass-by,True,0.969095500418564,0.9699613279724969
+Vehicle pass-by\car pass-by\car pass-by-0070.wav,Vehicle pass-by,Vehicle pass-by,True,0.9465399615303458,0.9478690731336974
+Vehicle pass-by\car pass-by\car pass-by-0074.wav,Vehicle pass-by,Vehicle pass-by,True,0.9729653186753208,0.9737605552259496
+Vehicle pass-by\car pass-by\car pass-by-0080.wav,Vehicle pass-by,Vehicle pass-by,True,0.9623766925099593,0.9633847635555629
+Vehicle pass-by\car pass-by\car pass-by-0094.wav,Vehicle pass-by,Vehicle pass-by,True,0.8210304916469929,0.8236096654287409
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,True,0.5855858871936775,0.5882436099066626
+Vehicle pass-by\car pass-by\car pass-by-0105.wav,Vehicle pass-by,Vehicle pass-by,True,0.5642827056706998,0.5674192546497254
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0003.wav,Vehicle pass-by,Propeller aircrafts,False,0.5395720466516634,0.5417619939220198
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0008.wav,Vehicle pass-by,Propeller aircrafts,False,0.5625048024809853,0.563824614226421
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0009.wav,Vehicle pass-by,Vehicle pass-by,True,0.8000045976605463,0.8019143688788218
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0019.wav,Vehicle pass-by,Vehicle pass-by,True,0.7763531546936071,0.7784640730729879
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0026.wav,Vehicle pass-by,Propeller aircrafts,False,0.5865778327750494,0.5887410295041737
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0028.wav,Vehicle pass-by,Vehicle pass-by,True,0.38114515958680123,0.383230317800712
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0029.wav,Vehicle pass-by,Vehicle pass-by,True,0.8216326288206709,0.8239542060076033
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0033.wav,Vehicle pass-by,Vehicle pass-by,True,0.5880112122653259,0.5898542001070324
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0045.wav,Vehicle pass-by,Vehicle pass-by,True,0.40647740023169854,0.4075628173383403
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0050.wav,Vehicle pass-by,Vehicle pass-by,True,0.41746395855399143,0.4192387840738306
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0052.wav,Vehicle pass-by,Vehicle pass-by,True,0.9481182233318368,0.9492131812248082
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0054.wav,Vehicle pass-by,Vehicle pass-by,True,0.6067260328346756,0.6085987281939415
+Vehicle pass-by\truck pass-by\truck pass-by-0004.wav,Vehicle pass-by,Vacuum cleaner fan and hairdryer,False,0.38708263758828637,0.3882558542353515
+Vehicle pass-by\truck pass-by\truck pass-by-0010.wav,Vehicle pass-by,Vehicle idling,False,0.628293899506111,0.6297261518567143
+Vehicle pass-by\truck pass-by\truck pass-by-0020.wav,Vehicle pass-by,Vehicle pass-by,True,0.9408043981803996,0.9421384149204552
+Vehicle pass-by\truck pass-by\truck pass-by-0034.wav,Vehicle pass-by,Vehicle pass-by,True,0.9029015608643821,0.9049529500459428
+Vehicle pass-by\truck pass-by\truck pass-by-0046.wav,Vehicle pass-by,Train,False,0.7421910386723313,0.7441891852599163
+Vehicle pass-by\truck pass-by\truck pass-by-0048.wav,Vehicle pass-by,Vehicle pass-by,True,0.5116793306367773,0.5140638061390306
+Voices\Voices-0016.wav,Voices,Voices,True,0.9995820033581208,0.9996042163658749
+Voices\Voices-0031.wav,Voices,Voices,True,0.9986183804129113,0.9986835220160198
+Voices\Voices-0045.wav,Voices,Voices,True,0.9966223040903274,0.9967645499101849
+Voices\Voices-0050.wav,Voices,Voices,True,0.9991909270187558,0.999230767914281
+Voices\Voices-0052.wav,Voices,Voices,True,0.9979551140738877,0.9980496141292939
+Voices\Voices-0057.wav,Voices,Voices,True,0.9997687800064496,0.9997815469186557
+Voices\Voices-0060.wav,Voices,Voices,True,0.9860668850029285,0.9865509132733928
+Voices\Voices-0064.wav,Voices,Voices,True,0.9961959866887263,0.9963586262185948
+Voices\Voices-0068.wav,Voices,Voices,True,0.9972187523832706,0.9973372416630357
+Voices\Voices-0072.wav,Voices,Voices,True,0.9931790992888303,0.9934448219263202
+Voices\Voices-0073.wav,Voices,Voices,True,0.9925844780932738,0.9928611573861242
+Voices\Voices-0102.wav,Voices,Voices,True,0.9936404502816557,0.9938899480321148
+Voices\Voices-0112.wav,Voices,Voices,True,0.9875545844722615,0.9880027156846307
+Voices\Voices-0121.wav,Voices,Voices,True,0.9988647919046941,0.9989202600717323
+Voices\Voices-0124.wav,Voices,Voices,True,0.9985892645017216,0.9986539851130691
+Voices\Voices-0129.wav,Voices,Voices,True,0.9982512827184952,0.9983298455537171
+Voices\Voices-0142.wav,Voices,Voices,True,0.9993548813075727,0.9993870132472767
+Voices\Voices-0163.wav,Voices,Voices,True,0.9994950935238589,0.9995216373468403
+Voices\Voices-0164.wav,Voices,Voices,True,0.997503485879862,0.9976136806822083
+Voices\Voices-0174.wav,Voices,Voices,True,0.9998891927936199,0.9998957695266492
+Voices\Voices-0183.wav,Voices,Voices,True,0.9996281077920129,0.9996476069713517
+Voices\Voices-0185.wav,Voices,Voices,True,0.9950950022625741,0.9952940007059388
+Voices\Voices-0193.wav,Voices,Voices,True,0.9986814542064827,0.9987425461223823
+Voices\Voices-0195.wav,Voices,Voices,True,0.9977676954269741,0.9978639465958984
+Voices\Voices-0197.wav,Voices,Voices,True,0.9951283615781222,0.9953287567334221
+Voices\Voices-0199.wav,Voices,Voices,True,0.9996372063259338,0.9996567051504541
+Voices\Voices-0204.wav,Voices,Voices,True,0.9983746537972307,0.9984499229697125
+Voices\Voices-0213.wav,Voices,Voices,True,0.9979105393033546,0.998004065263423
+Voices\Voices-0219.wav,Voices,Voices,True,0.9956293124138431,0.9958045353428592
+Voices\Voices-0221.wav,Voices,Voices,True,0.9994308116987003,0.9994587080705865
+Voices\Voices-0227.wav,Voices,Voices,True,0.9995983921655758,0.9996196899056785
+Voices\Voices-0234.wav,Voices,Voices,True,0.9954327014437068,0.9956190238652457
+Voices\Voices-0240.wav,Voices,Voices,True,0.9508295872207253,0.9521254239107434
+Voices\Voices-0241.wav,Voices,Voices,True,0.9987702444249673,0.9988279691339977
+Voices\Voices-0245.wav,Voices,Voices,True,0.9996409012444231,0.9996599097759814
+Voices\Voices-0248.wav,Voices,Voices,True,0.8925201866418,0.8947205996656394
+Voices\Voices-0260.wav,Voices,Voices,True,0.9886884837735241,0.9891007733688223
+Voices\Voices-0262.wav,Voices,Voices,True,0.9987455268475158,0.9988045420001976
+Voices\Voices-0266.wav,Voices,Voices,True,0.9942293523934473,0.9944563436609154
+Voices\Voices-0267.wav,Voices,Voices,True,0.9989368705093754,0.998988346310089
+Voices\Voices-0271.wav,Voices,Voices,True,0.9815615253776784,0.9821695622025628
+Voices\Voices-0272.wav,Voices,Voices,True,0.9541199748483804,0.9554220008390596
+Voices\Voices-0275.wav,Voices,Voices,True,0.9935816296014713,0.9938300497122314
+Voices\Voices-0287.wav,Voices,Voices,True,0.9571480835433458,0.9583519089026592
+Voices\Voices-0298.wav,Voices,Voices,True,0.9939288435033704,0.9941621433653963
+Voices\Voices-0299.wav,Voices,Voices,True,0.9934552964902018,0.9936986981661896
+Voices\Voices-0306.wav,Voices,Voices,True,0.9992979169673133,0.9993323267762172
+Voices\Voices-0310.wav,Voices,Voices,True,0.9930593627482438,0.9933269220726272
+Voices\Voices-0325.wav,Voices,Voices,True,0.9995634979513774,0.9995862242363028
+Voices\Voices-0332.wav,Voices,Voices,True,0.9942931226284247,0.9945182347427827
+Voices\Voices-0343.wav,Voices,Voices,True,0.9958503815243608,0.996021007881901
+Voices\Voices-0353.wav,Voices,Voices,True,0.9993277516139536,0.9993601411206972
+Voices\Voices-0355.wav,Voices,Voices,True,0.9872807151116827,0.9877326229854104
+Voices\Voices-0366.wav,Voices,Voices,True,0.9998366861839122,0.9998461761310293
+Voices\Voices-0367.wav,Voices,Voices,True,0.9986100264103268,0.9986752316268984
+Voices\Voices-0368.wav,Voices,Voices,True,0.9978807319954487,0.9979771777706633
+Voices\Voices-0375.wav,Voices,Voices,True,0.9940827684174576,0.9943150203515332
+Voices\Voices-0382.wav,Voices,Voices,True,0.9999093279171182,0.9999147891341714
+Voices\Voices-0383.wav,Voices,Voices,True,0.9993592667688367,0.9993916741794983
+Voices\Voices-0384.wav,Voices,Voices,True,0.9847029214996534,0.985231565160886
+Voices\Voices-0399.wav,Voices,Voices,True,0.9935729504582349,0.9938254070486765
+Voices\Voices-0409.wav,Voices,Voices,True,0.9985090105133201,0.9985794399126442
+Voices\Voices-0414.wav,Voices,Voices,True,0.9900690757792231,0.990427928115945
+Voices\Voices-0415.wav,Voices,Voices,True,0.987356440740353,0.9877987383286226
+Voices\Voices-0416.wav,Voices,Voices,True,0.999362574085324,0.9993938824400023
+Voices\Voices-0428.wav,Voices,Voices,True,0.9991869685783701,0.9992266585276727
+Voices\Voices-0434.wav,Voices,Voices,True,0.9973570259162817,0.9974757167424841
+Voices\Voices-0440.wav,Voices,Voices,True,0.9316528847804336,0.9333085187830062
+Voices\Voices-0454.wav,Voices,Voices,True,0.9999610745087539,0.9999634391543744
+Voices\Voices-0480.wav,Voices,Voices,True,0.9993907288376276,0.999421688434165
+Voices\Voices-0481.wav,Voices,Voices,True,0.9999976543933208,0.9999978385077637
+Voices\Voices-0484.wav,Voices,Voices,True,0.9940384180265828,0.9942669890798227
+Voices\Voices-0486.wav,Voices,Voices,True,0.9998751956081228,0.9998825905717921
+Voices\Voices-0487.wav,Voices,Voices,True,0.9962391591419651,0.9963938549663122
+Voices\Voices-0496.wav,Voices,Voices,True,0.9959777508391294,0.9961358486584327
+Voices\Voices-0498.wav,Voices,Voices,True,0.9814595026691433,0.9820875824570346
+Voices\Voices-0507.wav,Voices,Voices,True,0.9855272613229562,0.9859920377293578
+Voices\Voices-0528.wav,Voices,Voices,True,0.970377264407928,0.9712714392104032
+Voices\Voices-0530.wav,Voices,Voices,True,0.9982080491258025,0.9982900883383207
+Voices\Voices-0531.wav,Voices,Voices,True,0.9996091649666057,0.9996296798765022
+Voices\Voices-0536.wav,Voices,Voices,True,0.9986906697326946,0.9987508489245931
+Voices\Voices-0539.wav,Voices,Voices,True,0.9982298147190796,0.9983107091733066
+Voices\Voices-0544.wav,Voices,Voices,True,0.9999766335417868,0.9999781754491406
+Voices\Voices-0562.wav,Voices,Voices,True,0.9990647803217417,0.9991101591031601
+Voices\Voices-0573.wav,Voices,Voices,True,0.9987394330804601,0.9987978445132267
+Voices\Voices-0576.wav,Voices,Voices,True,0.9990883115033933,0.999131648552401
+Voices\Voices-0577.wav,Voices,Voices,True,0.9963175472932196,0.9964689402972491
+Voices\Voices-0584.wav,Voices,Voices,True,0.982788882729093,0.9833591005162595
+Voices\Voices-0585.wav,Voices,Voices,True,0.9975311530106751,0.9976367484832586
+Voices\Voices-0608.wav,Voices,Voices,True,0.9954576825266147,0.995641281025566
+Voices\Voices-0611.wav,Voices,Voices,True,0.9921391153631535,0.9924315811434304
+Voices\Voices-0615.wav,Voices,Voices,True,0.31022035063015135,0.3118387732532801
+Voices\Voices-0621.wav,Voices,Voices,True,0.9959913027540336,0.9961552429160058
+Voices\Voices-0638.wav,Voices,Voices,True,0.9891359039947716,0.9895243309476007
+Voices\Voices-0644.wav,Voices,Voices,True,0.9749982136965666,0.9757250855377809
+Voices\Voices-0651.wav,Voices,Voices,True,0.9932261589173161,0.9934759064012493
+Voices\Voices-0671.wav,Voices,Voices,True,0.9971488505846515,0.9972716136969954
+Voices\Voices-0680.wav,Voices,Voices,True,0.9956599326383072,0.9958395194847162
+Voices\Voices-0701.wav,Voices,Voices,True,0.9996172622700571,0.9996368422640476
+Voices\Voices-0702.wav,Voices,Voices,True,0.9822182711532003,0.982782837029559
+Voices\Voices-0706.wav,Voices,Voices,True,0.9912810766606255,0.9915894237722769
+Voices\Voices-0707.wav,Voices,Voices,True,0.997342879003334,0.9974554384446955
+Voices\Voices-0708.wav,Voices,Voices,True,0.999866164774662,0.9998737422802524
+Voices\Voices-0713.wav,Voices,Voices,True,0.9979618595308815,0.998052287838887
+Voices\Voices-0721.wav,Voices,Voices,True,0.9999687103402677,0.9999707655407504
+Voices\Voices-0731.wav,Voices,Voices,True,0.9956227992906239,0.995795978266526
+Voices\Voices-0734.wav,Voices,Voices,True,0.9988368039143177,0.9988902989686139
+Voices\Voices-0753.wav,Voices,Voices,True,0.999613340399357,0.9996319613580249
+Voices\Voices-0757.wav,Voices,Voices,True,0.9999903661498579,0.9999909935864622
+Voices\Voices-0760.wav,Voices,Voices,True,0.9999576487242021,0.9999603475117365
+Voices\Voices-0766.wav,Voices,Voices,True,0.9997675826040026,0.9997800420976556
+Voices\Voices-0768.wav,Voices,Voices,True,0.9996464688054644,0.9996649740031844
+Voices\Voices-0772.wav,Voices,Voices,True,0.9986787606890204,0.9987418546061462
+Voices\Voices-0782.wav,Voices,Voices,True,0.9973076938157909,0.9974235255269138
+Voices\Voices-0788.wav,Voices,Voices,True,0.9999464627218466,0.999949741316571
+Voices\Voices-0807.wav,Voices,Voices,True,0.999569692266436,0.9995913829166443
+Voices\Voices-0808.wav,Voices,Voices,True,0.9988648016365975,0.9989193373117087
+Voices\Voices-0811.wav,Voices,Voices,True,0.9996268735683498,0.9996461021248044
+Voices\Voices-0814.wav,Voices,Voices,True,0.9982284337735962,0.9983080479479144
+Voices\Voices-0819.wav,Voices,Voices,True,0.999992968558522,0.999993480523573
+Voices\Voices-0820.wav,Voices,Voices,True,0.9998147261494386,0.9998245718764999
+Voices\Voices-0821.wav,Voices,Voices,True,0.9999959508761381,0.9999962503082677
+Voices\Voices-0825.wav,Voices,Voices,True,0.9998333798756649,0.9998426824539197
+Voices\Voices-0835.wav,Voices,Voices,True,0.9928955927866522,0.9931571570921851
+Voices\Voices-0840.wav,Voices,Voices,True,0.9998930442245616,0.9998993229402453
+Voices\Voices-0850.wav,Voices,Voices,True,0.9997773845822442,0.999789720176101
+Voices\Voices-0856.wav,Voices,Voices,True,0.999302448332837,0.9993381945188494
+Voices\Voices-0858.wav,Voices,Voices,True,0.9999447182826451,0.9999480046412379
+Voices\Voices-0863.wav,Voices,Voices,True,0.9999152430327822,0.999920337814014
+Voices\Voices-0882.wav,Voices,Voices,True,0.999913548163065,0.9999187344397911
+Voices\Voices-0907.wav,Voices,Voices,True,0.996832396703913,0.9969645235264568
+Voices\Voices-0915.wav,Voices,Voices,True,0.9779637575629532,0.9786580026714896
+Voices\Voices-0916.wav,Voices,Voices,True,0.9983384302858033,0.9984059578527406
+Voices\Voices-0917.wav,Voices,Voices,True,0.9919854668032739,0.9922873876360394
+Voices\Voices-0924.wav,Voices,Voices,True,0.9816583321142012,0.9822759838232499
+Voices\Voices-0926.wav,Voices,Voices,True,0.9948183739692744,0.9950226692514585
+Voices\Voices-0931.wav,Voices,Voices,True,0.9988867083744994,0.9989405191261992
+Voices\Voices-0937.wav,Voices,Voices,True,0.9996995067928891,0.9997157092710008
+Voices\Voices-0941.wav,Voices,Voices,True,0.9878243075154155,0.9882570586888907
+Voices\Voices-0943.wav,Voices,Voices,True,0.9973941049248285,0.9975068172215155
+Voices\Voices-0945.wav,Voices,Voices,True,0.9912502493269849,0.9915674814131565
+Voices\Voices-0947.wav,Voices,Voices,True,0.9595497006364885,0.9606803281988087
+Voices\Voices-0965.wav,Voices,Voices,True,0.9982750828932946,0.9983542240692275
+Voices\Voices-0977.wav,Voices,Voices,True,0.7210111815344197,0.7245205489073872
+Voices\Voices-0988.wav,Voices,Voices,True,0.999846371591433,0.9998552339832542
+Voices\Voices-0989.wav,Voices,Voices,True,0.9710067489292424,0.9719240560069238
+Voices\Voices-1000.wav,Voices,Voices,True,0.9995046903181571,0.9995300533671613
+Voices\Voices-1001.wav,Voices,Voices,True,0.9983695089494581,0.9984451712918998
+Voices\Voices-1006.wav,Voices,Voices,True,0.9998789939533295,0.999886169342059
+Voices\Voices-1010.wav,Voices,Voices,True,0.999987803435917,0.9999886595254353
+Voices\Voices-1028.wav,Voices,Voices,True,0.949442123305257,0.9507950322991795
+Voices\Voices-1035.wav,Voices,Voices,True,0.9706604559619088,0.9715269541106324
+Voices\Voices-1038.wav,Voices,Voices,True,0.9998854872200097,0.9998920929904715
+Voices\Voices-1041.wav,Voices,Voices,True,0.9998558491737203,0.9998640829168031
+Voices\Voices-1051.wav,Voices,Voices,True,0.9999936190122348,0.9999940897443577
+Voices\Voices-1059.wav,Voices,Voices,True,0.9998857045609029,0.9998923223673056
+Voices\Voices-1064.wav,Voices,Voices,True,0.999994083150721,0.9999945062336855
+Voices\Voices-1075.wav,Voices,Voices,True,0.9999993873552161,0.9999994390883538
+Voices\Voices-1090.wav,Voices,Voices,True,0.99454525998483,0.9947615733944114
+Voices\Voices-1107.wav,Voices,Voices,True,0.9996136229678587,0.9996341165182515
+Voices\Voices-1108.wav,Voices,Voices,True,0.9998625872856183,0.9998703453919646
+Voices\Voices-1114.wav,Voices,Voices,True,0.9993324128758542,0.9993658261861789
+Voices\Voices-1135.wav,Voices,Voices,True,0.997410216414126,0.9975217609509919
+Voices\Voices-1147.wav,Voices,Voices,True,0.9925907214697436,0.9928724021527513
+Voices\Voices-1174.wav,Voices,Voices,True,0.999977755220461,0.9999792085945638
+Voices\Voices-1178.wav,Voices,Voices,True,0.999192798552328,0.9992325274665055
+Voices\Voices-1180.wav,Voices,Voices,True,0.9998769953842459,0.9998841820631134
+Voices\Voices-1193.wav,Voices,Voices,True,0.9984175362390277,0.9984922114001428
+Voices\Voices-1201.wav,Voices,Voices,True,0.9885232887152957,0.9889310350258211
+Voices\Voices-1207.wav,Voices,Voices,True,0.9981849487930063,0.9982635303124433
+Voices\Voices-1212.wav,Voices,Voices,True,0.9999160574047719,0.999921151974398
+Voices\Voices-1217.wav,Voices,Voices,True,0.9993573796439772,0.999389343006269
+Voices\Voices-1240.wav,Voices,Voices,True,0.9339933359440331,0.9356877993623967
+Voices\Voices-1243.wav,Voices,Voices,True,0.9964645293569734,0.9966113823042011
+Voices\Voices-1252.wav,Voices,Voices,True,0.9996480448320638,0.9996662367563058
+Voices\Voices-1253.wav,Voices,Voices,True,0.9950059468054827,0.9951989467736705
+Voices\Voices-1260.wav,Voices,Voices,True,0.9936330342854085,0.9938837757603741
+Voices\Voices-1264.wav,Voices,Voices,True,0.9943856069159439,0.9946051072009715
+Voices\Voices-1269.wav,Voices,Voices,True,0.993453397253109,0.993707125191209
+Voices\Voices-1272.wav,Voices,Voices,True,0.9993324559690202,0.9993663288968141
+Voices\Voices-1279.wav,Voices,Voices,True,0.9968510412866644,0.9969780497765673
+Voices\Voices-1290.wav,Voices,Voices,True,0.9988906726884343,0.9989429786496113
+Voices\Voices-1311.wav,Voices,Voices,True,0.9999746280762789,0.999976296395651
+Voices\Voices-1315.wav,Voices,Voices,True,0.9999961046905551,0.9999963990276738
+Voices\Voices-1323.wav,Voices,Voices,True,0.9997626977299641,0.9997755365283043
+Voices\Voices-1324.wav,Voices,Voices,True,0.9993707584742536,0.9994014390943219
+Voices\Voices-1327.wav,Voices,Voices,True,0.99907127615328,0.9991152358482561
+Voices\Voices-1330.wav,Voices,Voices,True,0.9832738250633437,0.9838341695390874
+Voices\Voices-1340.wav,Voices,Voices,True,0.9988850993644539,0.9989371410068195
+Voices\Voices-1341.wav,Voices,Voices,True,0.995208291557905,0.9954050244897312
+Voices\Voices-1343.wav,Voices,Voices,True,0.9999365355651262,0.9999404185173912
+Voices\Voices-1344.wav,Voices,Voices,True,0.9999570136087462,0.999959728770834
+Voices\Voices-1351.wav,Voices,Voices,True,0.999942148812829,0.9999457223520437
+Voices\Voices-1352.wav,Voices,Voices,True,0.9982779307220897,0.998352463914017
+Voices\Voices-1356.wav,Voices,Voices,True,0.9941953493200092,0.9944224196685858
+Voices\Voices-1357.wav,Voices,Voices,True,0.9944259117043721,0.9946434445372269
+Voices\Voices-1360.wav,Voices,Voices,True,0.9999780852085275,0.999979520473244
+Voices\Voices-1365.wav,Voices,Voices,True,0.9955965306344278,0.9957720665705917
+Voices\Voices-1369.wav,Voices,Voices,True,0.991239952104186,0.9915647674985714
+Voices\Voices-1377.wav,Voices,Voices,True,0.9966767588894209,0.9968069853411754
+Voices\Voices-1380.wav,Voices,Voices,True,0.9995319214094891,0.9995554686829508
+Voices\Voices-1384.wav,Voices,Voices,True,0.9997032710093942,0.9997190657203443
+Voices\Voices-1386.wav,Voices,Voices,True,0.9999578323285784,0.99996047858219
+Voices\Voices-1390.wav,Voices,Voices,True,0.9979863310701275,0.9980788195217872
+Voices\Voices-1426.wav,Voices,Voices,True,0.999896699981046,0.9999028632499044
+Voices\Voices-1428.wav,Voices,Voices,True,0.9998214061363208,0.9998313934465574
+Voices\Voices-1433.wav,Voices,Voices,True,0.9967640642152745,0.9968981757369606
+Voices\Voices-1434.wav,Voices,Voices,True,0.9872369970512049,0.9876830354791222
+Voices\Voices-1442.wav,Voices,Voices,True,0.9899886921873801,0.9903450633336585
+Voices\Voices-1449.wav,Voices,Voices,True,0.9938106530777318,0.9940502037693593
+Voices\Voices-1451.wav,Voices,Voices,True,0.9995109654795632,0.9995358340567534
+Voices\Voices-1457.wav,Voices,Voices,True,0.9995621028464784,0.9995847236757536
+Voices\Voices-1461.wav,Voices,Voices,True,0.9853308374066853,0.985839383521796
+Voices\Voices-1467.wav,Voices,Voices,True,0.9936879786591474,0.9939308031175134
+Voices\Voices-1475.wav,Voices,Voices,True,0.9992330604833948,0.999271451765564
+Voices\Voices-1477.wav,Voices,Voices,True,0.994569231510801,0.9947817158120716
+Voices\Voices-1482.wav,Voices,Voices,True,0.976540315786871,0.9772777055874045
+Voices\Voices-1492.wav,Voices,Voices,True,0.9950753559581932,0.9952576689974675
+Voices\Voices-1494.wav,Voices,Voices,True,0.9999802252735716,0.9999815583036487
+Voices\Voices-1495.wav,Voices,Voices,True,0.9987007153657437,0.9987608243104592
+Voices\Voices-1513.wav,Voices,Voices,True,0.9985105780928654,0.9985786202373512
+Voices\Voices-1518.wav,Voices,Voices,True,0.9997416757477424,0.9997557252139812
+Voices\Voices-1525.wav,Voices,Voices,True,0.9995818612738411,0.9996035330082329
+Voices\Voices-1532.wav,Voices,Voices,True,0.9746573157304431,0.9754550597507156
+Voices\Voices-1542.wav,Voices,Voices,True,0.9913274241075519,0.9916334792750416
+Voices\Voices-1558.wav,Voices,Voices,True,0.9990879058129671,0.9991331813826403
+Voices\Voices-1563.wav,Voices,Voices,True,0.9999013242302263,0.9999071044764394
+Voices\Voices-1576.wav,Voices,Voices,True,0.9974375270636561,0.997544452336567
+Voices\Voices-1582.wav,Voices,Voices,True,0.9999914710850194,0.9999920823600116
+Voices\Voices-1601.wav,Voices,Voices,True,0.999832218128674,0.999841840771897
+Voices\Voices-1602.wav,Voices,Voices,True,0.9998034393160219,0.9998145789555795
+Voices\Voices-1606.wav,Voices,Voices,True,0.9964466584541755,0.9965972944934612
+Voices\Voices-1607.wav,Voices,Voices,True,0.9996496643226691,0.9996680253206249
+Voices\Voices-1612.wav,Voices,Voices,True,0.999797939260634,0.9998093589995615
+Voices\Voices-1620.wav,Voices,Voices,True,0.9987465104301074,0.9988053763030537
+Voices\Voices-1626.wav,Voices,Voices,True,0.9997836321241177,0.9997951720993492
+Voices\Voices-1630.wav,Voices,Voices,True,0.9999818978418409,0.999983103019079
+Voices\Voices-1634.wav,Voices,Voices,True,0.9722336370223515,0.973088164428932
+Voices\Voices-1646.wav,Voices,Voices,True,0.9995531353789555,0.999576442399256
+Voices\Voices-1647.wav,Voices,Voices,True,0.9524191713740947,0.9536122519649783
+Voices\Voices-1648.wav,Voices,Voices,True,0.9665870924098332,0.967527111946667
+Voices\Voices-1653.wav,Voices,Voices,True,0.9996557567134772,0.999674251030596
+Voices\Voices-1654.wav,Voices,Voices,True,0.999979250438432,0.9999806498988958
+Voices\Voices-1662.wav,Voices,Voices,True,0.9998903412012771,0.9998968453348814
+Voices\Voices-1677.wav,Voices,Voices,True,0.9998775082384961,0.9998847578019984
+Voices\Voices-1681.wav,Voices,Voices,True,0.9994257701122398,0.9994542784523661
+Voices\Voices-1683.wav,Voices,Voices,True,0.9999506211834062,0.9999537401706453
+Voices\Voices-1694.wav,Voices,Voices,True,0.7327804943168188,0.7365935931524664
+Voices\Voices-1695.wav,Voices,Voices,True,0.9999625209003956,0.9999648823653594
+Voices\Voices-1698.wav,Voices,Voices,True,0.9998785809839572,0.9998855115330584
+Voices\Voices-1703.wav,Voices,Voices,True,0.999851716942337,0.9998601923068081
+Voices\Voices-1707.wav,Voices,Voices,True,0.9986068611165326,0.9986710858791934
+Voices\Voices-1710.wav,Voices,Voices,True,0.9996451772987222,0.9996632228114964
+Voices\Voices-1711.wav,Voices,Voices,True,0.9999459820425705,0.9999492946973992
+Voices\Voices-1712.wav,Voices,Voices,True,0.9999908453604148,0.9999914737021592
+Voices\Voices-1713.wav,Voices,Voices,True,0.9998873344253989,0.9998936782082966
+Voices\Voices-1716.wav,Voices,Voices,True,0.999823302956067,0.9998330689073763
+Voices\Voices-1728.wav,Voices,Voices,True,0.9999902164157137,0.9999909073469532
+Voices\Voices-1731.wav,Voices,Voices,True,0.9953540312260893,0.9955447404082999
+Voices\Voices-1742.wav,Voices,Voices,True,0.9987080993186295,0.9987684407013013
+Voices\Voices-1743.wav,Voices,Voices,True,0.9973768395061997,0.9974908060926256
+Voices\Voices-1753.wav,Voices,Voices,True,0.9978015875653088,0.9979000951010304
+Voices\Voices-1768.wav,Voices,Voices,True,0.9956486839623839,0.9958238360552369
+Voices\Voices-1780.wav,Voices,Voices,True,0.999872168990446,0.9998793075816131
+Voices\Voices-1790.wav,Voices,Voices,True,0.9997584070554828,0.9997715624838815
+Voices\Voices-1795.wav,Voices,Voices,True,0.9994506014307876,0.9994785632850827
+Voices\Voices-1799.wav,Voices,Voices,True,0.9579194251068203,0.9590705514727209
+Voices\Voices-1815.wav,Voices,Voices,True,0.9998501241689108,0.9998588473747485
+Voices\Voices-1816.wav,Voices,Voices,True,0.9934099969366557,0.9936561785679257
+Voices\Voices-1819.wav,Voices,Voices,True,0.9987998431301617,0.9988568619014091
+Voices\Voices-1822.wav,Voices,Voices,True,0.9999639179249208,0.9999662810683534
+Voices\Voices-1829.wav,Voices,Voices,True,0.9993000824484964,0.9993347319121096
+Voices\Voices-1834.wav,Voices,Voices,True,0.9835887397542674,0.9841312041416213
+Voices\Voices-1835.wav,Voices,Voices,True,0.9783700801388133,0.9790681106950436
+Voices\Voices-1837.wav,Voices,Voices,True,0.9999826298792985,0.9999837986749469
+Voices\Voices-1842.wav,Voices,Voices,True,0.9999557515661445,0.99995851180876
+Voices\Voices-1843.wav,Voices,Voices,True,0.9942360129328635,0.9944711066921778
+Voices\Voices-1845.wav,Voices,Voices,True,0.9995664639625675,0.9995890332799057
+Voices\Voices-1851.wav,Voices,Voices,True,0.9982139079658393,0.9982974313168221
+Voices\Voices-1866.wav,Voices,Voices,True,0.998945567208177,0.9989951934171544
+Voices\Voices-1877.wav,Voices,Voices,True,0.9977328323094037,0.9978298459749023
+Voices\Voices-1878.wav,Voices,Voices,True,0.9998631924264861,0.9998710094326834
+Voices\Voices-1890.wav,Voices,Voices,True,0.9986663664270538,0.998729044773732
+Voices\Voices-1891.wav,Voices,Voices,True,0.9999515064024487,0.9999544306609862
+Voices\Voices-1893.wav,Voices,Voices,True,0.999915755725236,0.9999208708051732
+Wind turbine\Wind turbine-0013.wav,Wind turbine,Wind turbine,True,0.9999997745421083,0.9999997939113524
+Wind turbine\Wind turbine-0016.wav,Wind turbine,Wind turbine,True,0.999999991272304,0.9999999921221193
+Wind turbine\Wind turbine-0019.wav,Wind turbine,Wind turbine,True,0.9999999998929776,0.9999999999060307
+Wind turbine\Wind turbine-0023.wav,Wind turbine,Wind turbine,True,0.9999999391535751,0.9999999447825926
+Wind turbine\Wind turbine-0027.wav,Wind turbine,Wind turbine,True,0.9999999991004198,0.9999999991977471
+Wind turbine\Wind turbine-0032.wav,Wind turbine,Wind turbine,True,0.9999999317850565,0.9999999380549139
+Wind turbine\Wind turbine-0041.wav,Wind turbine,Wind turbine,True,0.999999997567562,0.9999999978181497
+Wind turbine\Wind turbine-0046.wav,Wind turbine,Wind turbine,True,0.9999834680898835,0.9999845530295587
+Wind turbine\Wind turbine-0054.wav,Wind turbine,Wind turbine,True,0.99999570984927,0.9999959904015281
+Wind turbine\Wind turbine-0056.wav,Wind turbine,Wind turbine,True,0.9931883699370401,0.9934315224267355
+Wind turbine\Wind turbine-0071.wav,Wind turbine,Wind turbine,True,0.9999999982399674,0.9999999984278498
+Wind turbine\Wind turbine-0073.wav,Wind turbine,Wind turbine,True,0.999999894280455,0.9999999035290756
+Wind turbine\Wind turbine-0081.wav,Wind turbine,Wind turbine,True,0.9999999548319234,0.9999999591004854
+Wind turbine\Wind turbine-0089.wav,Wind turbine,Wind turbine,True,0.9999999714455684,0.9999999740790553
+Wind turbine\Wind turbine-0091.wav,Wind turbine,Wind turbine,True,0.999999996115821,0.9999999965220476
+Workshop\air compressor\air compressor-0006.wav,Workshop,Workshop,True,0.9949602485270465,0.995101537460061
+Workshop\air compressor\air compressor-0017.wav,Workshop,Workshop,True,0.4713960759497467,0.47220608389493135
+Workshop\air compressor\air compressor-0025.wav,Workshop,Workshop,True,0.9934357378016694,0.9936529679030949
+Workshop\air compressor\air compressor-0026.wav,Workshop,Vacuum cleaner fan and hairdryer,False,0.9130932539889163,0.9140955731178483
+Workshop\air compressor\air compressor-0030.wav,Workshop,Workshop,True,0.9617012833569673,0.962384501422205
+Workshop\drill\drill-0001.wav,Workshop,Workshop,True,0.9866389727692864,0.987012147908445
+Workshop\drill\drill-0009.wav,Workshop,Workshop,True,0.8351312462358182,0.8370629658675637
+Workshop\drill\drill-0038.wav,Workshop,Workshop,True,0.9990052382230062,0.9990467565478853
+Workshop\drill\drill-0039.wav,Workshop,Workshop,True,0.9999812305171659,0.9999823363736414
+Workshop\drill\drill-0040.wav,Workshop,Workshop,True,0.999404407300279,0.9994290670841177
+Workshop\drill\drill-0044.wav,Workshop,Workshop,True,0.9886902946059192,0.9889555245598098
+Workshop\grinder\grinder-0005.wav,Workshop,Workshop,True,0.5855046637466708,0.5883648492949153
+Workshop\grinder\grinder-0019.wav,Workshop,Workshop,True,0.9978522157093811,0.9979229734151646
+Workshop\grinder\grinder-0037.wav,Workshop,Workshop,True,0.9996251086562448,0.9996421259887442
+Workshop\jackhammer\jackhammer-0001.wav,Workshop,Workshop,True,0.9999953710980138,0.9999956833112126
+Workshop\jackhammer\jackhammer-0006.wav,Workshop,Workshop,True,0.4956718889027191,0.4973912828944361
+Workshop\jackhammer\jackhammer-0007.wav,Workshop,Workshop,True,0.9999745020398672,0.9999759599578715
+Workshop\jackhammer\jackhammer-0013.wav,Workshop,Workshop,True,0.9999234927638727,0.9999276072243459
+Workshop\jackhammer\jackhammer-0024.wav,Workshop,Workshop,True,0.9999101792470915,0.9999152680504626
+Workshop\jackhammer\jackhammer-0027.wav,Workshop,Workshop,True,0.9999990892014641,0.9999991567703983
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,True,0.9999340318407455,0.9999373867197935
+Workshop\jackhammer\jackhammer-0040.wav,Workshop,Workshop,True,0.9999978233112496,0.999997976653293
+Workshop\jackhammer\jackhammer-0043.wav,Workshop,Workshop,True,0.9999923889430063,0.999992891088403
+Workshop\jackhammer\jackhammer-0050.wav,Workshop,Workshop,True,0.9999959560161881,0.9999962292977639
+Workshop\jackhammer\jackhammer-0052.wav,Workshop,Workshop,True,0.9999963853279966,0.9999966288454805
+Workshop\jackhammer\jackhammer-0055.wav,Workshop,Workshop,True,0.9949813200146916,0.9951554752821601
+Workshop\saw\saw-0001.wav,Workshop,Workshop,True,0.9989249584644041,0.9989693787286327
+Workshop\saw\saw-0002.wav,Workshop,Workshop,True,0.9999661219752543,0.9999681216072097
+Workshop\saw\saw-0014.wav,Workshop,Workshop,True,0.8598243989542229,0.8612344726930848
+Workshop\saw\saw-0017.wav,Workshop,Workshop,True,0.8245481881349095,0.8257460329524955
+Workshop\saw\saw-0028.wav,Workshop,Workshop,True,0.9982771762882088,0.9983430037915075
+Workshop\saw\saw-0038.wav,Workshop,Workshop,True,0.7640154336349788,0.7661389184672397
+Workshop\saw\saw-0040.wav,Workshop,Workshop,True,0.48975806454906856,0.4922123126829336

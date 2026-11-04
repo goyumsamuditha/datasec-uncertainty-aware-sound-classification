@@ -1,0 +1,23 @@
+main_class,total_files,unique_groups,confirmed_duplicate_files,individual_files,groups_per_file
+Voices,1900,1900,0,1900,1.0
+Music,245,245,0,245,1.0
+Thunder fireworks and gunshot,235,235,0,235,1.0
+Workshop,218,218,0,218,1.0
+Vehicle pass-by,217,217,0,217,1.0
+Lawn mower brush cutter and olive shaker,127,127,0,127,1.0
+Vehicle idling,112,112,0,112,1.0
+Glass breaking,109,108,2,107,0.9908
+Propeller aircrafts,108,108,0,108,1.0
+Crows seagulls and magpies,106,105,2,104,0.9906
+Sirens and alarms,105,105,0,105,1.0
+Jet aircrafts,103,103,0,103,1.0
+Wind turbine,100,100,0,100,1.0
+Vacuum cleaner fan and hairdryer,95,95,0,95,1.0
+Cicadas and crickets,74,74,0,74,1.0
+Dog barkings and howlings,70,70,0,70,1.0
+Birds,69,69,0,69,1.0
+Train,67,67,0,67,1.0
+Bells,67,67,0,67,1.0
+Chicken coop,58,58,0,58,1.0
+Horn,57,57,0,57,1.0
+Cat fights and moans,50,50,0,50,1.0

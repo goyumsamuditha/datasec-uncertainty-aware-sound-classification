@@ -1,0 +1,19 @@
+{
+    "method": "Global split conformal prediction",
+    "nonconformity_score": "1 - calibrated true-class probability",
+    "target_coverage": 0.9,
+    "alpha": 0.09999999999999998,
+    "random_seed": 42,
+    "temperature_fit_fraction": 0.5,
+    "temperature_fit_size": 321,
+    "conformal_calibration_size": 322,
+    "number_of_classes": 22,
+    "fitted_temperature": 1.0622955837959946,
+    "conformal_quantile_rank": 291,
+    "conformal_threshold": 0.55460322196368,
+    "empirical_calibration_coverage": 0.9037267080745341,
+    "average_prediction_set_size": 0.953416149068323,
+    "singleton_prediction_rate": 0.953416149068323,
+    "full_set_rate": 0.0,
+    "test_partition_accessed": false
+}

@@ -1,0 +1,25 @@
+{
+    "checkpoint": "G:\\My Drive\\MSC\\AI\\Assignment\\models\\cnn14_initial\\best_model.pt",
+    "checkpoint_epoch": 15,
+    "validation_recordings": 643,
+    "number_of_classes": 22,
+    "temperature": 0.9946939357723306,
+    "calibration_method": "Single-parameter temperature scaling",
+    "fitting_objective": "Validation negative log-likelihood",
+    "ece_bins": 15,
+    "before_calibration": {
+        "accuracy": 0.9409020217729394,
+        "macro_f1": 0.8960697124606416,
+        "nll": 0.18906157530778686,
+        "ece": 0.024066909297908477,
+        "brier_score": 0.09287394510171404
+    },
+    "after_calibration": {
+        "accuracy": 0.9409020217729394,
+        "macro_f1": 0.8960697124606416,
+        "nll": 0.18905717403017794,
+        "ece": 0.021373759097616286,
+        "brier_score": 0.09287223391538282
+    },
+    "test_partition_accessed": false
+}

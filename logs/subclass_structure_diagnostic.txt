@@ -1,0 +1,250 @@
+DATASEC SUBCLASS STRUCTURE DIAGNOSTIC
+============================================================
+
+1. FINAL SPLIT MANIFEST
+Rows: 4292
+Columns: ['relative_path', 'group_id', 'group_type', 'main_class', 'partition']
+
+First 10 relative paths:
+  Bells\Bells-0001.wav
+  Bells\Bells-0002.wav
+  Bells\Bells-0003.wav
+  Bells\Bells-0004.wav
+  Bells\Bells-0005.wav
+  Bells\Bells-0006.wav
+  Bells\Bells-0007.wav
+  Bells\Bells-0008.wav
+  Bells\Bells-0009.wav
+  Bells\Bells-0010.wav
+
+2. DATASET DIRECTORY STRUCTURE
+Directory: Bells
+    Bells-0001.wav
+    Bells-0002.wav
+    Bells-0003.wav
+    Bells-0004.wav
+    Bells-0005.wav
+    Bells-0006.wav
+    Bells-0007.wav
+    Bells-0008.wav
+Directory: Birds
+    Birds-0001.wav
+    Birds-0002.wav
+    Birds-0003.wav
+    Birds-0004.wav
+    Birds-0005.wav
+    Birds-0006.wav
+    Birds-0007.wav
+    Birds-0008.wav
+Directory: Cat fights and moans
+    Cat fights and moans-0001.wav
+    Cat fights and moans-0002.wav
+    Cat fights and moans-0003.wav
+    Cat fights and moans-0004.wav
+    Cat fights and moans-0005.wav
+    Cat fights and moans-0006.wav
+    Cat fights and moans-0007.wav
+    Cat fights and moans-0008.wav
+Directory: Chicken coop
+    Chicken coop-0001.wav
+    Chicken coop-0002.wav
+    Chicken coop-0003.wav
+    Chicken coop-0004.wav
+    Chicken coop-0005.wav
+    Chicken coop-0006.wav
+    Chicken coop-0007.wav
+    Chicken coop-0008.wav
+Directory: Cicadas and crickets
+    Cicadas
+    Crickets
+Directory: Crows seagulls and magpies
+    Crows
+    Magpies
+    Seagulls
+Directory: Dog barkings and howlings
+    Dog barkings and howlings-0001.wav
+    Dog barkings and howlings-0002.wav
+    Dog barkings and howlings-0003.wav
+    Dog barkings and howlings-0004.wav
+    Dog barkings and howlings-0005.wav
+    Dog barkings and howlings-0006.wav
+    Dog barkings and howlings-0007.wav
+    Dog barkings and howlings-0008.wav
+Directory: Glass breaking
+    Glass breaking-0001.wav
+    Glass breaking-0002.wav
+    Glass breaking-0003.wav
+    Glass breaking-0004.wav
+    Glass breaking-0005.wav
+    Glass breaking-0006.wav
+    Glass breaking-0007.wav
+    Glass breaking-0008.wav
+Directory: Horn
+    Horn-0001.wav
+    Horn-0002.wav
+    Horn-0003.wav
+    Horn-0004.wav
+    Horn-0005.wav
+    Horn-0006.wav
+    Horn-0007.wav
+    Horn-0008.wav
+Directory: Jet aircrafts
+    Jet aircrafts-0001.wav
+    Jet aircrafts-0002.wav
+    Jet aircrafts-0003.wav
+    Jet aircrafts-0004.wav
+    Jet aircrafts-0005.wav
+    Jet aircrafts-0006.wav
+    Jet aircrafts-0007.wav
+    Jet aircrafts-0008.wav
+Directory: Lawn mower brush cutter and olive shaker
+    Brush cutter
+    Lawn mower
+    Olive shaker
+Directory: Music
+    Music-0001.wav
+    Music-0002.wav
+    Music-0003.wav
+    Music-0004.wav
+    Music-0005.wav
+    Music-0006.wav
+    Music-0007.wav
+    Music-0008.wav
+Directory: Propeller aircrafts
+    Airplanes
+    Helicopters
+Directory: Sirens and alarms
+    Alarms
+    Sirens
+Directory: Thunder fireworks and gunshot
+    Fireworks
+    Gunshot
+    Thunder
+Directory: Train
+    Train-0001.wav
+    Train-0002.wav
+    Train-0003.wav
+    Train-0004.wav
+    Train-0005.wav
+    Train-0006.wav
+    Train-0007.wav
+    Train-0008.wav
+Directory: Vacuum cleaner fan and hairdryer
+    fan
+    hairdryer
+    vacuum cleaner
+Directory: Vehicle idling
+    car truck idling
+    motorbike idling
+Directory: Vehicle pass-by
+    car pass-by
+    motorbike pass-by
+    truck pass-by
+Directory: Voices
+    Voices-0001.wav
+    Voices-0002.wav
+    Voices-0003.wav
+    Voices-0004.wav
+    Voices-0005.wav
+    Voices-0006.wav
+    Voices-0007.wav
+    Voices-0008.wav
+Directory: Wind turbine
+    Wind turbine-0001.wav
+    Wind turbine-0002.wav
+    Wind turbine-0003.wav
+    Wind turbine-0004.wav
+    Wind turbine-0005.wav
+    Wind turbine-0006.wav
+    Wind turbine-0007.wav
+    Wind turbine-0008.wav
+Directory: Workshop
+    air compressor
+    drill
+    grinder
+    jackhammer
+    saw
+
+3. RELATIVE PATH COMPONENTS
+Path-depth counts: {2: 2895, 3: 1397}
+Most common parent folders:
+  Voices: 1900
+  Music: 245
+  Gunshot: 141
+  car pass-by: 110
+  Glass breaking: 109
+  Jet aircrafts: 103
+  Wind turbine: 100
+  Brush cutter: 86
+  car truck idling: 81
+  Dog barkings and howlings: 70
+  Birds: 69
+  Sirens: 68
+  Fireworks: 68
+  Bells: 67
+  Train: 67
+  jackhammer: 63
+  Chicken coop: 58
+  Helicopters: 58
+  Horn: 57
+  motorbike pass-by: 57
+  Cicadas: 54
+  Cat fights and moans: 50
+  Crows: 50
+  Airplanes: 50
+  truck pass-by: 50
+  drill: 45
+  saw: 42
+  grinder: 38
+  Alarms: 37
+  Seagulls: 35
+
+4. EXISTING CLASS MAPPING
+Rows: 4292
+Columns: ['file_name', 'relative_path', 'main_folder', 'subclass_folder']
+
+First 40 rows:
+  {'file_name': 'Bells-0001.wav', 'relative_path': 'Bells\\Bells-0001.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0002.wav', 'relative_path': 'Bells\\Bells-0002.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0003.wav', 'relative_path': 'Bells\\Bells-0003.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0004.wav', 'relative_path': 'Bells\\Bells-0004.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0005.wav', 'relative_path': 'Bells\\Bells-0005.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0006.wav', 'relative_path': 'Bells\\Bells-0006.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0007.wav', 'relative_path': 'Bells\\Bells-0007.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0008.wav', 'relative_path': 'Bells\\Bells-0008.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0009.wav', 'relative_path': 'Bells\\Bells-0009.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0010.wav', 'relative_path': 'Bells\\Bells-0010.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0011.wav', 'relative_path': 'Bells\\Bells-0011.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0012.wav', 'relative_path': 'Bells\\Bells-0012.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0013.wav', 'relative_path': 'Bells\\Bells-0013.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0014.wav', 'relative_path': 'Bells\\Bells-0014.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0015.wav', 'relative_path': 'Bells\\Bells-0015.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0016.wav', 'relative_path': 'Bells\\Bells-0016.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0017.wav', 'relative_path': 'Bells\\Bells-0017.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0018.wav', 'relative_path': 'Bells\\Bells-0018.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0019.wav', 'relative_path': 'Bells\\Bells-0019.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0020.wav', 'relative_path': 'Bells\\Bells-0020.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0021.wav', 'relative_path': 'Bells\\Bells-0021.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0022.wav', 'relative_path': 'Bells\\Bells-0022.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0023.wav', 'relative_path': 'Bells\\Bells-0023.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0024.wav', 'relative_path': 'Bells\\Bells-0024.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0025.wav', 'relative_path': 'Bells\\Bells-0025.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0026.wav', 'relative_path': 'Bells\\Bells-0026.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0027.wav', 'relative_path': 'Bells\\Bells-0027.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0028.wav', 'relative_path': 'Bells\\Bells-0028.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0029.wav', 'relative_path': 'Bells\\Bells-0029.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0030.wav', 'relative_path': 'Bells\\Bells-0030.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0031.wav', 'relative_path': 'Bells\\Bells-0031.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0032.wav', 'relative_path': 'Bells\\Bells-0032.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0033.wav', 'relative_path': 'Bells\\Bells-0033.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0034.wav', 'relative_path': 'Bells\\Bells-0034.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0035.wav', 'relative_path': 'Bells\\Bells-0035.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0036.wav', 'relative_path': 'Bells\\Bells-0036.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0037.wav', 'relative_path': 'Bells\\Bells-0037.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0038.wav', 'relative_path': 'Bells\\Bells-0038.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0039.wav', 'relative_path': 'Bells\\Bells-0039.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+  {'file_name': 'Bells-0040.wav', 'relative_path': 'Bells\\Bells-0040.wav', 'main_folder': 'Bells', 'subclass_folder': nan}
+
+5. SUBCLASS LABEL CHECK
+Possible subclass columns: []
+The final split manifest does not currently contain a recognisable subclass column.

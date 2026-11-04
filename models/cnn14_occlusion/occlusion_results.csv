@@ -1,0 +1,541 @@
+relative_path,actual_class,predicted_class,original_probability,mask_axis,segment,masked_probability,probability_drop,prediction_correct
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,0.9999340772628784,time,0,0.9926425814628601,0.0072914958000183105,True
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,0.9999340772628784,time,1,0.9992321729660034,0.000701904296875,True
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,0.9999340772628784,time,2,0.9976872205734253,0.002246856689453125,True
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,0.9999340772628784,time,3,0.9983003735542297,0.0016337037086486816,True
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,0.9999340772628784,time,4,0.9984807372093201,0.0014533400535583496,True
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,0.9999340772628784,time,5,0.9987102746963501,0.0012238025665283203,True
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,0.9999340772628784,time,6,0.9986209869384766,0.0013130903244018555,True
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,0.9999340772628784,time,7,0.9983848333358765,0.0015492439270019531,True
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,0.9999340772628784,time,8,0.9987872242927551,0.001146852970123291,True
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,0.9999340772628784,time,9,0.9962151646614075,0.0037189126014709473,True
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,0.9999340772628784,frequency,0,0.999772846698761,0.00016123056411743164,True
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,0.9999340772628784,frequency,1,0.9999387264251709,-4.649162292480469e-06,True
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,0.9999340772628784,frequency,2,0.9999572038650513,-2.3126602172851562e-05,True
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,0.9999340772628784,frequency,3,0.9999258518218994,8.225440979003906e-06,True
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,0.9999340772628784,frequency,4,0.999914288520813,1.9788742065429688e-05,True
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,0.9999340772628784,frequency,5,0.9997971653938293,0.00013691186904907227,True
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,0.9999340772628784,frequency,6,0.9995431900024414,0.0003908872604370117,True
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,0.9999340772628784,frequency,7,0.9998231530189514,0.00011092424392700195,True
+Voices\Voices-0382.wav,Voices,Voices,0.9999094009399414,time,0,0.9995469450950623,0.0003624558448791504,True
+Voices\Voices-0382.wav,Voices,Voices,0.9999094009399414,time,1,0.9998966455459595,1.2755393981933594e-05,True
+Voices\Voices-0382.wav,Voices,Voices,0.9999094009399414,time,2,0.9999216794967651,-1.2278556823730469e-05,True
+Voices\Voices-0382.wav,Voices,Voices,0.9999094009399414,time,3,0.9999386072158813,-2.9206275939941406e-05,True
+Voices\Voices-0382.wav,Voices,Voices,0.9999094009399414,time,4,0.9987817406654358,0.0011276602745056152,True
+Voices\Voices-0382.wav,Voices,Voices,0.9999094009399414,time,5,0.9991102814674377,0.0007991194725036621,True
+Voices\Voices-0382.wav,Voices,Voices,0.9999094009399414,time,6,0.9999094009399414,0.0,True
+Voices\Voices-0382.wav,Voices,Voices,0.9999094009399414,time,7,0.9999094009399414,0.0,True
+Voices\Voices-0382.wav,Voices,Voices,0.9999094009399414,time,8,0.9999094009399414,0.0,True
+Voices\Voices-0382.wav,Voices,Voices,0.9999094009399414,time,9,0.9999094009399414,0.0,True
+Voices\Voices-0382.wav,Voices,Voices,0.9999094009399414,frequency,0,0.9998781681060791,3.123283386230469e-05,True
+Voices\Voices-0382.wav,Voices,Voices,0.9999094009399414,frequency,1,0.9999737739562988,-6.437301635742188e-05,True
+Voices\Voices-0382.wav,Voices,Voices,0.9999094009399414,frequency,2,0.999995231628418,-8.58306884765625e-05,True
+Voices\Voices-0382.wav,Voices,Voices,0.9999094009399414,frequency,3,0.9999948740005493,-8.547306060791016e-05,True
+Voices\Voices-0382.wav,Voices,Voices,0.9999094009399414,frequency,4,0.9999860525131226,-7.665157318115234e-05,True
+Voices\Voices-0382.wav,Voices,Voices,0.9999094009399414,frequency,5,0.999944806098938,-3.540515899658203e-05,True
+Voices\Voices-0382.wav,Voices,Voices,0.9999094009399414,frequency,6,0.9998971223831177,1.2278556823730469e-05,True
+Voices\Voices-0382.wav,Voices,Voices,0.9999094009399414,frequency,7,0.999966025352478,-5.6624412536621094e-05,True
+Voices\Voices-1253.wav,Voices,Voices,0.9950056672096252,time,0,0.9877684712409973,0.00723719596862793,True
+Voices\Voices-1253.wav,Voices,Voices,0.9950056672096252,time,1,0.9990819692611694,-0.0040763020515441895,True
+Voices\Voices-1253.wav,Voices,Voices,0.9950056672096252,time,2,0.9931932091712952,0.0018124580383300781,True
+Voices\Voices-1253.wav,Voices,Voices,0.9950056672096252,time,3,0.9945211410522461,0.0004845261573791504,True
+Voices\Voices-1253.wav,Voices,Voices,0.9950056672096252,time,4,0.9862019419670105,0.008803725242614746,True
+Voices\Voices-1253.wav,Voices,Voices,0.9950056672096252,time,5,0.9940329194068909,0.000972747802734375,True
+Voices\Voices-1253.wav,Voices,Voices,0.9950056672096252,time,6,0.9950056672096252,0.0,True
+Voices\Voices-1253.wav,Voices,Voices,0.9950056672096252,time,7,0.9950056672096252,0.0,True
+Voices\Voices-1253.wav,Voices,Voices,0.9950056672096252,time,8,0.9950056672096252,0.0,True
+Voices\Voices-1253.wav,Voices,Voices,0.9950056672096252,time,9,0.9950056672096252,0.0,True
+Voices\Voices-1253.wav,Voices,Voices,0.9950056672096252,frequency,0,0.9922404289245605,0.0027652382850646973,True
+Voices\Voices-1253.wav,Voices,Voices,0.9950056672096252,frequency,1,0.9937711358070374,0.0012345314025878906,True
+Voices\Voices-1253.wav,Voices,Voices,0.9950056672096252,frequency,2,0.9930307269096375,0.001974940299987793,True
+Voices\Voices-1253.wav,Voices,Voices,0.9950056672096252,frequency,3,0.9983609318733215,-0.003355264663696289,True
+Voices\Voices-1253.wav,Voices,Voices,0.9950056672096252,frequency,4,0.9987447261810303,-0.0037390589714050293,True
+Voices\Voices-1253.wav,Voices,Voices,0.9950056672096252,frequency,5,0.9979312419891357,-0.002925574779510498,True
+Voices\Voices-1253.wav,Voices,Voices,0.9950056672096252,frequency,6,0.9975472092628479,-0.0025415420532226562,True
+Voices\Voices-1253.wav,Voices,Voices,0.9950056672096252,frequency,7,0.997796893119812,-0.0027912259101867676,True
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,0.5855322480201721,time,0,0.3413800895214081,0.24415215849876404,True
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,0.5855322480201721,time,1,0.6086474061012268,-0.023115158081054688,True
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,0.5855322480201721,time,2,0.5469567775726318,0.03857547044754028,True
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,0.5855322480201721,time,3,0.6461822390556335,-0.060649991035461426,True
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,0.5855322480201721,time,4,0.6048610210418701,-0.019328773021697998,True
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,0.5855322480201721,time,5,0.6085584163665771,-0.02302616834640503,True
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,0.5855322480201721,time,6,0.5855322480201721,0.0,True
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,0.5855322480201721,time,7,0.5855322480201721,0.0,True
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,0.5855322480201721,time,8,0.5855322480201721,0.0,True
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,0.5855322480201721,time,9,0.5855322480201721,0.0,True
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,0.5855322480201721,frequency,0,0.6039993166923523,-0.018467068672180176,True
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,0.5855322480201721,frequency,1,0.6759091019630432,-0.0903768539428711,True
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,0.5855322480201721,frequency,2,0.5506251454353333,0.03490710258483887,True
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,0.5855322480201721,frequency,3,0.540652334690094,0.044879913330078125,True
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,0.5855322480201721,frequency,4,0.4568699300289154,0.1286623179912567,True
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,0.5855322480201721,frequency,5,0.5504692196846008,0.03506302833557129,True
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,0.5855322480201721,frequency,6,0.4651539623737335,0.1203782856464386,True
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,0.5855322480201721,frequency,7,0.46726953983306885,0.11826270818710327,True
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,0,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,1,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,2,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,3,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,4,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,5,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,6,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,7,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,8,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,9,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,frequency,0,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,frequency,1,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,frequency,2,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,frequency,3,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,frequency,4,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,frequency,5,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,frequency,6,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,frequency,7,1.0,0.0,True
+Voices\Voices-0840.wav,Voices,Voices,0.9998929500579834,time,0,0.9981604218482971,0.0017325282096862793,True
+Voices\Voices-0840.wav,Voices,Voices,0.9998929500579834,time,1,0.9999899864196777,-9.703636169433594e-05,True
+Voices\Voices-0840.wav,Voices,Voices,0.9998929500579834,time,2,0.9997988343238831,9.41157341003418e-05,True
+Voices\Voices-0840.wav,Voices,Voices,0.9998929500579834,time,3,0.9999209642410278,-2.8014183044433594e-05,True
+Voices\Voices-0840.wav,Voices,Voices,0.9998929500579834,time,4,0.9991700649261475,0.0007228851318359375,True
+Voices\Voices-0840.wav,Voices,Voices,0.9998929500579834,time,5,0.9998929500579834,0.0,True
+Voices\Voices-0840.wav,Voices,Voices,0.9998929500579834,time,6,0.9998929500579834,0.0,True
+Voices\Voices-0840.wav,Voices,Voices,0.9998929500579834,time,7,0.9998929500579834,0.0,True
+Voices\Voices-0840.wav,Voices,Voices,0.9998929500579834,time,8,0.9998929500579834,0.0,True
+Voices\Voices-0840.wav,Voices,Voices,0.9998929500579834,time,9,0.9998929500579834,0.0,True
+Voices\Voices-0840.wav,Voices,Voices,0.9998929500579834,frequency,0,0.9948031306266785,0.005089819431304932,True
+Voices\Voices-0840.wav,Voices,Voices,0.9998929500579834,frequency,1,0.9998983144760132,-5.364418029785156e-06,True
+Voices\Voices-0840.wav,Voices,Voices,0.9998929500579834,frequency,2,0.9999604225158691,-6.747245788574219e-05,True
+Voices\Voices-0840.wav,Voices,Voices,0.9998929500579834,frequency,3,0.9999098777770996,-1.6927719116210938e-05,True
+Voices\Voices-0840.wav,Voices,Voices,0.9998929500579834,frequency,4,0.9999128580093384,-1.990795135498047e-05,True
+Voices\Voices-0840.wav,Voices,Voices,0.9998929500579834,frequency,5,0.9999380111694336,-4.506111145019531e-05,True
+Voices\Voices-0840.wav,Voices,Voices,0.9998929500579834,frequency,6,0.999893307685852,-3.5762786865234375e-07,True
+Voices\Voices-0840.wav,Voices,Voices,0.9998929500579834,frequency,7,0.9999353885650635,-4.2438507080078125e-05,True
+Wind turbine\Wind turbine-0016.wav,Wind turbine,Wind turbine,1.0,time,0,0.9992552399635315,0.0007447600364685059,True
+Wind turbine\Wind turbine-0016.wav,Wind turbine,Wind turbine,1.0,time,1,0.9999972581863403,2.7418136596679688e-06,True
+Wind turbine\Wind turbine-0016.wav,Wind turbine,Wind turbine,1.0,time,2,0.9999973773956299,2.6226043701171875e-06,True
+Wind turbine\Wind turbine-0016.wav,Wind turbine,Wind turbine,1.0,time,3,0.9999964237213135,3.5762786865234375e-06,True
+Wind turbine\Wind turbine-0016.wav,Wind turbine,Wind turbine,1.0,time,4,0.9999973773956299,2.6226043701171875e-06,True
+Wind turbine\Wind turbine-0016.wav,Wind turbine,Wind turbine,1.0,time,5,0.9999969005584717,3.0994415283203125e-06,True
+Wind turbine\Wind turbine-0016.wav,Wind turbine,Wind turbine,1.0,time,6,0.9999961853027344,3.814697265625e-06,True
+Wind turbine\Wind turbine-0016.wav,Wind turbine,Wind turbine,1.0,time,7,0.9999979734420776,2.0265579223632812e-06,True
+Wind turbine\Wind turbine-0016.wav,Wind turbine,Wind turbine,1.0,time,8,0.9999990463256836,9.5367431640625e-07,True
+Wind turbine\Wind turbine-0016.wav,Wind turbine,Wind turbine,1.0,time,9,0.999985933303833,1.4066696166992188e-05,True
+Wind turbine\Wind turbine-0016.wav,Wind turbine,Wind turbine,1.0,frequency,0,0.9962789416313171,0.0037210583686828613,True
+Wind turbine\Wind turbine-0016.wav,Wind turbine,Wind turbine,1.0,frequency,1,0.9999995231628418,4.76837158203125e-07,True
+Wind turbine\Wind turbine-0016.wav,Wind turbine,Wind turbine,1.0,frequency,2,0.9999947547912598,5.245208740234375e-06,True
+Wind turbine\Wind turbine-0016.wav,Wind turbine,Wind turbine,1.0,frequency,3,0.99997878074646,2.1219253540039062e-05,True
+Wind turbine\Wind turbine-0016.wav,Wind turbine,Wind turbine,1.0,frequency,4,0.9999988079071045,1.1920928955078125e-06,True
+Wind turbine\Wind turbine-0016.wav,Wind turbine,Wind turbine,1.0,frequency,5,0.9999995231628418,4.76837158203125e-07,True
+Wind turbine\Wind turbine-0016.wav,Wind turbine,Wind turbine,1.0,frequency,6,0.9986605644226074,0.0013394355773925781,True
+Wind turbine\Wind turbine-0016.wav,Wind turbine,Wind turbine,1.0,frequency,7,1.0,0.0,True
+Voices\Voices-0487.wav,Voices,Voices,0.9962387084960938,time,0,0.023496948182582855,0.9727417603135109,True
+Voices\Voices-0487.wav,Voices,Voices,0.9962387084960938,time,1,0.9962387084960938,0.0,True
+Voices\Voices-0487.wav,Voices,Voices,0.9962387084960938,time,2,0.9962387084960938,0.0,True
+Voices\Voices-0487.wav,Voices,Voices,0.9962387084960938,time,3,0.9962387084960938,0.0,True
+Voices\Voices-0487.wav,Voices,Voices,0.9962387084960938,time,4,0.9962387084960938,0.0,True
+Voices\Voices-0487.wav,Voices,Voices,0.9962387084960938,time,5,0.9962387084960938,0.0,True
+Voices\Voices-0487.wav,Voices,Voices,0.9962387084960938,time,6,0.9962387084960938,0.0,True
+Voices\Voices-0487.wav,Voices,Voices,0.9962387084960938,time,7,0.9962387084960938,0.0,True
+Voices\Voices-0487.wav,Voices,Voices,0.9962387084960938,time,8,0.9962387084960938,0.0,True
+Voices\Voices-0487.wav,Voices,Voices,0.9962387084960938,time,9,0.9962387084960938,0.0,True
+Voices\Voices-0487.wav,Voices,Voices,0.9962387084960938,frequency,0,0.9940138459205627,0.002224862575531006,True
+Voices\Voices-0487.wav,Voices,Voices,0.9962387084960938,frequency,1,0.9979117512702942,-0.0016730427742004395,True
+Voices\Voices-0487.wav,Voices,Voices,0.9962387084960938,frequency,2,0.9974954128265381,-0.001256704330444336,True
+Voices\Voices-0487.wav,Voices,Voices,0.9962387084960938,frequency,3,0.9978645443916321,-0.00162583589553833,True
+Voices\Voices-0487.wav,Voices,Voices,0.9962387084960938,frequency,4,0.9997548460960388,-0.0035161375999450684,True
+Voices\Voices-0487.wav,Voices,Voices,0.9962387084960938,frequency,5,0.9967513084411621,-0.0005125999450683594,True
+Voices\Voices-0487.wav,Voices,Voices,0.9962387084960938,frequency,6,0.9981772899627686,-0.0019385814666748047,True
+Voices\Voices-0487.wav,Voices,Voices,0.9962387084960938,frequency,7,0.9973810315132141,-0.0011423230171203613,True
+Workshop\air compressor\air compressor-0017.wav,Workshop,Workshop,0.47142869234085083,time,0,0.34052449464797974,0.1309041976928711,True
+Workshop\air compressor\air compressor-0017.wav,Workshop,Workshop,0.47142869234085083,time,1,0.5142080783843994,-0.042779386043548584,True
+Workshop\air compressor\air compressor-0017.wav,Workshop,Workshop,0.47142869234085083,time,2,0.5083736181259155,-0.0369449257850647,True
+Workshop\air compressor\air compressor-0017.wav,Workshop,Workshop,0.47142869234085083,time,3,0.495347797870636,-0.023919105529785156,True
+Workshop\air compressor\air compressor-0017.wav,Workshop,Workshop,0.47142869234085083,time,4,0.5250323414802551,-0.0536036491394043,True
+Workshop\air compressor\air compressor-0017.wav,Workshop,Workshop,0.47142869234085083,time,5,0.5404801368713379,-0.06905144453048706,True
+Workshop\air compressor\air compressor-0017.wav,Workshop,Workshop,0.47142869234085083,time,6,0.5102536678314209,-0.03882497549057007,True
+Workshop\air compressor\air compressor-0017.wav,Workshop,Workshop,0.47142869234085083,time,7,0.48656949400901794,-0.015140801668167114,True
+Workshop\air compressor\air compressor-0017.wav,Workshop,Workshop,0.47142869234085083,time,8,0.4884710907936096,-0.01704239845275879,True
+Workshop\air compressor\air compressor-0017.wav,Workshop,Workshop,0.47142869234085083,time,9,0.21317343413829803,0.2582552582025528,True
+Workshop\air compressor\air compressor-0017.wav,Workshop,Workshop,0.47142869234085083,frequency,0,0.2034706026315689,0.2679580897092819,True
+Workshop\air compressor\air compressor-0017.wav,Workshop,Workshop,0.47142869234085083,frequency,1,0.445169061422348,0.026259630918502808,True
+Workshop\air compressor\air compressor-0017.wav,Workshop,Workshop,0.47142869234085083,frequency,2,0.539135754108429,-0.06770706176757812,True
+Workshop\air compressor\air compressor-0017.wav,Workshop,Workshop,0.47142869234085083,frequency,3,0.6915450096130371,-0.22011631727218628,True
+Workshop\air compressor\air compressor-0017.wav,Workshop,Workshop,0.47142869234085083,frequency,4,0.8654433488845825,-0.3940146565437317,True
+Workshop\air compressor\air compressor-0017.wav,Workshop,Workshop,0.47142869234085083,frequency,5,0.7371358871459961,-0.26570719480514526,True
+Workshop\air compressor\air compressor-0017.wav,Workshop,Workshop,0.47142869234085083,frequency,6,0.5140241384506226,-0.04259544610977173,True
+Workshop\air compressor\air compressor-0017.wav,Workshop,Workshop,0.47142869234085083,frequency,7,0.4579104483127594,0.01351824402809143,True
+Propeller aircrafts\Airplanes\Airplanes-0027.wav,Propeller aircrafts,Propeller aircrafts,0.9929091930389404,time,0,0.7024524807929993,0.29045671224594116,True
+Propeller aircrafts\Airplanes\Airplanes-0027.wav,Propeller aircrafts,Propeller aircrafts,0.9929091930389404,time,1,0.8890361189842224,0.10387307405471802,True
+Propeller aircrafts\Airplanes\Airplanes-0027.wav,Propeller aircrafts,Propeller aircrafts,0.9929091930389404,time,2,0.916226327419281,0.07668286561965942,True
+Propeller aircrafts\Airplanes\Airplanes-0027.wav,Propeller aircrafts,Propeller aircrafts,0.9929091930389404,time,3,0.8870182633399963,0.10589092969894409,True
+Propeller aircrafts\Airplanes\Airplanes-0027.wav,Propeller aircrafts,Propeller aircrafts,0.9929091930389404,time,4,0.9291999340057373,0.06370925903320312,True
+Propeller aircrafts\Airplanes\Airplanes-0027.wav,Propeller aircrafts,Propeller aircrafts,0.9929091930389404,time,5,0.8564789295196533,0.1364302635192871,True
+Propeller aircrafts\Airplanes\Airplanes-0027.wav,Propeller aircrafts,Propeller aircrafts,0.9929091930389404,time,6,0.8742976784706116,0.11861151456832886,True
+Propeller aircrafts\Airplanes\Airplanes-0027.wav,Propeller aircrafts,Propeller aircrafts,0.9929091930389404,time,7,0.8475748896598816,0.14533430337905884,True
+Propeller aircrafts\Airplanes\Airplanes-0027.wav,Propeller aircrafts,Propeller aircrafts,0.9929091930389404,time,8,0.87360018491745,0.11930900812149048,True
+Propeller aircrafts\Airplanes\Airplanes-0027.wav,Propeller aircrafts,Propeller aircrafts,0.9929091930389404,time,9,0.7820913195610046,0.2108178734779358,True
+Propeller aircrafts\Airplanes\Airplanes-0027.wav,Propeller aircrafts,Propeller aircrafts,0.9929091930389404,frequency,0,0.9703916907310486,0.022517502307891846,True
+Propeller aircrafts\Airplanes\Airplanes-0027.wav,Propeller aircrafts,Propeller aircrafts,0.9929091930389404,frequency,1,0.9620280861854553,0.030881106853485107,True
+Propeller aircrafts\Airplanes\Airplanes-0027.wav,Propeller aircrafts,Propeller aircrafts,0.9929091930389404,frequency,2,0.9792560338973999,0.013653159141540527,True
+Propeller aircrafts\Airplanes\Airplanes-0027.wav,Propeller aircrafts,Propeller aircrafts,0.9929091930389404,frequency,3,0.9259573817253113,0.06695181131362915,True
+Propeller aircrafts\Airplanes\Airplanes-0027.wav,Propeller aircrafts,Propeller aircrafts,0.9929091930389404,frequency,4,0.9650217890739441,0.027887403964996338,True
+Propeller aircrafts\Airplanes\Airplanes-0027.wav,Propeller aircrafts,Propeller aircrafts,0.9929091930389404,frequency,5,0.9876337051391602,0.0052754878997802734,True
+Propeller aircrafts\Airplanes\Airplanes-0027.wav,Propeller aircrafts,Propeller aircrafts,0.9929091930389404,frequency,6,0.9793815612792969,0.013527631759643555,True
+Propeller aircrafts\Airplanes\Airplanes-0027.wav,Propeller aircrafts,Propeller aircrafts,0.9929091930389404,frequency,7,0.9659557342529297,0.026953458786010742,True
+Voices\Voices-0353.wav,Voices,Voices,0.999327540397644,time,0,0.021558396518230438,0.9777691438794136,True
+Voices\Voices-0353.wav,Voices,Voices,0.999327540397644,time,1,0.9983776807785034,0.000949859619140625,True
+Voices\Voices-0353.wav,Voices,Voices,0.999327540397644,time,2,0.999327540397644,0.0,True
+Voices\Voices-0353.wav,Voices,Voices,0.999327540397644,time,3,0.999327540397644,0.0,True
+Voices\Voices-0353.wav,Voices,Voices,0.999327540397644,time,4,0.999327540397644,0.0,True
+Voices\Voices-0353.wav,Voices,Voices,0.999327540397644,time,5,0.999327540397644,0.0,True
+Voices\Voices-0353.wav,Voices,Voices,0.999327540397644,time,6,0.999327540397644,0.0,True
+Voices\Voices-0353.wav,Voices,Voices,0.999327540397644,time,7,0.999327540397644,0.0,True
+Voices\Voices-0353.wav,Voices,Voices,0.999327540397644,time,8,0.999327540397644,0.0,True
+Voices\Voices-0353.wav,Voices,Voices,0.999327540397644,time,9,0.999327540397644,0.0,True
+Voices\Voices-0353.wav,Voices,Voices,0.999327540397644,frequency,0,0.9981628060340881,0.0011647343635559082,True
+Voices\Voices-0353.wav,Voices,Voices,0.999327540397644,frequency,1,0.9993084669113159,1.9073486328125e-05,True
+Voices\Voices-0353.wav,Voices,Voices,0.999327540397644,frequency,2,0.9991932511329651,0.00013428926467895508,True
+Voices\Voices-0353.wav,Voices,Voices,0.999327540397644,frequency,3,0.9994340538978577,-0.00010651350021362305,True
+Voices\Voices-0353.wav,Voices,Voices,0.999327540397644,frequency,4,0.9998995065689087,-0.0005719661712646484,True
+Voices\Voices-0353.wav,Voices,Voices,0.999327540397644,frequency,5,0.9997765421867371,-0.0004490017890930176,True
+Voices\Voices-0353.wav,Voices,Voices,0.999327540397644,frequency,6,0.9993268251419067,7.152557373046875e-07,True
+Voices\Voices-0353.wav,Voices,Voices,0.999327540397644,frequency,7,0.9992127418518066,0.00011479854583740234,True
+Propeller aircrafts\Airplanes\Airplanes-0045.wav,Propeller aircrafts,Propeller aircrafts,0.9999047517776489,time,0,0.9979881048202515,0.001916646957397461,True
+Propeller aircrafts\Airplanes\Airplanes-0045.wav,Propeller aircrafts,Propeller aircrafts,0.9999047517776489,time,1,0.9998761415481567,2.86102294921875e-05,True
+Propeller aircrafts\Airplanes\Airplanes-0045.wav,Propeller aircrafts,Propeller aircrafts,0.9999047517776489,time,2,0.9997538924217224,0.00015085935592651367,True
+Propeller aircrafts\Airplanes\Airplanes-0045.wav,Propeller aircrafts,Propeller aircrafts,0.9999047517776489,time,3,0.9986032843589783,0.0013014674186706543,True
+Propeller aircrafts\Airplanes\Airplanes-0045.wav,Propeller aircrafts,Propeller aircrafts,0.9999047517776489,time,4,0.9996159076690674,0.00028884410858154297,True
+Propeller aircrafts\Airplanes\Airplanes-0045.wav,Propeller aircrafts,Propeller aircrafts,0.9999047517776489,time,5,0.999566376209259,0.0003383755683898926,True
+Propeller aircrafts\Airplanes\Airplanes-0045.wav,Propeller aircrafts,Propeller aircrafts,0.9999047517776489,time,6,0.9986609220504761,0.0012438297271728516,True
+Propeller aircrafts\Airplanes\Airplanes-0045.wav,Propeller aircrafts,Propeller aircrafts,0.9999047517776489,time,7,0.9995614886283875,0.0003432631492614746,True
+Propeller aircrafts\Airplanes\Airplanes-0045.wav,Propeller aircrafts,Propeller aircrafts,0.9999047517776489,time,8,0.9990204572677612,0.0008842945098876953,True
+Propeller aircrafts\Airplanes\Airplanes-0045.wav,Propeller aircrafts,Propeller aircrafts,0.9999047517776489,time,9,0.9993645548820496,0.0005401968955993652,True
+Propeller aircrafts\Airplanes\Airplanes-0045.wav,Propeller aircrafts,Propeller aircrafts,0.9999047517776489,frequency,0,0.9998644590377808,4.029273986816406e-05,True
+Propeller aircrafts\Airplanes\Airplanes-0045.wav,Propeller aircrafts,Propeller aircrafts,0.9999047517776489,frequency,1,0.9999735355377197,-6.878376007080078e-05,True
+Propeller aircrafts\Airplanes\Airplanes-0045.wav,Propeller aircrafts,Propeller aircrafts,0.9999047517776489,frequency,2,0.9965410828590393,0.003363668918609619,True
+Propeller aircrafts\Airplanes\Airplanes-0045.wav,Propeller aircrafts,Propeller aircrafts,0.9999047517776489,frequency,3,0.9999308586120605,-2.6106834411621094e-05,True
+Propeller aircrafts\Airplanes\Airplanes-0045.wav,Propeller aircrafts,Propeller aircrafts,0.9999047517776489,frequency,4,0.999958872795105,-5.412101745605469e-05,True
+Propeller aircrafts\Airplanes\Airplanes-0045.wav,Propeller aircrafts,Propeller aircrafts,0.9999047517776489,frequency,5,0.9997207522392273,0.00018399953842163086,True
+Propeller aircrafts\Airplanes\Airplanes-0045.wav,Propeller aircrafts,Propeller aircrafts,0.9999047517776489,frequency,6,0.9998676776885986,3.707408905029297e-05,True
+Propeller aircrafts\Airplanes\Airplanes-0045.wav,Propeller aircrafts,Propeller aircrafts,0.9999047517776489,frequency,7,0.9997782111167908,0.0001265406608581543,True
+Propeller aircrafts\Helicopters\Helicopters-0034.wav,Propeller aircrafts,Propeller aircrafts,0.8243957161903381,time,0,0.5966143012046814,0.22778141498565674,True
+Propeller aircrafts\Helicopters\Helicopters-0034.wav,Propeller aircrafts,Propeller aircrafts,0.8243957161903381,time,1,0.7670784592628479,0.057317256927490234,True
+Propeller aircrafts\Helicopters\Helicopters-0034.wav,Propeller aircrafts,Propeller aircrafts,0.8243957161903381,time,2,0.7150475978851318,0.1093481183052063,True
+Propeller aircrafts\Helicopters\Helicopters-0034.wav,Propeller aircrafts,Propeller aircrafts,0.8243957161903381,time,3,0.7689189314842224,0.05547678470611572,True
+Propeller aircrafts\Helicopters\Helicopters-0034.wav,Propeller aircrafts,Propeller aircrafts,0.8243957161903381,time,4,0.743103563785553,0.08129215240478516,True
+Propeller aircrafts\Helicopters\Helicopters-0034.wav,Propeller aircrafts,Propeller aircrafts,0.8243957161903381,time,5,0.7067587971687317,0.11763691902160645,True
+Propeller aircrafts\Helicopters\Helicopters-0034.wav,Propeller aircrafts,Propeller aircrafts,0.8243957161903381,time,6,0.7817771434783936,0.04261857271194458,True
+Propeller aircrafts\Helicopters\Helicopters-0034.wav,Propeller aircrafts,Propeller aircrafts,0.8243957161903381,time,7,0.7573731541633606,0.06702256202697754,True
+Propeller aircrafts\Helicopters\Helicopters-0034.wav,Propeller aircrafts,Propeller aircrafts,0.8243957161903381,time,8,0.7411915063858032,0.08320420980453491,True
+Propeller aircrafts\Helicopters\Helicopters-0034.wav,Propeller aircrafts,Propeller aircrafts,0.8243957161903381,time,9,0.6753321290016174,0.1490635871887207,True
+Propeller aircrafts\Helicopters\Helicopters-0034.wav,Propeller aircrafts,Propeller aircrafts,0.8243957161903381,frequency,0,0.12589207291603088,0.6985036432743073,True
+Propeller aircrafts\Helicopters\Helicopters-0034.wav,Propeller aircrafts,Propeller aircrafts,0.8243957161903381,frequency,1,0.833106517791748,-0.008710801601409912,True
+Propeller aircrafts\Helicopters\Helicopters-0034.wav,Propeller aircrafts,Propeller aircrafts,0.8243957161903381,frequency,2,0.602453887462616,0.22194182872772217,True
+Propeller aircrafts\Helicopters\Helicopters-0034.wav,Propeller aircrafts,Propeller aircrafts,0.8243957161903381,frequency,3,0.5062119364738464,0.3181837797164917,True
+Propeller aircrafts\Helicopters\Helicopters-0034.wav,Propeller aircrafts,Propeller aircrafts,0.8243957161903381,frequency,4,0.9818036556243896,-0.1574079394340515,True
+Propeller aircrafts\Helicopters\Helicopters-0034.wav,Propeller aircrafts,Propeller aircrafts,0.8243957161903381,frequency,5,0.7361158132553101,0.08827990293502808,True
+Propeller aircrafts\Helicopters\Helicopters-0034.wav,Propeller aircrafts,Propeller aircrafts,0.8243957161903381,frequency,6,0.5226999521255493,0.3016957640647888,True
+Propeller aircrafts\Helicopters\Helicopters-0034.wav,Propeller aircrafts,Propeller aircrafts,0.8243957161903381,frequency,7,0.7377450466156006,0.08665066957473755,True
+Glass breaking\Glass breaking-0045.wav,Glass breaking,Glass breaking,1.0,time,0,1.0,0.0,True
+Glass breaking\Glass breaking-0045.wav,Glass breaking,Glass breaking,1.0,time,1,1.0,0.0,True
+Glass breaking\Glass breaking-0045.wav,Glass breaking,Glass breaking,1.0,time,2,1.0,0.0,True
+Glass breaking\Glass breaking-0045.wav,Glass breaking,Glass breaking,1.0,time,3,1.0,0.0,True
+Glass breaking\Glass breaking-0045.wav,Glass breaking,Glass breaking,1.0,time,4,1.0,0.0,True
+Glass breaking\Glass breaking-0045.wav,Glass breaking,Glass breaking,1.0,time,5,1.0,0.0,True
+Glass breaking\Glass breaking-0045.wav,Glass breaking,Glass breaking,1.0,time,6,1.0,0.0,True
+Glass breaking\Glass breaking-0045.wav,Glass breaking,Glass breaking,1.0,time,7,1.0,0.0,True
+Glass breaking\Glass breaking-0045.wav,Glass breaking,Glass breaking,1.0,time,8,1.0,0.0,True
+Glass breaking\Glass breaking-0045.wav,Glass breaking,Glass breaking,1.0,time,9,1.0,0.0,True
+Glass breaking\Glass breaking-0045.wav,Glass breaking,Glass breaking,1.0,frequency,0,1.0,0.0,True
+Glass breaking\Glass breaking-0045.wav,Glass breaking,Glass breaking,1.0,frequency,1,1.0,0.0,True
+Glass breaking\Glass breaking-0045.wav,Glass breaking,Glass breaking,1.0,frequency,2,1.0,0.0,True
+Glass breaking\Glass breaking-0045.wav,Glass breaking,Glass breaking,1.0,frequency,3,1.0,0.0,True
+Glass breaking\Glass breaking-0045.wav,Glass breaking,Glass breaking,1.0,frequency,4,1.0,0.0,True
+Glass breaking\Glass breaking-0045.wav,Glass breaking,Glass breaking,1.0,frequency,5,1.0,0.0,True
+Glass breaking\Glass breaking-0045.wav,Glass breaking,Glass breaking,1.0,frequency,6,1.0,0.0,True
+Glass breaking\Glass breaking-0045.wav,Glass breaking,Glass breaking,1.0,frequency,7,1.0,0.0,True
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0028.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,0.994495689868927,time,0,0.6058966517448425,0.3885990381240845,True
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0028.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,0.994495689868927,time,1,0.8472689390182495,0.1472267508506775,True
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0028.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,0.994495689868927,time,2,0.9055626392364502,0.0889330506324768,True
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0028.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,0.994495689868927,time,3,0.8086775541305542,0.1858181357383728,True
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0028.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,0.994495689868927,time,4,0.8630210757255554,0.13147461414337158,True
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0028.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,0.994495689868927,time,5,0.838927686214447,0.15556800365447998,True
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0028.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,0.994495689868927,time,6,0.8886100053787231,0.10588568449020386,True
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0028.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,0.994495689868927,time,7,0.8755316734313965,0.11896401643753052,True
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0028.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,0.994495689868927,time,8,0.8567661046981812,0.13772958517074585,True
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0028.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,0.994495689868927,time,9,0.865203320980072,0.12929236888885498,True
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0028.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,0.994495689868927,frequency,0,0.9838579297065735,0.010637760162353516,True
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0028.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,0.994495689868927,frequency,1,0.9713395833969116,0.02315610647201538,True
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0028.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,0.994495689868927,frequency,2,0.9812012910842896,0.013294398784637451,True
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0028.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,0.994495689868927,frequency,3,0.9878068566322327,0.006688833236694336,True
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0028.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,0.994495689868927,frequency,4,0.988943338394165,0.005552351474761963,True
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0028.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,0.994495689868927,frequency,5,0.9938105940818787,0.0006850957870483398,True
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0028.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,0.994495689868927,frequency,6,0.9971827268600464,-0.0026870369911193848,True
+Lawn mower brush cutter and olive shaker\Brush cutter\Brush cutter-0028.wav,Lawn mower brush cutter and olive shaker,Lawn mower brush cutter and olive shaker,0.994495689868927,frequency,7,0.9875045418739319,0.006991147994995117,True
+Voices\Voices-0068.wav,Voices,Voices,0.9972177743911743,time,0,0.023496948182582855,0.9737208262085915,True
+Voices\Voices-0068.wav,Voices,Voices,0.9972177743911743,time,1,0.9972177743911743,0.0,True
+Voices\Voices-0068.wav,Voices,Voices,0.9972177743911743,time,2,0.9972177743911743,0.0,True
+Voices\Voices-0068.wav,Voices,Voices,0.9972177743911743,time,3,0.9972177743911743,0.0,True
+Voices\Voices-0068.wav,Voices,Voices,0.9972177743911743,time,4,0.9972177743911743,0.0,True
+Voices\Voices-0068.wav,Voices,Voices,0.9972177743911743,time,5,0.9972177743911743,0.0,True
+Voices\Voices-0068.wav,Voices,Voices,0.9972177743911743,time,6,0.9972177743911743,0.0,True
+Voices\Voices-0068.wav,Voices,Voices,0.9972177743911743,time,7,0.9972177743911743,0.0,True
+Voices\Voices-0068.wav,Voices,Voices,0.9972177743911743,time,8,0.9972177743911743,0.0,True
+Voices\Voices-0068.wav,Voices,Voices,0.9972177743911743,time,9,0.9972177743911743,0.0,True
+Voices\Voices-0068.wav,Voices,Voices,0.9972177743911743,frequency,0,0.7727741599082947,0.22444361448287964,True
+Voices\Voices-0068.wav,Voices,Voices,0.9972177743911743,frequency,1,0.9965401887893677,0.0006775856018066406,True
+Voices\Voices-0068.wav,Voices,Voices,0.9972177743911743,frequency,2,0.9980362057685852,-0.0008184313774108887,True
+Voices\Voices-0068.wav,Voices,Voices,0.9972177743911743,frequency,3,0.9977865219116211,-0.0005687475204467773,True
+Voices\Voices-0068.wav,Voices,Voices,0.9972177743911743,frequency,4,0.9991160035133362,-0.0018982291221618652,True
+Voices\Voices-0068.wav,Voices,Voices,0.9972177743911743,frequency,5,0.9988946318626404,-0.0016768574714660645,True
+Voices\Voices-0068.wav,Voices,Voices,0.9972177743911743,frequency,6,0.99716717004776,5.060434341430664e-05,True
+Voices\Voices-0068.wav,Voices,Voices,0.9972177743911743,frequency,7,0.9973799586296082,-0.0001621842384338379,True
+Voices\Voices-0702.wav,Voices,Voices,0.9822165966033936,time,0,0.7403485178947449,0.24186807870864868,True
+Voices\Voices-0702.wav,Voices,Voices,0.9822165966033936,time,1,0.9980121850967407,-0.015795588493347168,True
+Voices\Voices-0702.wav,Voices,Voices,0.9822165966033936,time,2,0.9825575947761536,-0.00034099817276000977,True
+Voices\Voices-0702.wav,Voices,Voices,0.9822165966033936,time,3,0.9822165966033936,0.0,True
+Voices\Voices-0702.wav,Voices,Voices,0.9822165966033936,time,4,0.9822165966033936,0.0,True
+Voices\Voices-0702.wav,Voices,Voices,0.9822165966033936,time,5,0.9822165966033936,0.0,True
+Voices\Voices-0702.wav,Voices,Voices,0.9822165966033936,time,6,0.9822165966033936,0.0,True
+Voices\Voices-0702.wav,Voices,Voices,0.9822165966033936,time,7,0.9822165966033936,0.0,True
+Voices\Voices-0702.wav,Voices,Voices,0.9822165966033936,time,8,0.9822165966033936,0.0,True
+Voices\Voices-0702.wav,Voices,Voices,0.9822165966033936,time,9,0.9822165966033936,0.0,True
+Voices\Voices-0702.wav,Voices,Voices,0.9822165966033936,frequency,0,0.9862475991249084,-0.004031002521514893,True
+Voices\Voices-0702.wav,Voices,Voices,0.9822165966033936,frequency,1,0.9888062477111816,-0.006589651107788086,True
+Voices\Voices-0702.wav,Voices,Voices,0.9822165966033936,frequency,2,0.9863612651824951,-0.0041446685791015625,True
+Voices\Voices-0702.wav,Voices,Voices,0.9822165966033936,frequency,3,0.986021101474762,-0.003804504871368408,True
+Voices\Voices-0702.wav,Voices,Voices,0.9822165966033936,frequency,4,0.9951099753379822,-0.012893378734588623,True
+Voices\Voices-0702.wav,Voices,Voices,0.9822165966033936,frequency,5,0.9900814890861511,-0.007864892482757568,True
+Voices\Voices-0702.wav,Voices,Voices,0.9822165966033936,frequency,6,0.9890192151069641,-0.006802618503570557,True
+Voices\Voices-0702.wav,Voices,Voices,0.9822165966033936,frequency,7,0.9867764115333557,-0.004559814929962158,True
+Music\Music-0156.wav,Music,Music,0.9996247291564941,time,0,0.9871131777763367,0.01251155138015747,True
+Music\Music-0156.wav,Music,Music,0.9996247291564941,time,1,0.9913992881774902,0.008225440979003906,True
+Music\Music-0156.wav,Music,Music,0.9996247291564941,time,2,0.9932384490966797,0.006386280059814453,True
+Music\Music-0156.wav,Music,Music,0.9996247291564941,time,3,0.9930338859558105,0.006590843200683594,True
+Music\Music-0156.wav,Music,Music,0.9996247291564941,time,4,0.992268979549408,0.007355749607086182,True
+Music\Music-0156.wav,Music,Music,0.9996247291564941,time,5,0.988431990146637,0.011192739009857178,True
+Music\Music-0156.wav,Music,Music,0.9996247291564941,time,6,0.9778909683227539,0.021733760833740234,True
+Music\Music-0156.wav,Music,Music,0.9996247291564941,time,7,0.9935411214828491,0.0060836076736450195,True
+Music\Music-0156.wav,Music,Music,0.9996247291564941,time,8,0.989025890827179,0.010598838329315186,True
+Music\Music-0156.wav,Music,Music,0.9996247291564941,time,9,0.9824995994567871,0.01712512969970703,True
+Music\Music-0156.wav,Music,Music,0.9996247291564941,frequency,0,0.771697998046875,0.22792673110961914,True
+Music\Music-0156.wav,Music,Music,0.9996247291564941,frequency,1,0.998908519744873,0.0007162094116210938,True
+Music\Music-0156.wav,Music,Music,0.9996247291564941,frequency,2,0.9997087121009827,-8.398294448852539e-05,True
+Music\Music-0156.wav,Music,Music,0.9996247291564941,frequency,3,0.9996039271354675,2.0802021026611328e-05,True
+Music\Music-0156.wav,Music,Music,0.9996247291564941,frequency,4,0.9987491369247437,0.0008755922317504883,True
+Music\Music-0156.wav,Music,Music,0.9996247291564941,frequency,5,0.9826855659484863,0.016939163208007812,True
+Music\Music-0156.wav,Music,Music,0.9996247291564941,frequency,6,0.9993005990982056,0.0003241300582885742,True
+Music\Music-0156.wav,Music,Music,0.9996247291564941,frequency,7,0.9999610185623169,-0.0003362894058227539,True
+Dog barkings and howlings\Dog barkings and howlings-0050.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,0,0.9999992847442627,7.152557373046875e-07,True
+Dog barkings and howlings\Dog barkings and howlings-0050.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,1,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0050.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,2,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0050.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,3,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0050.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,4,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0050.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,5,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0050.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,6,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0050.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,7,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0050.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,8,0.9999998807907104,1.1920928955078125e-07,True
+Dog barkings and howlings\Dog barkings and howlings-0050.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,9,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0050.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,frequency,0,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0050.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,frequency,1,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0050.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,frequency,2,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0050.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,frequency,3,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0050.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,frequency,4,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0050.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,frequency,5,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0050.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,frequency,6,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0050.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,frequency,7,1.0,0.0,True
+Birds\Birds-0011.wav,Birds,Birds,0.999906063079834,time,0,0.9996845722198486,0.00022149085998535156,True
+Birds\Birds-0011.wav,Birds,Birds,0.999906063079834,time,1,0.9997623562812805,0.0001437067985534668,True
+Birds\Birds-0011.wav,Birds,Birds,0.999906063079834,time,2,0.9998401403427124,6.592273712158203e-05,True
+Birds\Birds-0011.wav,Birds,Birds,0.999906063079834,time,3,0.9997349381446838,0.00017112493515014648,True
+Birds\Birds-0011.wav,Birds,Birds,0.999906063079834,time,4,0.9998098015785217,9.626150131225586e-05,True
+Birds\Birds-0011.wav,Birds,Birds,0.999906063079834,time,5,0.9999200105667114,-1.3947486877441406e-05,True
+Birds\Birds-0011.wav,Birds,Birds,0.999906063079834,time,6,0.999906063079834,0.0,True
+Birds\Birds-0011.wav,Birds,Birds,0.999906063079834,time,7,0.999906063079834,0.0,True
+Birds\Birds-0011.wav,Birds,Birds,0.999906063079834,time,8,0.999906063079834,0.0,True
+Birds\Birds-0011.wav,Birds,Birds,0.999906063079834,time,9,0.999906063079834,0.0,True
+Birds\Birds-0011.wav,Birds,Birds,0.999906063079834,frequency,0,0.9977192282676697,0.0021868348121643066,True
+Birds\Birds-0011.wav,Birds,Birds,0.999906063079834,frequency,1,0.9998759031295776,3.0159950256347656e-05,True
+Birds\Birds-0011.wav,Birds,Birds,0.999906063079834,frequency,2,0.9997168183326721,0.00018924474716186523,True
+Birds\Birds-0011.wav,Birds,Birds,0.999906063079834,frequency,3,0.9994716048240662,0.00043445825576782227,True
+Birds\Birds-0011.wav,Birds,Birds,0.999906063079834,frequency,4,0.9993341565132141,0.000571906566619873,True
+Birds\Birds-0011.wav,Birds,Birds,0.999906063079834,frequency,5,0.9964962601661682,0.0034098029136657715,True
+Birds\Birds-0011.wav,Birds,Birds,0.999906063079834,frequency,6,0.9997861981391907,0.00011986494064331055,True
+Birds\Birds-0011.wav,Birds,Birds,0.999906063079834,frequency,7,0.9999793767929077,-7.331371307373047e-05,True
+Voices\Voices-0916.wav,Voices,Voices,0.9983382225036621,time,0,0.023496948182582855,0.9748412743210793,True
+Voices\Voices-0916.wav,Voices,Voices,0.9983382225036621,time,1,0.9983382225036621,0.0,True
+Voices\Voices-0916.wav,Voices,Voices,0.9983382225036621,time,2,0.9983382225036621,0.0,True
+Voices\Voices-0916.wav,Voices,Voices,0.9983382225036621,time,3,0.9983382225036621,0.0,True
+Voices\Voices-0916.wav,Voices,Voices,0.9983382225036621,time,4,0.9983382225036621,0.0,True
+Voices\Voices-0916.wav,Voices,Voices,0.9983382225036621,time,5,0.9983382225036621,0.0,True
+Voices\Voices-0916.wav,Voices,Voices,0.9983382225036621,time,6,0.9983382225036621,0.0,True
+Voices\Voices-0916.wav,Voices,Voices,0.9983382225036621,time,7,0.9983382225036621,0.0,True
+Voices\Voices-0916.wav,Voices,Voices,0.9983382225036621,time,8,0.9983382225036621,0.0,True
+Voices\Voices-0916.wav,Voices,Voices,0.9983382225036621,time,9,0.9983382225036621,0.0,True
+Voices\Voices-0916.wav,Voices,Voices,0.9983382225036621,frequency,0,0.9826915860176086,0.015646636486053467,True
+Voices\Voices-0916.wav,Voices,Voices,0.9983382225036621,frequency,1,0.9969366788864136,0.0014015436172485352,True
+Voices\Voices-0916.wav,Voices,Voices,0.9983382225036621,frequency,2,0.99688321352005,0.0014550089836120605,True
+Voices\Voices-0916.wav,Voices,Voices,0.9983382225036621,frequency,3,0.9993496537208557,-0.0010114312171936035,True
+Voices\Voices-0916.wav,Voices,Voices,0.9983382225036621,frequency,4,0.9991114735603333,-0.0007732510566711426,True
+Voices\Voices-0916.wav,Voices,Voices,0.9983382225036621,frequency,5,0.9982671737670898,7.104873657226562e-05,True
+Voices\Voices-0916.wav,Voices,Voices,0.9983382225036621,frequency,6,0.9990895986557007,-0.0007513761520385742,True
+Voices\Voices-0916.wav,Voices,Voices,0.9983382225036621,frequency,7,0.9989375472068787,-0.0005993247032165527,True
+Dog barkings and howlings\Dog barkings and howlings-0011.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,0,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0011.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,1,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0011.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,2,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0011.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,3,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0011.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,4,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0011.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,5,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0011.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,6,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0011.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,7,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0011.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,8,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0011.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,time,9,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0011.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,frequency,0,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0011.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,frequency,1,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0011.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,frequency,2,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0011.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,frequency,3,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0011.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,frequency,4,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0011.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,frequency,5,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0011.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,frequency,6,1.0,0.0,True
+Dog barkings and howlings\Dog barkings and howlings-0011.wav,Dog barkings and howlings,Dog barkings and howlings,1.0,frequency,7,1.0,0.0,True
+Voices\Voices-0219.wav,Voices,Voices,0.9956305027008057,time,0,0.89618980884552,0.09944069385528564,True
+Voices\Voices-0219.wav,Voices,Voices,0.9956305027008057,time,1,0.9982998967170715,-0.002669394016265869,True
+Voices\Voices-0219.wav,Voices,Voices,0.9956305027008057,time,2,0.9956305027008057,0.0,True
+Voices\Voices-0219.wav,Voices,Voices,0.9956305027008057,time,3,0.9956305027008057,0.0,True
+Voices\Voices-0219.wav,Voices,Voices,0.9956305027008057,time,4,0.9956305027008057,0.0,True
+Voices\Voices-0219.wav,Voices,Voices,0.9956305027008057,time,5,0.9956305027008057,0.0,True
+Voices\Voices-0219.wav,Voices,Voices,0.9956305027008057,time,6,0.9956305027008057,0.0,True
+Voices\Voices-0219.wav,Voices,Voices,0.9956305027008057,time,7,0.9956305027008057,0.0,True
+Voices\Voices-0219.wav,Voices,Voices,0.9956305027008057,time,8,0.9956305027008057,0.0,True
+Voices\Voices-0219.wav,Voices,Voices,0.9956305027008057,time,9,0.9956305027008057,0.0,True
+Voices\Voices-0219.wav,Voices,Voices,0.9956305027008057,frequency,0,0.9939633011817932,0.0016672015190124512,True
+Voices\Voices-0219.wav,Voices,Voices,0.9956305027008057,frequency,1,0.9990259408950806,-0.0033954381942749023,True
+Voices\Voices-0219.wav,Voices,Voices,0.9956305027008057,frequency,2,0.9995115995407104,-0.003881096839904785,True
+Voices\Voices-0219.wav,Voices,Voices,0.9956305027008057,frequency,3,0.9997342228889465,-0.004103720188140869,True
+Voices\Voices-0219.wav,Voices,Voices,0.9956305027008057,frequency,4,0.9994482398033142,-0.003817737102508545,True
+Voices\Voices-0219.wav,Voices,Voices,0.9956305027008057,frequency,5,0.9947646856307983,0.0008658170700073242,True
+Voices\Voices-0219.wav,Voices,Voices,0.9956305027008057,frequency,6,0.9987558126449585,-0.003125309944152832,True
+Voices\Voices-0219.wav,Voices,Voices,0.9956305027008057,frequency,7,0.9991484880447388,-0.0035179853439331055,True
+Crows seagulls and magpies\Crows\Crows-0043.wav,Crows seagulls and magpies,Crows seagulls and magpies,0.9999731779098511,time,0,0.9996752738952637,0.00029790401458740234,True
+Crows seagulls and magpies\Crows\Crows-0043.wav,Crows seagulls and magpies,Crows seagulls and magpies,0.9999731779098511,time,1,0.9999233484268188,4.982948303222656e-05,True
+Crows seagulls and magpies\Crows\Crows-0043.wav,Crows seagulls and magpies,Crows seagulls and magpies,0.9999731779098511,time,2,0.9995612502098083,0.0004119277000427246,True
+Crows seagulls and magpies\Crows\Crows-0043.wav,Crows seagulls and magpies,Crows seagulls and magpies,0.9999731779098511,time,3,0.9998403787612915,0.0001327991485595703,True
+Crows seagulls and magpies\Crows\Crows-0043.wav,Crows seagulls and magpies,Crows seagulls and magpies,0.9999731779098511,time,4,0.9999228715896606,5.030632019042969e-05,True
+Crows seagulls and magpies\Crows\Crows-0043.wav,Crows seagulls and magpies,Crows seagulls and magpies,0.9999731779098511,time,5,0.9999583959579468,1.4781951904296875e-05,True
+Crows seagulls and magpies\Crows\Crows-0043.wav,Crows seagulls and magpies,Crows seagulls and magpies,0.9999731779098511,time,6,0.9998354911804199,0.00013768672943115234,True
+Crows seagulls and magpies\Crows\Crows-0043.wav,Crows seagulls and magpies,Crows seagulls and magpies,0.9999731779098511,time,7,0.9998351335525513,0.0001380443572998047,True
+Crows seagulls and magpies\Crows\Crows-0043.wav,Crows seagulls and magpies,Crows seagulls and magpies,0.9999731779098511,time,8,0.9997524619102478,0.00022071599960327148,True
+Crows seagulls and magpies\Crows\Crows-0043.wav,Crows seagulls and magpies,Crows seagulls and magpies,0.9999731779098511,time,9,0.9978471994400024,0.002125978469848633,True
+Crows seagulls and magpies\Crows\Crows-0043.wav,Crows seagulls and magpies,Crows seagulls and magpies,0.9999731779098511,frequency,0,0.9999383687973022,3.4809112548828125e-05,True
+Crows seagulls and magpies\Crows\Crows-0043.wav,Crows seagulls and magpies,Crows seagulls and magpies,0.9999731779098511,frequency,1,0.9999644756317139,8.702278137207031e-06,True
+Crows seagulls and magpies\Crows\Crows-0043.wav,Crows seagulls and magpies,Crows seagulls and magpies,0.9999731779098511,frequency,2,0.9983641505241394,0.00160902738571167,True
+Crows seagulls and magpies\Crows\Crows-0043.wav,Crows seagulls and magpies,Crows seagulls and magpies,0.9999731779098511,frequency,3,0.9977497458457947,0.0022234320640563965,True
+Crows seagulls and magpies\Crows\Crows-0043.wav,Crows seagulls and magpies,Crows seagulls and magpies,0.9999731779098511,frequency,4,0.9997808337211609,0.00019234418869018555,True
+Crows seagulls and magpies\Crows\Crows-0043.wav,Crows seagulls and magpies,Crows seagulls and magpies,0.9999731779098511,frequency,5,0.9999444484710693,2.872943878173828e-05,True
+Crows seagulls and magpies\Crows\Crows-0043.wav,Crows seagulls and magpies,Crows seagulls and magpies,0.9999731779098511,frequency,6,0.9999873638153076,-1.4185905456542969e-05,True
+Crows seagulls and magpies\Crows\Crows-0043.wav,Crows seagulls and magpies,Crows seagulls and magpies,0.9999731779098511,frequency,7,0.9999887943267822,-1.5616416931152344e-05,True
+Voices\Voices-1494.wav,Voices,Voices,0.9999802112579346,time,0,0.023496948182582855,0.9764832630753517,True
+Voices\Voices-1494.wav,Voices,Voices,0.9999802112579346,time,1,0.9999802112579346,0.0,True
+Voices\Voices-1494.wav,Voices,Voices,0.9999802112579346,time,2,0.9999802112579346,0.0,True
+Voices\Voices-1494.wav,Voices,Voices,0.9999802112579346,time,3,0.9999802112579346,0.0,True
+Voices\Voices-1494.wav,Voices,Voices,0.9999802112579346,time,4,0.9999802112579346,0.0,True
+Voices\Voices-1494.wav,Voices,Voices,0.9999802112579346,time,5,0.9999802112579346,0.0,True
+Voices\Voices-1494.wav,Voices,Voices,0.9999802112579346,time,6,0.9999802112579346,0.0,True
+Voices\Voices-1494.wav,Voices,Voices,0.9999802112579346,time,7,0.9999802112579346,0.0,True
+Voices\Voices-1494.wav,Voices,Voices,0.9999802112579346,time,8,0.9999802112579346,0.0,True
+Voices\Voices-1494.wav,Voices,Voices,0.9999802112579346,time,9,0.9999802112579346,0.0,True
+Voices\Voices-1494.wav,Voices,Voices,0.9999802112579346,frequency,0,0.9999538660049438,2.6345252990722656e-05,True
+Voices\Voices-1494.wav,Voices,Voices,0.9999802112579346,frequency,1,0.9999792575836182,9.5367431640625e-07,True
+Voices\Voices-1494.wav,Voices,Voices,0.9999802112579346,frequency,2,0.9999788999557495,1.3113021850585938e-06,True
+Voices\Voices-1494.wav,Voices,Voices,0.9999802112579346,frequency,3,0.9999768733978271,3.337860107421875e-06,True
+Voices\Voices-1494.wav,Voices,Voices,0.9999802112579346,frequency,4,0.9999690055847168,1.1205673217773438e-05,True
+Voices\Voices-1494.wav,Voices,Voices,0.9999802112579346,frequency,5,0.9999732971191406,6.9141387939453125e-06,True
+Voices\Voices-1494.wav,Voices,Voices,0.9999802112579346,frequency,6,0.9999637603759766,1.6450881958007812e-05,True
+Voices\Voices-1494.wav,Voices,Voices,0.9999802112579346,frequency,7,0.9999669790267944,1.3232231140136719e-05,True
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0052.wav,Vehicle pass-by,Vehicle pass-by,0.9481157660484314,time,0,0.9089896082878113,0.03912615776062012,True
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0052.wav,Vehicle pass-by,Vehicle pass-by,0.9481157660484314,time,1,0.9600332379341125,-0.011917471885681152,True
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0052.wav,Vehicle pass-by,Vehicle pass-by,0.9481157660484314,time,2,0.8500481247901917,0.09806764125823975,True
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0052.wav,Vehicle pass-by,Vehicle pass-by,0.9481157660484314,time,3,0.95494145154953,-0.006825685501098633,True
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0052.wav,Vehicle pass-by,Vehicle pass-by,0.9481157660484314,time,4,0.9183772802352905,0.02973848581314087,True
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0052.wav,Vehicle pass-by,Vehicle pass-by,0.9481157660484314,time,5,0.9411746859550476,0.006941080093383789,True
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0052.wav,Vehicle pass-by,Vehicle pass-by,0.9481157660484314,time,6,0.9444736242294312,0.003642141819000244,True
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0052.wav,Vehicle pass-by,Vehicle pass-by,0.9481157660484314,time,7,0.933384895324707,0.014730870723724365,True
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0052.wav,Vehicle pass-by,Vehicle pass-by,0.9481157660484314,time,8,0.9583467245101929,-0.010230958461761475,True
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0052.wav,Vehicle pass-by,Vehicle pass-by,0.9481157660484314,time,9,0.9481157660484314,0.0,True
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0052.wav,Vehicle pass-by,Vehicle pass-by,0.9481157660484314,frequency,0,0.8734294176101685,0.07468634843826294,True
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0052.wav,Vehicle pass-by,Vehicle pass-by,0.9481157660484314,frequency,1,0.9360513687133789,0.01206439733505249,True
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0052.wav,Vehicle pass-by,Vehicle pass-by,0.9481157660484314,frequency,2,0.9246224761009216,0.023493289947509766,True
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0052.wav,Vehicle pass-by,Vehicle pass-by,0.9481157660484314,frequency,3,0.9218716621398926,0.02624410390853882,True
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0052.wav,Vehicle pass-by,Vehicle pass-by,0.9481157660484314,frequency,4,0.8967908620834351,0.05132490396499634,True
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0052.wav,Vehicle pass-by,Vehicle pass-by,0.9481157660484314,frequency,5,0.9048156142234802,0.04330015182495117,True
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0052.wav,Vehicle pass-by,Vehicle pass-by,0.9481157660484314,frequency,6,0.8812215328216553,0.06689423322677612,True
+Vehicle pass-by\motorbike pass-by\motorbike pass-by-0052.wav,Vehicle pass-by,Vehicle pass-by,0.9481157660484314,frequency,7,0.898165762424469,0.0499500036239624,True
+Voices\Voices-1654.wav,Voices,Voices,0.9999792575836182,time,0,0.023496948182582855,0.9764823094010353,True
+Voices\Voices-1654.wav,Voices,Voices,0.9999792575836182,time,1,0.9999792575836182,0.0,True
+Voices\Voices-1654.wav,Voices,Voices,0.9999792575836182,time,2,0.9999792575836182,0.0,True
+Voices\Voices-1654.wav,Voices,Voices,0.9999792575836182,time,3,0.9999792575836182,0.0,True
+Voices\Voices-1654.wav,Voices,Voices,0.9999792575836182,time,4,0.9999792575836182,0.0,True
+Voices\Voices-1654.wav,Voices,Voices,0.9999792575836182,time,5,0.9999792575836182,0.0,True
+Voices\Voices-1654.wav,Voices,Voices,0.9999792575836182,time,6,0.9999792575836182,0.0,True
+Voices\Voices-1654.wav,Voices,Voices,0.9999792575836182,time,7,0.9999792575836182,0.0,True
+Voices\Voices-1654.wav,Voices,Voices,0.9999792575836182,time,8,0.9999792575836182,0.0,True
+Voices\Voices-1654.wav,Voices,Voices,0.9999792575836182,time,9,0.9999792575836182,0.0,True
+Voices\Voices-1654.wav,Voices,Voices,0.9999792575836182,frequency,0,0.9991768002510071,0.000802457332611084,True
+Voices\Voices-1654.wav,Voices,Voices,0.9999792575836182,frequency,1,0.9999886751174927,-9.417533874511719e-06,True
+Voices\Voices-1654.wav,Voices,Voices,0.9999792575836182,frequency,2,0.9999819993972778,-2.7418136596679688e-06,True
+Voices\Voices-1654.wav,Voices,Voices,0.9999792575836182,frequency,3,0.9999878406524658,-8.58306884765625e-06,True
+Voices\Voices-1654.wav,Voices,Voices,0.9999792575836182,frequency,4,0.9999927282333374,-1.3470649719238281e-05,True
+Voices\Voices-1654.wav,Voices,Voices,0.9999792575836182,frequency,5,0.9999808073043823,-1.5497207641601562e-06,True
+Voices\Voices-1654.wav,Voices,Voices,0.9999792575836182,frequency,6,0.9999822378158569,-2.9802322387695312e-06,True
+Voices\Voices-1654.wav,Voices,Voices,0.9999792575836182,frequency,7,0.9999791383743286,1.1920928955078125e-07,True
+Voices\Voices-0638.wav,Voices,Voices,0.9891316890716553,time,0,0.9362697601318359,0.052861928939819336,True
+Voices\Voices-0638.wav,Voices,Voices,0.9891316890716553,time,1,0.998293936252594,-0.00916224718093872,True
+Voices\Voices-0638.wav,Voices,Voices,0.9891316890716553,time,2,0.9871913194656372,0.0019403696060180664,True
+Voices\Voices-0638.wav,Voices,Voices,0.9891316890716553,time,3,0.9891316890716553,0.0,True
+Voices\Voices-0638.wav,Voices,Voices,0.9891316890716553,time,4,0.9891316890716553,0.0,True
+Voices\Voices-0638.wav,Voices,Voices,0.9891316890716553,time,5,0.9891316890716553,0.0,True
+Voices\Voices-0638.wav,Voices,Voices,0.9891316890716553,time,6,0.9891316890716553,0.0,True
+Voices\Voices-0638.wav,Voices,Voices,0.9891316890716553,time,7,0.9891316890716553,0.0,True
+Voices\Voices-0638.wav,Voices,Voices,0.9891316890716553,time,8,0.9891316890716553,0.0,True
+Voices\Voices-0638.wav,Voices,Voices,0.9891316890716553,time,9,0.9891316890716553,0.0,True
+Voices\Voices-0638.wav,Voices,Voices,0.9891316890716553,frequency,0,0.9936028122901917,-0.004471123218536377,True
+Voices\Voices-0638.wav,Voices,Voices,0.9891316890716553,frequency,1,0.9960812926292419,-0.00694960355758667,True
+Voices\Voices-0638.wav,Voices,Voices,0.9891316890716553,frequency,2,0.9971831440925598,-0.008051455020904541,True
+Voices\Voices-0638.wav,Voices,Voices,0.9891316890716553,frequency,3,0.9877393841743469,0.0013923048973083496,True
+Voices\Voices-0638.wav,Voices,Voices,0.9891316890716553,frequency,4,0.9923182725906372,-0.0031865835189819336,True
+Voices\Voices-0638.wav,Voices,Voices,0.9891316890716553,frequency,5,0.9900464415550232,-0.0009147524833679199,True
+Voices\Voices-0638.wav,Voices,Voices,0.9891316890716553,frequency,6,0.9940126538276672,-0.004880964756011963,True
+Voices\Voices-0638.wav,Voices,Voices,0.9891316890716553,frequency,7,0.9930763244628906,-0.0039446353912353516,True
+Voices\Voices-1075.wav,Voices,Voices,0.9999995231628418,time,0,0.02531745657324791,0.9746820665895939,True
+Voices\Voices-1075.wav,Voices,Voices,0.9999995231628418,time,1,0.9999970197677612,2.5033950805664062e-06,True
+Voices\Voices-1075.wav,Voices,Voices,0.9999995231628418,time,2,0.9999995231628418,0.0,True
+Voices\Voices-1075.wav,Voices,Voices,0.9999995231628418,time,3,0.9999995231628418,0.0,True
+Voices\Voices-1075.wav,Voices,Voices,0.9999995231628418,time,4,0.9999995231628418,0.0,True
+Voices\Voices-1075.wav,Voices,Voices,0.9999995231628418,time,5,0.9999995231628418,0.0,True
+Voices\Voices-1075.wav,Voices,Voices,0.9999995231628418,time,6,0.9999995231628418,0.0,True
+Voices\Voices-1075.wav,Voices,Voices,0.9999995231628418,time,7,0.9999995231628418,0.0,True
+Voices\Voices-1075.wav,Voices,Voices,0.9999995231628418,time,8,0.9999995231628418,0.0,True
+Voices\Voices-1075.wav,Voices,Voices,0.9999995231628418,time,9,0.9999995231628418,0.0,True
+Voices\Voices-1075.wav,Voices,Voices,0.9999995231628418,frequency,0,0.9999959468841553,3.5762786865234375e-06,True
+Voices\Voices-1075.wav,Voices,Voices,0.9999995231628418,frequency,1,0.9999998807907104,-3.5762786865234375e-07,True
+Voices\Voices-1075.wav,Voices,Voices,0.9999995231628418,frequency,2,0.9999996423721313,-1.1920928955078125e-07,True
+Voices\Voices-1075.wav,Voices,Voices,0.9999995231628418,frequency,3,0.9999995231628418,0.0,True
+Voices\Voices-1075.wav,Voices,Voices,0.9999995231628418,frequency,4,0.9999991655349731,3.5762786865234375e-07,True
+Voices\Voices-1075.wav,Voices,Voices,0.9999995231628418,frequency,5,0.9999938011169434,5.7220458984375e-06,True
+Voices\Voices-1075.wav,Voices,Voices,0.9999995231628418,frequency,6,0.9999979734420776,1.5497207641601562e-06,True
+Voices\Voices-1075.wav,Voices,Voices,0.9999995231628418,frequency,7,0.9999990463256836,4.76837158203125e-07,True
+Chicken coop\Chicken coop-0035.wav,Chicken coop,Chicken coop,1.0,time,0,1.0,0.0,True
+Chicken coop\Chicken coop-0035.wav,Chicken coop,Chicken coop,1.0,time,1,1.0,0.0,True
+Chicken coop\Chicken coop-0035.wav,Chicken coop,Chicken coop,1.0,time,2,1.0,0.0,True
+Chicken coop\Chicken coop-0035.wav,Chicken coop,Chicken coop,1.0,time,3,1.0,0.0,True
+Chicken coop\Chicken coop-0035.wav,Chicken coop,Chicken coop,1.0,time,4,1.0,0.0,True
+Chicken coop\Chicken coop-0035.wav,Chicken coop,Chicken coop,1.0,time,5,1.0,0.0,True
+Chicken coop\Chicken coop-0035.wav,Chicken coop,Chicken coop,1.0,time,6,1.0,0.0,True
+Chicken coop\Chicken coop-0035.wav,Chicken coop,Chicken coop,1.0,time,7,1.0,0.0,True
+Chicken coop\Chicken coop-0035.wav,Chicken coop,Chicken coop,1.0,time,8,1.0,0.0,True
+Chicken coop\Chicken coop-0035.wav,Chicken coop,Chicken coop,1.0,time,9,1.0,0.0,True
+Chicken coop\Chicken coop-0035.wav,Chicken coop,Chicken coop,1.0,frequency,0,1.0,0.0,True
+Chicken coop\Chicken coop-0035.wav,Chicken coop,Chicken coop,1.0,frequency,1,1.0,0.0,True
+Chicken coop\Chicken coop-0035.wav,Chicken coop,Chicken coop,1.0,frequency,2,1.0,0.0,True
+Chicken coop\Chicken coop-0035.wav,Chicken coop,Chicken coop,1.0,frequency,3,1.0,0.0,True
+Chicken coop\Chicken coop-0035.wav,Chicken coop,Chicken coop,1.0,frequency,4,1.0,0.0,True
+Chicken coop\Chicken coop-0035.wav,Chicken coop,Chicken coop,1.0,frequency,5,1.0,0.0,True
+Chicken coop\Chicken coop-0035.wav,Chicken coop,Chicken coop,1.0,frequency,6,1.0,0.0,True
+Chicken coop\Chicken coop-0035.wav,Chicken coop,Chicken coop,1.0,frequency,7,1.0,0.0,True

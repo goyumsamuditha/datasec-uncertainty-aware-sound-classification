@@ -1,0 +1,4 @@
+relative_path,actual_class,predicted_class,correct,predicted_class_logit,gradcam_image
+Lawn mower brush cutter and olive shaker\Olive shaker\Olive shaker-0019.wav,Lawn mower brush cutter and olive shaker,Vehicle idling,False,1.4309918880462646,report\gradcam_errors\gradcam_error_01.png
+Propeller aircrafts\Helicopters\Helicopters-0057.wav,Propeller aircrafts,Jet aircrafts,False,2.88938045501709,report\gradcam_errors\gradcam_error_02.png
+Horn\Horn-0044.wav,Horn,Sirens and alarms,False,0.7379536032676697,report\gradcam_errors\gradcam_error_03.png

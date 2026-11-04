@@ -1,0 +1,23 @@
+main_class,train,validation,test,total
+Bells,46,10,11,67
+Birds,48,10,11,69
+Cat fights and moans,35,7,8,50
+Chicken coop,40,9,9,58
+Cicadas and crickets,51,11,12,74
+Crows seagulls and magpies,74,16,16,106
+Dog barkings and howlings,49,10,11,70
+Glass breaking,76,16,17,109
+Horn,39,9,9,57
+Jet aircrafts,72,15,16,103
+Lawn mower brush cutter and olive shaker,88,19,20,127
+Music,171,37,37,245
+Propeller aircrafts,75,16,17,108
+Sirens and alarms,73,16,16,105
+Thunder fireworks and gunshot,164,35,36,235
+Train,46,10,11,67
+Vacuum cleaner fan and hairdryer,66,14,15,95
+Vehicle idling,78,17,17,112
+Vehicle pass-by,151,33,33,217
+Voices,1330,285,285,1900
+Wind turbine,70,15,15,100
+Workshop,152,33,33,218

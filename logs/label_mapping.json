@@ -1,0 +1,27 @@
+{
+  "main_to_id": {
+    "Bells": 0,
+    "Birds": 1,
+    "Cat fights and moans": 2,
+    "Chicken coop": 3,
+    "Cicadas and crickets": 4,
+    "Crows seagulls and magpies": 5,
+    "Dog barkings and howlings": 6,
+    "Glass breaking": 7,
+    "Horn": 8,
+    "Jet aircrafts": 9,
+    "Lawn mower brush cutter and olive shaker": 10,
+    "Music": 11,
+    "Propeller aircrafts": 12,
+    "Sirens and alarms": 13,
+    "Thunder fireworks and gunshot": 14,
+    "Train": 15,
+    "Vacuum cleaner fan and hairdryer": 16,
+    "Vehicle idling": 17,
+    "Vehicle pass-by": 18,
+    "Voices": 19,
+    "Wind turbine": 20,
+    "Workshop": 21
+  },
+  "sub_to_id": {}
+}

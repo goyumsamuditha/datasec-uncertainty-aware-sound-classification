@@ -1,0 +1,5 @@
+group_id,relative_path,duplicate_type,sample_rate,audio_shape
+EXACT-001,Glass breaking\Glass breaking-0097.wav,Exact waveform duplicate,44100,"(382751,)"
+EXACT-001,Glass breaking\Glass breaking-0098.wav,Exact waveform duplicate,44100,"(382751,)"
+EXACT-002,Crows seagulls and magpies\Crows\Crows-0035.wav,Exact waveform duplicate,44100,"(786451,)"
+EXACT-002,Crows seagulls and magpies\Crows\Crows-0050.wav,Exact waveform duplicate,44100,"(786451,)"

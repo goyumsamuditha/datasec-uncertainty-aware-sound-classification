@@ -1,0 +1,4 @@
+partition,files,percentage
+train,2994,69.76
+validation,643,14.98
+test,655,15.26

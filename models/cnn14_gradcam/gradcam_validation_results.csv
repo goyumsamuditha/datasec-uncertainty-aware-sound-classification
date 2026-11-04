@@ -1,0 +1,9 @@
+relative_path,actual_class,predicted_class,correct,predicted_class_logit,gradcam_image
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,True,0.4270434081554413,report\gradcam\gradcam_01.png
+Voices\Voices-0382.wav,Voices,Voices,True,4.802036762237549,report\gradcam\gradcam_02.png
+Voices\Voices-1253.wav,Voices,Voices,True,2.7855770587921143,report\gradcam\gradcam_03.png
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,True,0.8967940807342529,report\gradcam\gradcam_04.png
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,True,11.510462760925293,report\gradcam\gradcam_05.png
+Voices\Voices-0840.wav,Voices,Voices,True,4.656190395355225,report\gradcam\gradcam_06.png
+Wind turbine\Wind turbine-0016.wav,Wind turbine,Wind turbine,True,9.049723625183105,report\gradcam\gradcam_07.png
+Voices\Voices-0487.wav,Voices,Voices,True,1.7759742736816406,report\gradcam\gradcam_08.png

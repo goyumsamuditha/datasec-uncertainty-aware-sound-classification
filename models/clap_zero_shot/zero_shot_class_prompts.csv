@@ -1,0 +1,23 @@
+class_id,class_name,prompt
+0,Bells,The sound of bells ringing.
+1,Birds,The sound of birds singing or calling.
+2,Cat fights and moans,"The sound of cats fighting, growling or moaning."
+3,Chicken coop,The sound of chickens clucking in a chicken coop.
+4,Cicadas and crickets,The sound of cicadas and crickets chirping.
+5,Crows seagulls and magpies,"The sound of crows, seagulls and magpies calling."
+6,Dog barkings and howlings,The sound of dogs barking and howling.
+7,Glass breaking,The sound of glass breaking and shattering.
+8,Horn,The sound of a vehicle horn honking.
+9,Jet aircrafts,The sound of a jet aircraft flying overhead.
+10,Lawn mower brush cutter and olive shaker,"The sound of a lawn mower, brush cutter or olive shaker operating."
+11,Music,The sound of music playing.
+12,Propeller aircrafts,The sound of a propeller aircraft flying overhead.
+13,Sirens and alarms,The sound of sirens and alarms sounding.
+14,Thunder fireworks and gunshot,"The sound of thunder, fireworks or gunshots."
+15,Train,The sound of a train moving along railway tracks.
+16,Vacuum cleaner fan and hairdryer,"The sound of a vacuum cleaner, fan or hairdryer operating."
+17,Vehicle idling,The sound of a vehicle engine idling.
+18,Vehicle pass-by,The sound of vehicles passing by.
+19,Voices,The sound of people speaking and talking.
+20,Wind turbine,The sound of a wind turbine operating.
+21,Workshop,The sound of machinery and tools operating in a workshop.

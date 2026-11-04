@@ -1,0 +1,5 @@
+file_a,file_b,duration_a_seconds,duration_b_seconds,best_partial_similarity,matching_position_in_longer_audio_seconds
+Glass breaking/Glass breaking-0049.wav,Glass breaking/Glass breaking-0027.wav,60.524,60.524,0.988366,8.386
+Vehicle idling/car truck idling/car truck idling-0055.wav,Vehicle idling/car truck idling/car truck idling-0052.wav,17.127,31.872,0.628166,23.3
+Vehicle pass-by/Car pass-by/Car pass-by-0020.wav,Vehicle pass-by/Car pass-by/Car pass-by-0051.wav,5.008,5.05,0.175484,3.261
+Voices/Voices-0079.wav,Voices/Voices-0204.wav,0.657,0.51,0.867999,0.311

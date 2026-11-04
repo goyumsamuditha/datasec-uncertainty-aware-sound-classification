@@ -1,0 +1,23 @@
+,Bells,Birds,Cat fights and moans,Chicken coop,Cicadas and crickets,Crows seagulls and magpies,Dog barkings and howlings,Glass breaking,Horn,Jet aircrafts,Lawn mower brush cutter and olive shaker,Music,Propeller aircrafts,Sirens and alarms,Thunder fireworks and gunshot,Train,Vacuum cleaner fan and hairdryer,Vehicle idling,Vehicle pass-by,Voices,Wind turbine,Workshop
+Bells,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Birds,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cat fights and moans,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chicken coop,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cicadas and crickets,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crows seagulls and magpies,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dog barkings and howlings,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Glass breaking,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Horn,0,0,0,0,0,0,0,0,8,0,0,0,0,1,0,0,0,0,0,0,0,0
+Jet aircrafts,0,0,0,0,0,0,0,0,0,12,0,0,1,0,0,2,0,0,0,0,0,0
+Lawn mower brush cutter and olive shaker,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,2,4,0,0,0,0
+Music,1,0,0,0,0,0,0,0,1,0,0,34,0,0,0,1,0,0,0,0,0,0
+Propeller aircrafts,0,0,0,0,0,0,0,0,0,4,0,0,12,0,0,0,0,0,0,0,0,0
+Sirens and alarms,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,1
+Thunder fireworks and gunshot,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,1,0,0,0
+Train,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5,1,0,3,0,0,0
+Vacuum cleaner fan and hairdryer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,2,1,0,0,0
+Vehicle idling,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,14,1,0,0,0
+Vehicle pass-by,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,1,1,1,26,0,0,0
+Voices,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,285,0,0
+Wind turbine,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0
+Workshop,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,32

@@ -1,0 +1,7 @@
+relative_path,actual_class,predicted_class,correct,predicted_class_probability,lime_local_r2,number_of_segments,num_perturbations,lime_figure
+Workshop\jackhammer\jackhammer-0031.wav,Workshop,Workshop,True,0.9999340772628784,0.3577410420378192,32,500,report\lime\lime_01.png
+Voices\Voices-0382.wav,Voices,Voices,True,0.9999094009399414,0.2580536031353925,32,500,report\lime\lime_02.png
+Voices\Voices-1253.wav,Voices,Voices,True,0.9950035214424133,0.442945350575206,32,500,report\lime\lime_03.png
+Vehicle pass-by\car pass-by\car pass-by-0099.wav,Vehicle pass-by,Vehicle pass-by,True,0.5855610370635986,0.6560511998513688,32,500,report\lime\lime_04.png
+Dog barkings and howlings\Dog barkings and howlings-0068.wav,Dog barkings and howlings,Dog barkings and howlings,True,1.0,0.07905313107967138,32,500,report\lime\lime_05.png
+Voices\Voices-0840.wav,Voices,Voices,True,0.9998929500579834,0.2856382905876532,32,500,report\lime\lime_06.png

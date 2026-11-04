@@ -1,0 +1,3 @@
+method,accuracy,macro_f1
+Original generic prompts,0.8149300155520995,0.7466973878157394
+Three-prompt class ensemble,0.8289269051321928,0.7804563731027879
