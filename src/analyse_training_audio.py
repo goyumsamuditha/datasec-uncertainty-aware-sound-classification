@@ -1,3 +1,4 @@
+from common import DATASET_ROOT, PROJECT_ROOT
 
 import pandas as pd
 import numpy as np
@@ -5,8 +6,8 @@ import soundfile as sf
 from pathlib import Path
 from tqdm import tqdm
 
-PROJECT_DIR = Path(r"G:\My Drive\MSC\AI\Assignment")
-DATASET_DIR = Path(r"G:\My Drive\MSC\AI\DATASEC\DATASEC")
+PROJECT_DIR = Path(PROJECT_ROOT)
+DATASET_DIR = Path(DATASET_ROOT)
 
 MANIFEST_FILE = PROJECT_DIR / "logs" / "final_split_manifest.csv"
 OUTPUT_FILE = PROJECT_DIR / "logs" / "training_audio_eda.csv"
