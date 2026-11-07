@@ -1,8 +1,9 @@
+from common import PROJECT_ROOT
 
 import pandas as pd
 from pathlib import Path
 
-PROJECT_DIR = Path(r"G:\My Drive\MSC\AI\Assignment")
+PROJECT_DIR = Path(PROJECT_ROOT)
 
 INPUT_FILE = PROJECT_DIR / "logs" / "full_group_manifest.csv"
 OUTPUT_FILE = PROJECT_DIR / "logs" / "class_group_feasibility.csv"
