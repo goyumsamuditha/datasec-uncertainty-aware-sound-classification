@@ -1,12 +1,13 @@
+from common import DATASET_ROOT, PROJECT_ROOT
 
 from pathlib import Path
 import soundfile as sf
 import pandas as pd
 import matplotlib.pyplot as plt
 
-DATASET_ROOT = Path(r"G:\My Drive\MSC\AI\DATASEC\DATASEC")
-LOG_DIR = Path(r"G:\My Drive\MSC\AI\Assignment\logs")
-REPORT_DIR = Path(r"G:\My Drive\MSC\AI\Assignment\report")
+DATASET_ROOT = Path(DATASET_ROOT)
+LOG_DIR = Path(PROJECT_ROOT / 'logs')
+REPORT_DIR = Path(PROJECT_ROOT / 'report')
 
 records = []
 
