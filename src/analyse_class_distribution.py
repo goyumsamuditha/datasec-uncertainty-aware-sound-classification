@@ -1,10 +1,11 @@
+from common import DATASET_ROOT, PROJECT_ROOT
 
 from pathlib import Path
 from collections import Counter
 import pandas as pd
 
-DATASET_ROOT = Path(r"G:\My Drive\MSC\AI\DATASEC\DATASEC")
-LOG_DIR = Path(r"G:\My Drive\MSC\AI\Assignment\logs")
+DATASET_ROOT = Path(DATASET_ROOT)
+LOG_DIR = Path(PROJECT_ROOT / 'logs')
 
 records = []
 
