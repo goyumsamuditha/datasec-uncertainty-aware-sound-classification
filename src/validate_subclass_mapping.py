@@ -1,8 +1,9 @@
+from common import PROJECT_ROOT
 
 from pathlib import Path
 import pandas as pd
 
-PROJECT_DIR = Path(r"G:\My Drive\MSC\AI\Assignment")
+PROJECT_DIR = Path(PROJECT_ROOT)
 LOG_DIR = PROJECT_DIR / "logs"
 
 MAPPING_PATH = LOG_DIR / "class_mapping.csv"
