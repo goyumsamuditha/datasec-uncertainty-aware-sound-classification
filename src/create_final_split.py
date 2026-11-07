@@ -1,9 +1,10 @@
+from common import PROJECT_ROOT
 
 import pandas as pd
 from pathlib import Path
 from sklearn.model_selection import train_test_split
 
-PROJECT_DIR = Path(r"G:\My Drive\MSC\AI\Assignment")
+PROJECT_DIR = Path(PROJECT_ROOT)
 
 INPUT_FILE = PROJECT_DIR / "logs" / "full_group_manifest.csv"
 OUTPUT_FILE = PROJECT_DIR / "logs" / "final_split_manifest.csv"

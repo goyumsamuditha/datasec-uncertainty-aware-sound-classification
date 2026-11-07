@@ -16,11 +16,11 @@ from sklearn.model_selection import train_test_split
 ROOT = Path(__file__).resolve().parents[1]
 
 INPUT_FILE = (
-    ROOT / "models" / "cnn14_temperature_scaling"
+    ROOT / "models" / "cnn14_final123_temperature_scaling"
     / "validation_logits.npz"
 )
 
-OUTPUT_DIR = ROOT / "models" / "cnn14_conformal"
+OUTPUT_DIR = ROOT / "models" / "cnn14_final123_conformal"
 
 RANDOM_SEED = 42
 TARGET_COVERAGE = 0.90

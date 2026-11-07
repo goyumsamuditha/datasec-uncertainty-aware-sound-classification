@@ -20,22 +20,25 @@ import train_cnn14 as training
 # ---------------------------------------------------------
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-CHECKPOINT_PATH = PROJECT_ROOT / "models" / "cnn14_initial" / "best_model.pt"
 
-OUTPUT_DIR = PROJECT_ROOT / "models" / "cnn14_gradcam"
-FIGURE_DIR = PROJECT_ROOT / "report" / "gradcam"
+CHECKPOINT_PATH = (
+    PROJECT_ROOT / "models" / "cnn14_optimisation"
+    / "FINAL-123" / "best_model.pt"
+)
 
-SELECTED_ERRORS = [
-    r"Lawn mower brush cutter and olive shaker\Olive shaker\Olive shaker-0019.wav",
-    r"Propeller aircrafts\Helicopters\Helicopters-0057.wav",
-    r"Horn\Horn-0044.wav",
-]
+OUTPUT_DIR = PROJECT_ROOT / "models" / "cnn14_final123_gradcam_errors"
+FIGURE_DIR = PROJECT_ROOT / "report" / "gradcam_final123_errors"
 
+NUM_EXAMPLES = 5
 SEED = 42
-NUM_EXAMPLES = len(SELECTED_ERRORS)
 
-OUTPUT_DIR = PROJECT_ROOT / "models" / "cnn14_gradcam_errors"
-FIGURE_DIR = PROJECT_ROOT / "report" / "gradcam_errors"
+TARGET_PATHS = [
+    r"Lawn mower brush cutter and olive shaker\Olive shaker\Olive shaker-0004.wav",
+    r"Music\Music-0080.wav",
+    r"Vehicle pass-by\car pass-by\car pass-by-0017.wav",
+    r"Propeller aircrafts\Helicopters\Helicopters-0015.wav",
+    r"Vehicle idling\car truck idling\car truck idling-0063.wav",
+]
 
 DEVICE = training.DEVICE
 
@@ -95,31 +98,32 @@ def main():
     if validation_df.empty:
         raise ValueError("No validation recordings found.")
     
-    selected_df = validation_df[
-        validation_df["relative_path"].isin(SELECTED_ERRORS)
-    ].copy()
+    available_paths = set(validation_df["relative_path"].astype(str))
     
-    found_paths = set(selected_df["relative_path"].tolist())
-    missing_paths = set(SELECTED_ERRORS) - found_paths
-
+    missing_paths = [
+    path for path in TARGET_PATHS
+    if path not in available_paths
+    ]
+    
     if missing_paths:
         raise ValueError(
-            f"Selected recordings not found in validation manifest: {missing_paths}"
+            f"Target recordings not found in validation data: {missing_paths}"
         )
-
-    # Preserve the exact order specified above.
-    selected_df["selection_order"] = selected_df["relative_path"].map(
-        {path: i for i, path in enumerate(SELECTED_ERRORS)}
-    )
-
+    
+    validation_df["relative_path"] = validation_df["relative_path"].astype(str)
+    
     validation_df = (
-        selected_df.sort_values("selection_order")
-        .drop(columns="selection_order")
-        .reset_index(drop=True)
+        validation_df
+        .set_index("relative_path")
+        .loc[TARGET_PATHS]
+        .reset_index()
     )
-
-    if len(validation_df) != len(SELECTED_ERRORS):
-        raise ValueError("Unexpected number of selected validation recordings.")
+    
+    if len(validation_df) != NUM_EXAMPLES:
+        raise ValueError("The selected validation recordings are incomplete.")
+    
+    print("Selected recordings for Grad-CAM error analysis:")
+    print(validation_df["relative_path"].to_string(index=False))
 
     dataset = training.DataSECDataset(
         validation_df,
@@ -278,7 +282,7 @@ def main():
                 fontsize=12,
             )
 
-            image_name = f"gradcam_error_{index + 1:02d}.png"
+            image_name = f"gradcam_{index + 1:02d}.png"
             image_path = FIGURE_DIR / image_name
 
             fig.savefig(image_path, dpi=160)
@@ -307,7 +311,7 @@ def main():
     # -----------------------------------------------------
 
     results_df = pd.DataFrame(results)
-    results_path = OUTPUT_DIR / "gradcam_error_results.csv"
+    results_path = OUTPUT_DIR / "gradcam_error_analysis_results.csv"
     results_df.to_csv(results_path, index=False)
 
     print("\nGrad-CAM completed.")

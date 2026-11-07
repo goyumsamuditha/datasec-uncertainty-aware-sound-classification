@@ -1,3 +1,4 @@
+from common import DATASET_ROOT, PROJECT_ROOT
 
 import numpy as np
 import soundfile as sf
@@ -6,9 +7,9 @@ from pathlib import Path
 from math import gcd
 import csv
 
-DATASET_DIR = Path(r"G:\My Drive\MSC\AI\DATASEC\DATASEC")
+DATASET_DIR = Path(DATASET_ROOT)
 OUTPUT_FILE = Path(
-    r"G:\My Drive\MSC\AI\Assignment\logs\candidate_partial_comparison.csv"
+    PROJECT_ROOT / 'logs' / 'candidate_partial_comparison.csv'
 )
 
 PAIRS = [

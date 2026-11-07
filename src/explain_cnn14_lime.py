@@ -19,9 +19,14 @@ import train_cnn14 as training
 # Configuration
 # ---------------------------------------------------------
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-CHECKPOINT_PATH = PROJECT_ROOT / "models" / "cnn14_initial" / "best_model.pt"
-OUTPUT_DIR = PROJECT_ROOT / "models" / "cnn14_lime"
-FIGURE_DIR = PROJECT_ROOT / "report" / "lime"
+
+CHECKPOINT_PATH = (
+    PROJECT_ROOT / "models" / "cnn14_optimisation"
+    / "FINAL-123" / "best_model.pt"
+)
+
+OUTPUT_DIR = PROJECT_ROOT / "models" / "cnn14_final123_lime"
+FIGURE_DIR = PROJECT_ROOT / "report" / "lime_final123"
 
 NUM_EXAMPLES = 6                 # Initial pilot; expand only after reviewing it.
 NUM_SAMPLES = 500                # LIME perturbations per recording.

@@ -1,3 +1,4 @@
+from common import DATASET_ROOT
 
 import sys
 import time
@@ -22,7 +23,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 ROOT = Path(__file__).resolve().parents[1]
 
-DATASET_DIR = Path(r"G:\My Drive\MSC\AI\DATASEC\DATASEC")
+DATASET_DIR = Path(DATASET_ROOT)
 CHECKPOINT = ROOT / "src" / "630k-audioset-best.pt"
 
 OUTPUT_DIR = ROOT / "models" / "clap_zero_shot"

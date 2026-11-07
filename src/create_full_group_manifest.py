@@ -1,9 +1,10 @@
+from common import DATASET_ROOT, PROJECT_ROOT
 
 import pandas as pd
 from pathlib import Path
 
-PROJECT_DIR = Path(r"G:\My Drive\MSC\AI\Assignment")
-DATASET_DIR = Path(r"G:\My Drive\MSC\AI\DATASEC\DATASEC")
+PROJECT_DIR = Path(PROJECT_ROOT)
+DATASET_DIR = Path(DATASET_ROOT)
 
 DUPLICATE_FILE = PROJECT_DIR / "logs" / "exact_duplicate_groups.csv"
 OUTPUT_FILE = PROJECT_DIR / "logs" / "full_group_manifest.csv"

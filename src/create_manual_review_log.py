@@ -1,7 +1,8 @@
+from common import PROJECT_ROOT
 import csv
 from pathlib import Path
 
-PROJECT_DIR = Path(r"G:\My Drive\MSC\AI\Assignment")
+PROJECT_DIR = Path(PROJECT_ROOT)
 OUTPUT_FILE = PROJECT_DIR / "logs" / "manual_similarity_review.csv"
 
 columns = [

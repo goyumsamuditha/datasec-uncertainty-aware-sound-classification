@@ -20,10 +20,14 @@ import train_cnn14 as training
 # ---------------------------------------------------------
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-CHECKPOINT_PATH = PROJECT_ROOT / "models" / "cnn14_initial" / "best_model.pt"
 
-OUTPUT_DIR = PROJECT_ROOT / "models" / "cnn14_gradcam"
-FIGURE_DIR = PROJECT_ROOT / "report" / "gradcam"
+CHECKPOINT_PATH = (
+    PROJECT_ROOT / "models" / "cnn14_optimisation"
+    / "FINAL-123" / "best_model.pt"
+)
+
+OUTPUT_DIR = PROJECT_ROOT / "models" / "cnn14_final123_gradcam"
+FIGURE_DIR = PROJECT_ROOT / "report" / "gradcam_final123"
 
 NUM_EXAMPLES = 8
 SEED = 42
