@@ -1,9 +1,10 @@
+from common import PROJECT_ROOT
 
 import pandas as pd
 import matplotlib.pyplot as plt
 from pathlib import Path
 
-PROJECT_DIR = Path(r"G:\My Drive\MSC\AI\Assignment")
+PROJECT_DIR = Path(PROJECT_ROOT)
 
 INPUT_FILE = PROJECT_DIR / "logs" / "training_audio_eda.csv"
 OUTPUT_DIR = PROJECT_DIR / "report"

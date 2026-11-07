@@ -1,10 +1,11 @@
+from common import PROJECT_ROOT
 from pathlib import Path
 import pandas as pd
 import torch
 
 from train_cnn14 import DataSECDataset, NUM_SAMPLES
 
-PROJECT_DIR = Path(r"G:\My Drive\MSC\AI\Assignment")
+PROJECT_DIR = Path(PROJECT_ROOT)
 MANIFEST_PATH = (
     PROJECT_DIR / "logs"
     / "final_split_manifest_with_subclasses.csv"

@@ -1,3 +1,4 @@
+from common import DATASET_ROOT, PROJECT_ROOT
 
 import csv
 import random
@@ -8,8 +9,8 @@ from laion_clap import CLAP_Module
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Project paths
-PROJECT_DIR = Path(r"G:\My Drive\MSC\AI\Assignment")
-DATASET_DIR = Path(r"G:\My Drive\MSC\AI\DATASEC\DATASEC")
+PROJECT_DIR = Path(PROJECT_ROOT)
+DATASET_DIR = Path(DATASET_ROOT)
 CHECKPOINT = PROJECT_DIR / "src" / "630k-audioset-best.pt"
 OUTPUT_FILE = PROJECT_DIR / "logs" / "near_duplicate_pilot.csv"
 

@@ -1,3 +1,4 @@
+from common import DATASET_ROOT
 
 from pathlib import Path
 import sys
@@ -15,7 +16,7 @@ from scipy.signal import resample_poly
 # --------------------------------------------------
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
-DATASET_ROOT = Path(r"G:\My Drive\MSC\AI\DATASEC\DATASEC")
+DATASET_ROOT = Path(DATASET_ROOT)
 MANIFEST_PATH = PROJECT_ROOT / "logs" / "final_split_manifest.csv"
 CHECKPOINT_PATH = PROJECT_ROOT / "src" / "Cnn14_mAP_0.431.pth"
 PANN_SOURCE = PROJECT_ROOT / "src" / "panns_source" / "pytorch"

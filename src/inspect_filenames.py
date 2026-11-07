@@ -1,8 +1,9 @@
+from common import DATASET_ROOT, PROJECT_ROOT
 from pathlib import Path
 import pandas as pd
 
 DATASET_ROOT = Path(
-    r"G:\My Drive\MSC\AI\DATASEC\DATASEC"
+    DATASET_ROOT
 )
 
 records = []
@@ -25,7 +26,7 @@ print("\nExamples of filenames:")
 print(df["filename"].head(50).to_list())
 
 output_path = Path(
-    r"G:\My Drive\MSC\AI\Assignment\logs\filename_inspection.csv"
+    PROJECT_ROOT / 'logs' / 'filename_inspection.csv'
 )
 
 df.to_csv(output_path, index=False)

@@ -1,7 +1,8 @@
+from common import DATASET_ROOT
 from pathlib import Path
 import soundfile as sf
 
-DATASET_DIR = Path(r"G:\My Drive\MSC\AI\DATASEC\DATASEC")
+DATASET_DIR = Path(DATASET_ROOT)
 
 files = [
     DATASET_DIR / "Vehicle pass-by" / "Car pass-by" / "Car pass-by-0020.wav",

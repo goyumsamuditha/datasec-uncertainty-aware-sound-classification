@@ -6,8 +6,14 @@ import torch.nn.functional as F
 import train_cnn14 as training
 
 ROOT = Path(__file__).resolve().parents[1]
-CHECKPOINT = ROOT / "models/cnn14_initial/best_model.pt"
-OUT = ROOT / "models/cnn14_occlusion"
+CHECKPOINT = (
+    ROOT / "models" / "cnn14_optimisation"
+    / "FINAL-123" / "best_model.pt"
+)
+
+OUT = ROOT / "models" / "cnn14_final123_occlusion"
+
+
 N_EXAMPLES = 30
 N_TIME = 10
 N_FREQ = 8

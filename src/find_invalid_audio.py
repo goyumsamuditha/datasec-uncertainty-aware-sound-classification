@@ -1,9 +1,10 @@
+from common import DATASET_ROOT, PROJECT_ROOT
 from pathlib import Path
 import pandas as pd
 import soundfile as sf
 
-PROJECT_DIR = Path(r"G:\My Drive\MSC\AI\Assignment")
-DATASET_DIR = Path(r"G:\My Drive\MSC\AI\DATASEC\DATASEC")
+PROJECT_DIR = Path(PROJECT_ROOT)
+DATASET_DIR = Path(DATASET_ROOT)
 MANIFEST = PROJECT_DIR / "logs" / "final_split_manifest_with_subclasses.csv"
 
 df = pd.read_csv(MANIFEST)

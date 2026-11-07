@@ -1,9 +1,10 @@
+from common import PROJECT_ROOT
 
 from pathlib import Path
 import json
 import pandas as pd
 
-PROJECT_DIR = Path(r"G:\My Drive\MSC\AI\Assignment")
+PROJECT_DIR = Path(PROJECT_ROOT)
 LOG_DIR = PROJECT_DIR / "logs"
 
 MANIFEST_PATH = LOG_DIR / "final_split_manifest_with_subclasses.csv"

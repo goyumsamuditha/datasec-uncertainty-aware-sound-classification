@@ -1,9 +1,10 @@
+from common import PROJECT_ROOT
 
 import pandas as pd
 from pathlib import Path
 from datetime import datetime
 
-PROJECT_DIR = Path(r"G:\My Drive\MSC\AI\Assignment")
+PROJECT_DIR = Path(PROJECT_ROOT)
 LOG_DIR = PROJECT_DIR / "logs"
 
 INPUT_FILE = LOG_DIR / "manual_similarity_review.csv"

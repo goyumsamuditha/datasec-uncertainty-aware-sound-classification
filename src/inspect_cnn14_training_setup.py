@@ -1,10 +1,11 @@
+from common import PROJECT_ROOT
 
 from pathlib import Path
 import inspect
 import sys
 import torch
 
-PROJECT_DIR = Path(r"G:\My Drive\MSC\AI\Assignment")
+PROJECT_DIR = Path(PROJECT_ROOT)
 PANN_SOURCE = PROJECT_DIR / "src" / "panns_source"
 CHECKPOINT = PROJECT_DIR / "src" / "Cnn14_mAP_0.431.pth"
 

@@ -1,10 +1,11 @@
+from common import PROJECT_ROOT
 
 import csv
 from pathlib import Path
 from datetime import datetime
 
 # Project paths
-PROJECT_DIR = Path(r"G:\My Drive\MSC\AI\Assignment")
+PROJECT_DIR = Path(PROJECT_ROOT)
 LOG_DIR = PROJECT_DIR / "logs"
 LOG_FILE = LOG_DIR / "experiment_log.csv"
 

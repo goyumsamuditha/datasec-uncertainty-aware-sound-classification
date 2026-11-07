@@ -1,7 +1,8 @@
+from common import DATASET_ROOT
 from pathlib import Path
 
 DATASET_ROOT = Path(
-    r"G:\My Drive\MSC\AI\DATASEC\DATASEC"
+    DATASET_ROOT
 )
 
 metadata_extensions = {

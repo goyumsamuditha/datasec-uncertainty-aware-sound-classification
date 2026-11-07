@@ -1,8 +1,9 @@
+from common import PROJECT_ROOT
 
 from pathlib import Path
 import pandas as pd
 
-LOG_DIR = Path(r"G:\My Drive\MSC\AI\Assignment\logs")
+LOG_DIR = Path(PROJECT_ROOT / 'logs')
 
 df = pd.read_csv(LOG_DIR / "audio_duration_analysis.csv")
 

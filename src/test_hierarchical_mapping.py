@@ -1,3 +1,4 @@
+from common import PROJECT_ROOT
 
 from pathlib import Path
 import json
@@ -6,7 +7,7 @@ import sys
 import pandas as pd
 import torch
 
-PROJECT_DIR = Path(r"G:\My Drive\MSC\AI\Assignment")
+PROJECT_DIR = Path(PROJECT_ROOT)
 
 sys.path.insert(0, str(PROJECT_DIR / "src"))
 

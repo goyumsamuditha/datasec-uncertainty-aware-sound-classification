@@ -1,8 +1,9 @@
+from common import DATASET_ROOT
 
 from pathlib import Path
 from collections import Counter
 
-DATASET_ROOT = Path(r"G:\My Drive\MSC\AI\DATASEC\DATASEC")
+DATASET_ROOT = Path(DATASET_ROOT)
 
 if not DATASET_ROOT.is_dir():
     raise FileNotFoundError(f"Dataset not found: {DATASET_ROOT}")

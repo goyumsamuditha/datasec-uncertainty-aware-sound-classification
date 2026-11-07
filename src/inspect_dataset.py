@@ -1,10 +1,11 @@
+from common import DATASET_ROOT
 
 from pathlib import Path
 from collections import Counter
 import csv
 
 # Change this to the extracted DATASEC folder on your computer.
-DATASET_ROOT = Path(r"G:\My Drive\MSC\AI\DATASEC\DATASEC")
+DATASET_ROOT = Path(DATASET_ROOT)
 
 OUTPUT_DIR = Path("logs")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)

@@ -1,10 +1,11 @@
+from common import DATASET_ROOT, PROJECT_ROOT
 
 from pathlib import Path
 from collections import Counter
 import pandas as pd
 
-PROJECT_DIR = Path(r"G:\My Drive\MSC\AI\Assignment")
-DATASET_DIR = Path(r"G:\My Drive\MSC\AI\DATASEC\DATASEC")
+PROJECT_DIR = Path(PROJECT_ROOT)
+DATASET_DIR = Path(DATASET_ROOT)
 
 MANIFEST_PATH = PROJECT_DIR / "logs" / "final_split_manifest.csv"
 CLASS_MAPPING_PATH = PROJECT_DIR / "logs" / "class_mapping.csv"

@@ -12,6 +12,7 @@ import soundfile as sf
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
+from common import DATASET_ROOT
 import torchaudio
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix, f1_score
 from torch.utils.data import Dataset, DataLoader
@@ -22,7 +23,6 @@ PROJECT_ROOT = Path(__file__).resolve().parents[1]
 # Configuration
 # ---------------------------------------------------------------------
 ROOT = Path(__file__).resolve().parents[1]
-DATASET_ROOT = Path(r"G:\My Drive\MSC\AI\DATASEC\DATASEC")
 PANN_SOURCE = ROOT / "src" / "panns_source" / "pytorch"
 PRETRAINED_PATH = ROOT / "src" / "Cnn14_mAP_0.431.pth"
 MANIFEST_PATH = ROOT / "logs" / "final_split_manifest_with_subclasses.csv"
