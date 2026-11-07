@@ -1,3 +1,70 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# DataSEC dataset and other audio data
+DATASEC.zip
+*.wav
+*.WAV
+*.mp3
+*.flac
+*.ogg
+
+# Model weights and temporary downloads
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.tmp
+*.part
+
+# Generated logs and experiment outputs
+logs/*
+!logs/hierarchical_label_mapping.json
+!logs/final_split_manifest_with_subclasses.csv
+wandb/
+lightning_logs/
+
+# Generated Python and application caches
+.streamlit/cache/
+
+# Coursework documents and local assessment evidence
+Project Proposal*.docx
+Project Proposal*.pdf
+Report.docx
+~$*.docx
+Evidences/
+report/
+
+# Trained models, checkpoints and generated evaluation artefacts
+models/
+
+
+# Git metadata, including nested third-party repositories
+.git/
+
+
 *.pyc
 *.pyo
 *.tmp*
