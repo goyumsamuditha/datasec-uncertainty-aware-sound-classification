@@ -1,10 +1,11 @@
+from common import DATASET_ROOT
 
 from pathlib import Path
 import wave
 import csv
 from collections import Counter
 
-DATASET_ROOT = Path(r"G:\My Drive\MSC\AI\DATASEC\DATASEC")
+DATASET_ROOT = Path(DATASET_ROOT)
 OUTPUT_PATH = Path("logs/audio_integrity.csv")
 
 if not DATASET_ROOT.is_dir():

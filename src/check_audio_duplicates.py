@@ -1,10 +1,11 @@
+from common import DATASET_ROOT, PROJECT_ROOT
 from pathlib import Path
 import hashlib
 from collections import defaultdict
 import pandas as pd
 
 DATASET_ROOT = Path(
-    r"G:\My Drive\MSC\AI\DATASEC\DATASEC"
+    DATASET_ROOT
 )
 
 hash_groups = defaultdict(list)
@@ -41,7 +42,7 @@ if not df.empty:
     print(df.to_string(index=False))
 
 output_path = Path(
-    r"G:\My Drive\MSC\AI\Assignment\logs\audio_duplicates.csv"
+    PROJECT_ROOT / 'logs' / 'audio_duplicates.csv'
 )
 
 df.to_csv(output_path, index=False)

@@ -1,3 +1,4 @@
+from common import DATASET_ROOT, PROJECT_ROOT
 from pathlib import Path
 import hashlib
 import soundfile as sf
@@ -5,7 +6,7 @@ from collections import defaultdict
 import pandas as pd
 
 DATASET_ROOT = Path(
-    r"G:\My Drive\MSC\AI\DATASEC\DATASEC"
+    DATASET_ROOT
 )
 
 hash_groups = defaultdict(list)
@@ -57,7 +58,7 @@ if not df.empty:
     print(df.to_string(index=False))
 
 output_path = Path(
-    r"G:\My Drive\MSC\AI\Assignment\logs\waveform_duplicates.csv"
+    PROJECT_ROOT / 'logs' / 'waveform_duplicates.csv'
 )
 
 df.to_csv(output_path, index=False)

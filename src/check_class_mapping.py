@@ -1,9 +1,10 @@
+from common import DATASET_ROOT, PROJECT_ROOT
 
 from pathlib import Path
 import csv
 
-DATASET_ROOT = Path(r"G:\My Drive\MSC\AI\DATASEC\DATASEC")
-OUTPUT_FILE = Path(r"G:\My Drive\MSC\AI\Assignment\logs\class_mapping.csv")
+DATASET_ROOT = Path(DATASET_ROOT)
+OUTPUT_FILE = Path(PROJECT_ROOT / 'logs' / 'class_mapping.csv')
 
 rows = []
 
