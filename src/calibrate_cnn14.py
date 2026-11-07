@@ -21,10 +21,11 @@ sys.path.insert(0, str(ROOT / "src"))
 import train_cnn14 as training
 
 CHECKPOINT_PATH = (
-    ROOT / "models" / "cnn14_initial" / "best_model.pt"
+    ROOT / "models" / "cnn14_optimisation"
+    / "FINAL-123" / "best_model.pt"
 )
 
-OUTPUT_DIR = ROOT / "models" / "cnn14_temperature_scaling"
+OUTPUT_DIR = ROOT / "models" / "cnn14_final123_temperature_scaling"
 
 BATCH_SIZE = 4
 NUM_WORKERS = 0
