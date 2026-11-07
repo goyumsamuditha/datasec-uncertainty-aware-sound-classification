@@ -1,10 +1,11 @@
+from common import PROJECT_ROOT
 
 from pathlib import Path
 import pandas as pd
 import matplotlib.pyplot as plt
 
-LOG_DIR = Path(r"G:\My Drive\MSC\AI\Assignment\logs")
-REPORT_DIR = Path(r"G:\My Drive\MSC\AI\Assignment\report")
+LOG_DIR = Path(PROJECT_ROOT / 'logs')
+REPORT_DIR = Path(PROJECT_ROOT / 'report')
 
 df = pd.read_csv(LOG_DIR / "audio_duration_analysis.csv")
 
