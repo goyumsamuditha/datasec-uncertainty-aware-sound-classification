@@ -1,10 +1,16 @@
 from pathlib import Path
 import json
+import os
 import pandas as pd
 
 # Project locations
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-DATASET_ROOT = Path(r"G:\My Drive\MSC\AI\DATASEC\DATASEC")
+DATASET_ROOT = Path(
+    os.environ.get(
+        "DATASEC_ROOT",
+        PROJECT_ROOT.parent / "DATASEC" / "DATASEC"
+    )
+).expanduser()
 LOGS = PROJECT_ROOT / "logs"
 
 MANIFEST_PATH = LOGS / "final_split_manifest.csv"
